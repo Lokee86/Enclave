@@ -1,0 +1,263 @@
+{
+  "model": "Signals synthetic settlement temporal-contact model",
+  "seed": 20261007,
+  "runs": 10000,
+  "population": 36,
+  "duration_hours": 8.0,
+  "step_minutes": 5,
+  "possible_unique_pairs": 630,
+  "observed_unique_contact_pairs": 630,
+  "contact_episodes": 2522,
+  "aggregate_pair_contact_hours": 1416.0,
+  "assumptions": {
+    "pair_interaction_rate_per_hour": {
+      "home": 0.8,
+      "work": 0.45,
+      "commons": 1.2,
+      "transit": 0.1,
+      "social": 1.0
+    },
+    "group_interaction_rate_per_hour": {
+      "home": 0.25,
+      "work": 0.18,
+      "commons": 0.65,
+      "transit": 0.03,
+      "social": 0.5
+    },
+    "work_world_interaction_rate_per_hour": {
+      "miner": 11.0,
+      "agriculture": 9.0,
+      "maintenance": 12.0,
+      "logistics": 10.0,
+      "security": 7.0,
+      "medical": 9.0,
+      "administration": 6.0,
+      "leadership": 6.0
+    },
+    "nonwork_world_interaction_rate_per_hour": {
+      "home": 4.0,
+      "commons": 2.5,
+      "transit": 3.0,
+      "social": 1.5
+    },
+    "work_world_cognition_probability": {
+      "miner": 0.16,
+      "agriculture": 0.18,
+      "maintenance": 0.24,
+      "logistics": 0.18,
+      "security": 0.22,
+      "medical": 0.32,
+      "administration": 0.26,
+      "leadership": 0.34
+    },
+    "nonwork_world_cognition_probability": {
+      "home": 0.12,
+      "commons": 0.08,
+      "transit": 0.1,
+      "social": 0.06
+    },
+    "pair_cognitive_turn_range": {
+      "home": [
+        2,
+        5
+      ],
+      "work": [
+        1,
+        4
+      ],
+      "commons": [
+        2,
+        6
+      ],
+      "transit": [
+        1,
+        2
+      ],
+      "social": [
+        2,
+        7
+      ]
+    },
+    "group_cognitive_turn_range": {
+      "home": [
+        3,
+        8
+      ],
+      "work": [
+        3,
+        8
+      ],
+      "commons": [
+        4,
+        12
+      ],
+      "transit": [
+        2,
+        5
+      ],
+      "social": [
+        4,
+        12
+      ]
+    },
+    "relationship_weight": {
+      "household": 4.0,
+      "close": 2.5,
+      "crew": 2.0,
+      "occupation": 1.35,
+      "acquaintance": 1.0
+    }
+  },
+  "metrics": {
+    "pair_interactions": {
+      "mean": 152.6104,
+      "median": 153.0,
+      "p05": 133.0,
+      "p25": 144.0,
+      "p75": 160.0,
+      "p95": 173.0,
+      "min": 114,
+      "max": 197
+    },
+    "group_interactions": {
+      "mean": 10.2396,
+      "median": 10.0,
+      "p05": 5.0,
+      "p25": 8.0,
+      "p75": 12.0,
+      "p95": 16.0,
+      "min": 1,
+      "max": 24
+    },
+    "social_interactions": {
+      "mean": 162.85,
+      "median": 163.0,
+      "p05": 143.0,
+      "p25": 154.0,
+      "p75": 171.0,
+      "p95": 184.0,
+      "min": 119,
+      "max": 209
+    },
+    "world_interactions": {
+      "mean": 2034.1618,
+      "median": 2034.0,
+      "p05": 1962.0,
+      "p25": 2004.0,
+      "p75": 2064.0,
+      "p95": 2108.0,
+      "min": 1838,
+      "max": 2215
+    },
+    "total_interactions": {
+      "mean": 2197.0118,
+      "median": 2197.0,
+      "p05": 2122.0,
+      "p25": 2165.0,
+      "p75": 2229.0,
+      "p95": 2274.0,
+      "min": 2002,
+      "max": 2381
+    },
+    "social_cognitive_cycles": {
+      "mean": 551.7996,
+      "median": 551.0,
+      "p05": 474.0,
+      "p25": 519.0,
+      "p75": 583.0,
+      "p95": 633.0,
+      "min": 372,
+      "max": 723
+    },
+    "world_cognition_triggers": {
+      "mean": 385.8309,
+      "median": 386.0,
+      "p05": 354.0,
+      "p25": 372.0,
+      "p75": 399.0,
+      "p95": 418.0,
+      "min": 295,
+      "max": 458
+    },
+    "world_cognitive_cycles": {
+      "mean": 470.8187,
+      "median": 471.0,
+      "p05": 430.0,
+      "p25": 453.0,
+      "p75": 488.0,
+      "p95": 513.0,
+      "min": 363,
+      "max": 571
+    },
+    "total_cognitive_cycles": {
+      "mean": 1022.6183,
+      "median": 1022.0,
+      "p05": 935.0,
+      "p25": 986.0,
+      "p75": 1059.0,
+      "p95": 1112.0,
+      "min": 834,
+      "max": 1208
+    },
+    "generated_event_records": {
+      "mean": 4394.0236,
+      "median": 4394.0,
+      "p05": 4244.0,
+      "p25": 4330.0,
+      "p75": 4458.0,
+      "p95": 4548.0,
+      "min": 4004,
+      "max": 4762
+    },
+    "generated_fact_records": {
+      "mean": 4394.0236,
+      "median": 4394.0,
+      "p05": 4244.0,
+      "p25": 4330.0,
+      "p75": 4458.0,
+      "p95": 4548.0,
+      "min": 4004,
+      "max": 4762
+    },
+    "social_memory_records": {
+      "mean": 345.9205,
+      "median": 345.0,
+      "p05": 302.0,
+      "p25": 327.0,
+      "p75": 364.0,
+      "p95": 391.0,
+      "min": 244,
+      "max": 450
+    },
+    "world_memory_records": {
+      "mean": 2034.1618,
+      "median": 2034.0,
+      "p05": 1962.0,
+      "p25": 2004.0,
+      "p75": 2064.0,
+      "p95": 2108.0,
+      "min": 1838,
+      "max": 2215
+    },
+    "total_memory_records": {
+      "mean": 2380.0823,
+      "median": 2380.0,
+      "p05": 2294.0,
+      "p25": 2345.0,
+      "p75": 2416.0,
+      "p95": 2467.0,
+      "min": 2161,
+      "max": 2582
+    },
+    "total_generated_vector_records": {
+      "mean": 11168.1295,
+      "median": 11167.0,
+      "p05": 10783.0,
+      "p25": 11007.0,
+      "p75": 11328.0,
+      "p95": 11557.05,
+      "min": 10199,
+      "max": 12090
+    }
+  }
+}

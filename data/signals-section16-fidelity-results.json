@@ -1,0 +1,123 @@
+{
+  "metadata": {
+    "simulated_hours": 8,
+    "manhattan_npcs": 1664862,
+    "manhattan_participants": 38717.72093023256,
+    "signals_participants": 1,
+    "participant_activity": "4x / 244 interactions per active Participant",
+    "world_knowledge_signals": 150000,
+    "kib_per_vector_record": 9.5,
+    "usd_million_input": 1.07,
+    "usd_million_output": 5.35
+  },
+  "assumptions": {
+    "dialogue_fraction": 0.25,
+    "calls_per_dialogue": 2.0,
+    "hybrid_full_actor_equivalents": 2.5,
+    "hybrid_low_fidelity_event_fraction": 0.1,
+    "hybrid_participant_consequential_fraction": 0.25,
+    "hybrid_persistent_npc_dialogue_fraction": 0.5
+  },
+  "signals": {
+    "level1": {
+      "calls": 122.0,
+      "input": 488000.0,
+      "output": 30500.0,
+      "tokens": 518500.0,
+      "usd": 0.685335,
+      "prior_memories": 0,
+      "generated_records": 0,
+      "runtime_mib": 0.0,
+      "runtime_tib": 0.0,
+      "world_knowledge": 150000,
+      "final_records": 150000,
+      "final_gib": 1.3589859008789062
+    },
+    "level2": {
+      "calls": 122.0,
+      "input": 488000.0,
+      "output": 30500.0,
+      "tokens": 518500.0,
+      "usd": 0.685335,
+      "prior_memories": 43000,
+      "generated_records": 61.0,
+      "runtime_mib": 0.56591796875,
+      "runtime_tib": 5.397014319896698e-07,
+      "world_knowledge": 150000,
+      "final_records": 193061.0,
+      "final_gib": 1.7491145133972168
+    },
+    "level3": {
+      "calls": 1343.0,
+      "input": 3964500.0,
+      "output": 240040.0,
+      "tokens": 4204540.0,
+      "usd": 5.526229000000001,
+      "prior_memories": 44000,
+      "generated_records": 14681.0,
+      "runtime_mib": 136.20068359375,
+      "runtime_tib": 0.00012989109382033348,
+      "world_knowledge": 150000,
+      "final_records": 208681.0,
+      "final_gib": 1.8906302452087402
+    },
+    "hybrid": {
+      "calls": 192.98837209302326,
+      "input": 690122.0930232558,
+      "output": 42682.558139534885,
+      "tokens": 732804.6511627907,
+      "usd": 0.9667823255813954,
+      "prior_memories": 7000,
+      "generated_records": 2099.6000000000004,
+      "runtime_mib": 19.478710937500004,
+      "runtime_tib": 1.857634633779526e-05,
+      "world_knowledge": 150000,
+      "final_records": 159099.6,
+      "final_gib": 1.4414274215698242
+    }
+  },
+  "manhattan": {
+    "level1": {
+      "calls": 4723561.953488372,
+      "input": 18894247813.953487,
+      "output": 1180890488.372093,
+      "tokens": 20075138302.32558,
+      "usd": 26534.60927372093,
+      "prior_memories": 0,
+      "generated_records": 0,
+      "runtime_mib": 0.0,
+      "runtime_tib": 0.0
+    },
+    "level2": {
+      "calls": 4723561.953488372,
+      "input": 18894247813.953487,
+      "output": 1180890488.372093,
+      "tokens": 20075138302.32558,
+      "usd": 26534.60927372093,
+      "prior_memories": 1664862000,
+      "generated_records": 2361780.976744186,
+      "runtime_mib": 21911.05398346657,
+      "runtime_tib": 0.02089600942942292
+    },
+    "level3": {
+      "calls": 51997899.20930232,
+      "input": 153496404627.90698,
+      "output": 9293801732.093023,
+      "tokens": 162790206360.0,
+      "usd": 213962.99221855815,
+      "prior_memories": 1703579720.9302328,
+      "generated_records": 568414860.9767442,
+      "runtime_mib": 5273380.057889717,
+      "runtime_tib": 5.029087121858327
+    }
+  },
+  "hybrid_accounting": {
+    "full_background_interactions": 152.5581395348837,
+    "low_background_interactions": 2471.4418604651164,
+    "included_background_interactions": 399.70232558139537,
+    "background_rows": 1764.1000000000001,
+    "participant_rows": 335.5,
+    "background_model_calls": 70.98837209302326,
+    "participant_model_calls": 122.0
+  }
+}
