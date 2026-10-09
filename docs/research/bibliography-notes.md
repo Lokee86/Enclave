@@ -485,6 +485,20 @@ This supports the Section 4 transition we want:
 
 The sources do **not** support saying that probabilistic reasoning was nonexistent before LLMs, that all prior systems were purely deterministic, or that modern probabilistic models solve narrative authority and consistency by themselves.
 
+### 8.6 Historical pre-LLM probabilistic interpretation — §§3.10 and 4.7 (2026-10-09)
+
+The formalization bottleneck already documented in §§8.1–8.5 is directly supported. However, the assertion that earlier systems lacked efficient probabilistic assessment is not accurate without a narrowly specified application or generality threshold.
+
+- **Charniak & Goldman (1993),** [Bayesian model of plan recognition](https://doi.org/10.1016/0004-3702(93)90060-O): Bayesian plan inference implemented for story understanding. **Use:** counters universal absence. **Limit:** finite candidate interpretation structures. Publisher abstract checked.
+- **Chambers & Jurafsky (2010),** [Database of Narrative Schemas](https://aclanthology.org/L10-1029/): learned approximately 5,000 narrative events and role/event structures from raw text. **Use:** demonstrates learned (not exclusively manual) narrative representations. **Limit:** no authoritative action adjudication. ACL primary abstract checked.
+- **Thomson & Young (2010),** [Bayesian Update of Dialogue State](https://doi.org/10.1016/j.csl.2009.07.003): tractable approximate POMDP dialogue inference and policy learning. **Use:** counters blanket computational impracticality of probabilistic assessment. **Limit:** narrow modeled dialogue domain. Publisher abstract checked.
+- **Chen & Mooney (2011),** [Natural Language Navigation Instructions](https://doi.org/10.1609/aaai.v25i1.7974): learned natural-language-to-executable-plan mapping in three virtual environments. **Use:** earlier unenumerated utterance interpretation. **Limit:** bounded action/domain models and partial success. AAAI abstract checked.
+- **Yu & Riedl (2013),** [Data-Driven Personalized Drama Management](https://doi.org/10.1609/aiide.v9i1.12665): player model guiding story choices probabilistically in an evaluated narrative game. **Use:** direct narrative-specific counterexample. **Limit:** modeled choice space. AAAI abstract checked.
+
+**Already indexed:** Hayton et al. (2020) direct full-paper methods/introduction for narrative-domain model acquisition; Porteous et al. (2021) authoring alternatives and domain extension (institutional abstract); Mateas & Stern (2005) authored Façade behaviors (AAAI abstract). These provide the strongest comparison with later language-model flexibility. Separate **what must be represented and validated** from **whether uncertainty can be modeled probabilistically**.
+
+**Disposition:** historical absence **contradicted when universal**; formal domain-model authoring bottleneck **supported**; open-world reliability/threshold of generality **not demonstrated**. See [focused R2](claim-to-source-audit-2026-10-09.md#focused-research-resolution-r2--310-and-47-historical-formalization-and-probabilistic-interpretation-2026-10-09). No edits to the approved outline.
+
 ---
 
 ## 9. Section 5 research — persistent worlds and the labour cost of human gamemastering

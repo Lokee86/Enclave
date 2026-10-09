@@ -1522,7 +1522,13 @@ Cardona-Rivera, R. E., Robertson, J., Ware, S. G., Harrison, B., Roberts, D. L.,
 
 Carlini, N., Tramèr, F., Wallace, E., Jagielski, M., Herbert-Voss, A., Lee, K., Roberts, A., Brown, T., Song, D., Erlingsson, Ú., Oprea, A., & Raffel, C. (2021). Extracting training data from large language models. *Proceedings of the 30th USENIX Security Symposium*. https://www.usenix.org/conference/usenixsecurity21/presentation/carlini-extracting
 
+Chambers, N., & Jurafsky, D. (2010). A database of narrative schemas. *Proceedings of the Seventh International Conference on Language Resources and Evaluation (LREC'10)*. https://aclanthology.org/L10-1029/
+
 Chang, K. K., Cramer, M., Soni, S., & Bamman, D. (2023). Speak, memory: An archaeology of books known to ChatGPT/GPT-4. *Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing*, 7312–7327. https://doi.org/10.18653/v1/2023.emnlp-main.453
+
+Charniak, E., & Goldman, R. P. (1993). A Bayesian model of plan recognition. *Artificial Intelligence, 64*(1), 53–79. https://doi.org/10.1016/0004-3702(93)90060-O
+
+Chen, D. L., & Mooney, R. J. (2011). Learning to interpret natural language navigation instructions from observations. *Proceedings of the AAAI Conference on Artificial Intelligence, 25*(1), 859–865. https://doi.org/10.1609/aaai.v25i1.7974
 
 Chen, S., Nelson, M. J., & Mateas, M. (2009). Evaluating the authorial leverage of drama management. *Proceedings of the AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment, 5*(1), 136–141. https://doi.org/10.1609/aiide.v5i1.12377
 
@@ -1638,6 +1644,8 @@ Stanko-Kaczmarek, M., Dera, L., & Koscielska, H. (2025). “Between the Lines”
 
 Szabó, G., Krizsai, F., & Deme, A. (2026). The invisible author: Citizen sociolinguistic perspectives on identifying human and AI-generated narrative texts. *Social Sciences & Humanities Open, 13*, 102646. https://doi.org/10.1016/j.ssaho.2026.102646
 
+Thomson, B., & Young, S. (2010). Bayesian update of dialogue state: A POMDP framework for spoken dialogue systems. *Computer Speech & Language, 24*(4), 562–588. https://doi.org/10.1016/j.csl.2009.07.003
+
 Thompson, R. (2009, July 27). Why MxO live content worked. *MMORPG.com*. https://www.mmorpg.com/editorials/why-mxo-live-content-worked-2000117124
 
 Thue, D., Bulitko, V., Spetch, M., & Romanuik, T. (2011). A Computational Model of Perceived Agency in Video Games. *Proceedings of the AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment, 7*(1), 91–96. https://doi.org/10.1609/aiide.v7i1.12437
@@ -1653,3 +1661,5 @@ Williams, S. (2009, August 4). Another perspective on live content. *MMORPG.com*
 Wu, D., Wang, H., Yu, W., Zhang, Y., Chang, K.-W., & Yu, D. (2025). LongMemEval: Benchmarking chat assistants on long-term interactive memory. *Proceedings of the International Conference on Learning Representations (ICLR 2025)*. https://proceedings.iclr.cc/paper_files/paper/2025/hash/d813d324dbf0598bbdc9c8e79740ed01-Abstract-Conference.html
 
 Xu, W., Jojic, N., Rao, S., Brockett, C., & Dolan, B. (2025). Echoes in AI: Quantifying lack of plot diversity in LLM outputs. *Proceedings of the National Academy of Sciences, 122*(35), e2504966122. https://doi.org/10.1073/pnas.2504966122
+
+Yu, H., & Riedl, M. (2013). Data-driven personalized drama management. *Proceedings of the AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment, 9*(1), 191–197. https://doi.org/10.1609/aiide.v9i1.12665
