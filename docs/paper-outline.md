@@ -74,7 +74,7 @@
 - The first offers constrained consequential freedom.
 - The second offers broader activity with limited narrative consequence.
 - Both approximate a deeply reactive world without fully providing one.
-- **Support:** Stang (2019); Evans (2024).
+- **Support:** Stang (2019); Evans (2024); Sullivan (2012); Sanchez (2018).
 
 ### 2.9 Research on agency shows that the appearance of freedom can be separated from actual freedom.
 - Day & Zhu distinguish **theoretical agency** from **perceived agency**.
@@ -223,7 +223,7 @@
 - Side stories remain isolated from the principal narrative.
 - NPC reactions are restricted to manageable predefined states.
 - Unanticipated combinations simply have no meaningful response.
-- **Support:** Stang (2019); Evans (2024).
+- **Support:** Stang (2019); Evans (2024); Zaini et al. (2025); Jones & Millard (2026); Grey & Bryson (2011).
 
 ### 4.6 Perceived agency can compensate for limited causal agency, but that simulation weakens across successive replays.
 - Actual or theoretical agency and perceived agency are distinct.
@@ -283,7 +283,7 @@
   - combinations of these approaches.
 - These are rational engineering responses to the combinatorial problem.
 - The difficult part is not simply an unexpected action, but the **persistence of its unaccounted consequences and the reactions those consequences should subsequently produce**.
-- **Support:** Stang (2019); Day & Zhu (2017); Thue et al. (2011); Evans (2024); Short (2019); Failbetter Games; Alexander (2010), *Node-Based Scenario Design – Part 2: Choose Your Own Adventure*.
+- **Support:** Stang (2019); Day & Zhu (2017); Thue et al. (2011); Evans (2024); Short (2019); Failbetter Games; Alexander (2010), *Node-Based Scenario Design – Part 2: Choose Your Own Adventure*; Jones & Millard (2026); Zaini et al. (2025); Harris & Caldwell (2024).
 
 ### 4.14 Scale Exacerbates the Issue
 
@@ -536,7 +536,7 @@
   - supply routes or political plans change;
   - later authored material should acquire a different meaning because of what happened.
 - This is not a failure of sandbox design. It reflects that **systemic world consequence and persistent authored narrative consequence are different problems**.
-- **Support:** Juul (2002); Evans (2024); Ryan (2018); Adams (2021); Burgess & Jones (2023); Grinblat, Manning & Kreminski (2021), *Emergent Narrative and Reparative Play*; Jenkins (2004).
+- **Support:** Juul (2002); Evans (2024); Ryan (2018); Adams (2021); Burgess & Jones (2023); Grinblat, Manning & Kreminski (2021), *Emergent Narrative and Reparative Play*; Jenkins (2004); Alexander & Martens (2017); Harris & Caldwell (2024); Sullivan (2012); Xu et al. (2026); Sanchez (2018); Grey & Bryson (2011).
 
 ### 6.6 The Missing Capability Is a Reactive Authored Narrative Sandbox
 

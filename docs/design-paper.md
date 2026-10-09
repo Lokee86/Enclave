@@ -1506,6 +1506,8 @@ Alexander, J. (2020, October 9). The secret life of nodes. *The Alexandrian*. ht
 
 Alexander, J. (2026, February 22). Is node-based design prepping a plot? *The Alexandrian*. https://thealexandrian.net/wordpress/53341/roleplaying-games/is-node-based-design-prepping-a-plot
 
+Alexander, R., & Martens, C. (2017). Deriving quests from open world mechanics. *Proceedings of the 12th International Conference on the Foundations of Digital Games*, Article 12, 1–7. https://doi.org/10.1145/3102071.3102098
+
 Appel, M., Malecki, W. P., Messingschlager, T. V., & Winkler, J. R. (2025). I, ChatGPT: linguistic properties and human experiences of human- versus AI-generated stories. *Humanities and Social Sciences Communications, 12*, 1892. https://doi.org/10.1057/s41599-025-06341-2
 
 Bai, Y., Lv, X., Zhang, J., Lyu, H., Tang, J., Huang, Z., Du, Z., Liu, X., Zeng, A., Hou, L., Dong, Y., Tang, J., & Li, J. (2024). LongBench: A bilingual, multitask benchmark for long context understanding. *Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)*, 3119–3137. https://doi.org/10.18653/v1/2024.acl-long.172
@@ -1556,9 +1558,13 @@ Gao, L., Madaan, A., Zhou, S., Alon, U., Liu, P., Yang, Y., Callan, J., & Neubig
 
 Greenberg, D. L., & Verfaellie, M. (2010). Interdependence of episodic and semantic memory: Evidence from neuropsychology. *Journal of the International Neuropsychological Society, 16*(5), 748–753. https://doi.org/10.1017/S1355617710000676
 
+Grey, J., & Bryson, J. J. (2011). Procedural quests: A focus for agent interaction in role-playing-games. In *Proceedings of the AISB 2011 Symposium: AI & Games* (pp. 3–10). https://researchportal.bath.ac.uk/en/publications/procedural-quests-a-focus-for-agent-interaction-in-role-playing-g/
+
 Grinblat, J., Manning, C., & Kreminski, M. (2021). Emergent narrative and reparative play. In *Interactive Storytelling* (pp. 208–216). Springer. https://doi.org/10.1007/978-3-030-92300-6_19
 
 Hammond, S., Pain, H., & Smith, T. J. (2007). Player Agency in Interactive Narrative: Audience, Actor & Author. In *Proceedings of AISB '07: Artificial and Ambient Intelligence* (pp. 386–393). https://ualresearchonline.arts.ac.uk/id/eprint/21210/
+
+Harris, S., & Caldwell, N. (2024). A transfiguration paradigm for quest design. *Games and Culture, 19*(4), 493–512. https://doi.org/10.1177/15554120231170152
 
 Hayton, T., Porteous, J., Ferreira, J., & Lindsay, A. (2020). Narrative planning model acquisition from text summaries and descriptions. *Proceedings of the AAAI Conference on Artificial Intelligence, 34*(02), 1709–1716. https://doi.org/10.1609/aaai.v34i02.5534
 
@@ -1628,6 +1634,8 @@ Rowe, J. P., & Lester, J. C. (2013). A modular reinforcement learning framework 
 
 Ryan, J. (2018). *Curating simulated storyworlds* [Doctoral dissertation, University of California, Santa Cruz]. eScholarship. https://escholarship.org/uc/item/1340j5h2
 
+Sanchez, V. (2018, August 31). Narrative design on open worlds: Should we ditch missions? *Game Developer*. https://www.gamedeveloper.com/design/narrative-design-on-open-worlds-should-we-ditch-missions-
+
 Schacter, D. L. (2012). Constructive memory: Past and future. *Dialogues in Clinical Neuroscience, 14*(1), 7–18. https://doi.org/10.31887/DCNS.2012.14.1/dschacter
 
 Schacter, D. L., & Addis, D. R. (2007). The cognitive neuroscience of constructive memory: Remembering the past and imagining the future. *Philosophical Transactions of the Royal Society B: Biological Sciences, 362*(1481), 773–786. https://doi.org/10.1098/rstb.2007.2087
@@ -1648,6 +1656,8 @@ Stang, S. (2019). “This Action Will Have Consequences”: Interactivity and Pl
 
 Stanko-Kaczmarek, M., Dera, L., & Koscielska, H. (2025). “Between the Lines”: Perceptions of Poetry With Authorship Attributed to Artificial Intelligence or Humans – A Comparative Analysis. *The Journal of Creative Behavior, 59*(3), e1513. https://doi.org/10.1002/jocb.1513
 
+Sullivan, A. M. (2012). *The Grail framework: Making stories playable on three levels in CRPGs* [Doctoral dissertation, University of California, Santa Cruz]. eScholarship. https://escholarship.org/uc/item/004129jn
+
 Szabó, G., Krizsai, F., & Deme, A. (2026). The invisible author: Citizen sociolinguistic perspectives on identifying human and AI-generated narrative texts. *Social Sciences & Humanities Open, 13*, 102646. https://doi.org/10.1016/j.ssaho.2026.102646
 
 Thomson, B., & Young, S. (2010). Bayesian update of dialogue state: A POMDP framework for spoken dialogue systems. *Computer Speech & Language, 24*(4), 562–588. https://doi.org/10.1016/j.csl.2009.07.003
@@ -1666,6 +1676,10 @@ Williams, S. (2009, August 4). Another perspective on live content. *MMORPG.com*
 
 Wu, D., Wang, H., Yu, W., Zhang, Y., Chang, K.-W., & Yu, D. (2025). LongMemEval: Benchmarking chat assistants on long-term interactive memory. *Proceedings of the International Conference on Learning Representations (ICLR 2025)*. https://proceedings.iclr.cc/paper_files/paper/2025/hash/d813d324dbf0598bbdc9c8e79740ed01-Abstract-Conference.html
 
+Xu, K., Zhang, Y., Yang, B., & Verbrugge, C. (2026). Deconstructing open-world game mission design formula: A thematic analysis using an action-block framework. *Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems*, Article 450, 1–31. https://doi.org/10.1145/3772318.3790625
+
 Xu, W., Jojic, N., Rao, S., Brockett, C., & Dolan, B. (2025). Echoes in AI: Quantifying lack of plot diversity in LLM outputs. *Proceedings of the National Academy of Sciences, 122*(35), e2504966122. https://doi.org/10.1073/pnas.2504966122
 
 Yu, H., & Riedl, M. (2013). Data-driven personalized drama management. *Proceedings of the AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment, 9*(1), 191–197. https://doi.org/10.1609/aiide.v9i1.12665
+
+Zaini, A., Fowler, A., Amor, R., & Wünsche, B. C. (2025). Character-driven storytelling design for digital games: A scoping review. *Games and Culture*. https://doi.org/10.1177/15554120251380423
