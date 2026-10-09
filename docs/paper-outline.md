@@ -538,38 +538,28 @@
 - This is not a failure of sandbox design. It reflects that **systemic world consequence and persistent authored narrative consequence are different problems**.
 - **Support:** Juul (2002); Evans (2024); Ryan (2018); Adams (2021); Burgess & Jones (2023); Grinblat, Manning & Kreminski (2021), *Emergent Narrative and Reparative Play*; Jenkins (2004); Alexander & Martens (2017); Harris & Caldwell (2024); Sullivan (2012); Xu et al. (2026); Sanchez (2018); Grey & Bryson (2011).
 
-### 6.6 The Missing Capability Is a Reactive Authored Narrative Sandbox
+### 6.6 Integrating Reactive Narratives
 
-- Existing research already uses **narrative sandbox** for systems that rely heavily on emergence to produce narrative effects.
-- Enclave's narrower concern is therefore not to claim invention of narrative sandboxing itself.
-- The missing capability identified here is the ability for **deeply authored narrative structures to absorb emergent world events as persistent, meaningful inputs** without requiring every resulting reaction to be explicitly authored beforehand.
-- The systemic sandbox provides the conceptual model:
-  - developers author rules and structures rather than every resulting world state;
-  - runtime interaction determines which valid configurations actually occur.
-- The corresponding narrative question is whether authors can define:
-  - facts;
-  - actors;
-  - motivations;
-  - information;
-  - relationships;
-  - conflicts;
-  - events;
-  - constraints;
-  - intended developments;
-  - thematic structures;
-  such that those authored elements remain meaningful when participants create circumstances the author never individually enumerated.
-- This is not unrestricted procedural storytelling.
-- It is a system in which human-authored narrative material can become possible, impossible, redirected, reinterpreted, or transformed as persistent consequences accumulate.
-- Existing work already provides partial precedents:
-  - purposeful authoring for emergent narrative;
-  - narrative architecture;
-  - state-conditioned storylets;
-  - drama management and authorial leverage;
-  - social-simulation sandboxes for emergent narrative.
-- Enclave proposes to combine those ideas with the Agency–Persistence solution developed in §5.
-- **Support:** Louchart et al. (2008); Jenkins (2004); Short (2019); Failbetter Games; Chen, Nelson & Mateas (2009); Johnson-Bey, Nelson & Mateas (2022); Grinblat, Manning & Kreminski (2021).
+- Existing research and implementations have already established substantial precedents for emergent narrative, social simulation, autonomous actors, conditional authored content, persistent world state, and probabilistic interpretation.
+- The challenge is not to invent these capabilities independently, but to establish an architecture through which they can operate together in service of persistent, reactive, human-authored narrative.
+- Such an architecture must coordinate several distinct requirements:
+  - **Authored narrative structure:** Human authors define pre-existing characters, relationships, motivations, conflicts, information, institutions, intended developments, and thematic material without prescribing every sequence through which they may interact.
+  - **Authoritative causality:** Interactions produce persistent consequences governed by the world's established state and constraints, independently of probabilistic interpretation.
+  - **Situated knowledge:** Actors respond according to what they know or believe, rather than possessing unrestricted access to authoritative world state. Information can propagate, be withheld, become distorted, or remain unknown.
+  - **Interpretive flexibility:** Probabilistic cognition permits actors to interpret and respond to combinations of circumstances that were not individually anticipated or explicitly scripted.
+  - **Narrative continuity:** Changes to the world, its actors, and its distribution of information can alter the conditions under which authored plans, conflicts, relationships, and developments remain possible.
+- These requirements are interdependent. Persistent causality without situated knowledge cannot adequately represent differing actor perspectives; interpretive flexibility without authoritative state cannot guarantee coherent consequences; authored narrative disconnected from those consequences cannot remain meaningfully reactive.
+- Prior systems demonstrate individual capabilities and important combinations of them. Enclave proposes a unified architectural model organized around their interaction, rather than claiming to originate the underlying techniques.
+- The intended contribution is therefore not unrestricted procedural storytelling, nor the replacement of human authorship, but a framework through which **authored narrative possibility can respond to emergent circumstances without requiring every resulting narrative trajectory to be explicitly constructed**.
+- Whether this integration produces greater authorial leverage, narrative fidelity, or computational efficiency remains a question for formal analysis and implementation.
 
-- **Transition:** Sandbox systems already demonstrate that authors can construct a bounded substrate capable of generating outcomes they did not individually enumerate. The remaining question is what architecture allows authored **narrative meaning** to behave the same way while preserving state, authority, information, and intent.
+**Research foundations:** Louchart et al. (2008); Jenkins (2004); Short (2019); Chen, Nelson & Mateas (2009); Johnson-Bey, Nelson & Mateas (2022); Grinblat, Manning & Kreminski (2021).
+
+**Additional comparative precedents:** McCoy et al. (2011, 2013); Evans & Short (2014); Vezhnevets et al. (2023).
+
+**Detailed comparison:** [Appendix C — Prior Art and Architectural Integration](appendix-prior-art-architectural-integration-outline.md).
+
+**Transition:** Section 7 introduces Enclave as a proposed architecture for coordinating authored narrative structures, authoritative world state, situated knowledge, and reactive Actors within a single persistent system.
 
 → **§7. The Enclave System: Overview**
 
@@ -3302,6 +3292,10 @@ These are estimated volumes of model-driven Actor inference, not Participant cog
 
 ---
 
-## Appendix C — The Replay Horizon: Epistemic Discovery and the Limits of Perceived Agency
+## Appendix C — Prior Art and Architectural Integration
+
+> **Working appendix:** [Prior Art and Architectural Integration outline](appendix-prior-art-architectural-integration-outline.md). A source-grounded comparison of earlier narrative systems, contemporary agent-native worlds, established computational foundations, and Enclave's proposed integration contracts. Supports §6.6 without claiming invention of underlying mechanisms or verified superiority.
+
+## Appendix D — The Replay Horizon: Epistemic Discovery and the Limits of Perceived Agency
 
 > **Working appendix:** [The Replay Horizon outline](appendix-replay-horizon-outline.md). A theoretical extension of §4.6 examining initial increases in perceived agency, the eventual exhaustion of discoverable outcomes in fixed finite narrative systems, epistemic calibration, and the still-unproven psychological effect of discovering reconvergence.

@@ -1512,13 +1512,19 @@ Appel, M., Malecki, W. P., Messingschlager, T. V., & Winkler, J. R. (2025). I, C
 
 Bai, Y., Lv, X., Zhang, J., Lyu, H., Tang, J., Huang, Z., Du, Z., Liu, X., Zeng, A., Hou, L., Dong, Y., Tang, J., & Li, J. (2024). LongBench: A bilingual, multitask benchmark for long context understanding. *Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)*, 3119–3137. https://doi.org/10.18653/v1/2024.acl-long.172
 
+Baltag, A., & Renne, B. (2016). Dynamic epistemic logic. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/dynamic-epistemic/
+
 Bellaiche, L., Shahi, R., Turpin, M. H., Ragnhildstveit, A., Sprockett, S., Barr, N., Christensen, A., & Seli, P. (2023). Humans versus AI: whether and why we prefer human-created compared to AI-created artwork. *Cognitive Research: Principles and Implications, 8*, 42. https://doi.org/10.1186/s41235-023-00499-6
 
 Brown, J. (2000, September 21). Volunteer revolt. *Salon*. https://www.salon.com/2000/09/21/ultima_volunteers/
 
+Buneman, P., Khanna, S., & Tan, W.-C. (2001). Why and where: A characterization of data provenance. In *Database Theory—ICDT 2001* (Lecture Notes in Computer Science, Vol. 1973, pp. 316–330). Springer. https://doi.org/10.1007/3-540-44503-X_20
+
 Burgess, J., & Jones, C. M. (2023). Exploring how players use emergent narrative in strategy games. *Entertainment Computing, 44*, 100533. https://doi.org/10.1016/j.entcom.2022.100533
 
 Buschman, T. J. (2021). Balancing flexibility and interference in working memory. *Annual Review of Vision Science, 7*, 367–388. https://doi.org/10.1146/annurev-vision-100419-104831
+
+Canonvale. (n.d.). *Canonvale* [Product description; closed-alpha claims]. https://canonvale.com/
 
 Cardona-Rivera, R. E., Robertson, J., Ware, S. G., Harrison, B., Roberts, D. L., & Young, R. M. (2014). Foreseeing meaningful choices. *Proceedings of the AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment, 10*(1), 9–15. https://doi.org/10.1609/aiide.v10i1.12716
 
@@ -1546,6 +1552,8 @@ Day, T., & Zhu, J. (2017). Agency informing techniques: Communicating player age
 
 Evans, M. (2024). Too Afraid to Go Deeper: Creating Pervasive Dread Through Blended Design Structures in *Subnautica* and *Subnautica: Below Zero*. *Game Studies, 24*(4). https://gamestudies.org/2404/articles/evans
 
+Evans, R., & Short, E. (2014). Versu—A simulationist storytelling system. *IEEE Transactions on Computational Intelligence and AI in Games, 6*(2), 113–130. https://doi.org/10.1109/TCIAIG.2013.2287297
+
 Failbetter Games. (2010, March 3). Echo Bazaar narrative structures, part two. https://www.failbettergames.com/news/echo-bazaar-narrative-structures-part-two
 
 Failbetter Games. (2012, August 5). StoryNexus developer diary #2: Fewer spreadsheets, less swearing. https://www.failbettergames.com/news/storynexus-developer-diary-2-fewer-spreadsheets-less-swearing
@@ -1554,7 +1562,13 @@ Fendt, M. W., Harrison, B., Ware, S. G., Cardona-Rivera, R. E., & Roberts, D. L.
 
 Fisher, M. (2022). Narrative planning in large domains through state abstraction and option discovery. *Proceedings of the AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment, 18*(1), 299–302. https://doi.org/10.1609/aiide.v18i1.21979
 
+Fong, P. W. L. (2011). Relationship-based access control: Protection model and policy language. In *Proceedings of the First ACM Conference on Data and Application Security and Privacy* (pp. 191–202). ACM. https://doi.org/10.1145/1943513.1943539
+
+Fowler, M. (2005, December 12). Event sourcing. *Martin Fowler*. https://martinfowler.com/eaaDev/EventSourcing.html
+
 Gao, L., Madaan, A., Zhou, S., Alon, U., Liu, P., Yang, Y., Callan, J., & Neubig, G. (2023). PAL: Program-aided language models. *Proceedings of the 40th International Conference on Machine Learning, 202*, 10764–10799. https://proceedings.mlr.press/v202/gao23f.html
+
+Google DeepMind. (n.d.). *Concordia: A library for generative social simulation* [Source code and documentation]. GitHub. https://github.com/google-deepmind/concordia
 
 Greenberg, D. L., & Verfaellie, M. (2010). Interdependence of episodic and semantic memory: Evidence from neuropsychology. *Journal of the International Neuropsychological Society, 16*(5), 748–753. https://doi.org/10.1017/S1355617710000676
 
@@ -1573,6 +1587,8 @@ Hogan, D. P., & Brennen, A. (2024). Open-ended wargames with large language mode
 Hsieh, C.-P., Sun, S., Kriman, S., Acharya, S., Rekesh, D., Jia, F., Zhang, Y., & Ginsburg, B. (2024). RULER: What's the real context size of your long-context language models? *arXiv preprint arXiv:2404.06654*. https://arxiv.org/abs/2404.06654
 
 Hu, S., Huang, T., Liu, G., Kompella, R. R., Ilhan, F., Tekin, S. F., Xu, Y., Yahn, Z., & Liu, L. (2024). A survey on large language model-based game agents. *arXiv preprint arXiv:2404.02039*. https://doi.org/10.48550/arXiv.2404.02039
+
+Hu, V. C., Ferraiolo, D., Kuhn, R., Schnitzer, A., Sandlin, K., Miller, R., & Scarfone, K. (2019). *Guide to attribute based access control (ABAC) definition and considerations* (NIST Special Publication 800-162; updated August 2, 2019). National Institute of Standards and Technology. https://doi.org/10.6028/NIST.SP.800-162
 
 Iovino, M., Scukins, E., Styrud, J., Ögren, P., & Smith, C. (2022). A survey of behavior trees in robotics and AI. *Robotics and Autonomous Systems, 154*, 104096. https://doi.org/10.1016/j.robot.2022.104096
 
@@ -1603,6 +1619,12 @@ Marco, G., Gonzalo, J., & Fresno, V. (2025). The Reader is the Metric: How Textu
 Marra, G., Dumančić, S., Manhaeve, R., & De Raedt, L. (2024). From statistical relational to neurosymbolic artificial intelligence: A survey. *Artificial Intelligence, 328*, 104062. https://doi.org/10.1016/j.artint.2023.104062
 
 Mateas, M., & Stern, A. (2005). Structuring content in the Façade interactive drama architecture. *Proceedings of the AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment, 1*(1), 93–98. https://doi.org/10.1609/aiide.v1i1.18722
+
+McCoy, J., Treanor, M., Samuel, B., Wardrip-Fruin, N., & Mateas, M. (2011). Comme il Faut: A system for authoring playable social models. *Proceedings of the AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment, 7*(1), 158–163. https://doi.org/10.1609/aiide.v7i1.12454
+
+McCoy, J., Treanor, M., Samuel, B., Reed, A., Mateas, M., & Wardrip-Fruin, N. (2013). Prom Week. *Proceedings of the AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment, 9*(1), 207–208. https://doi.org/10.1609/aiide.v9i1.12662
+
+N0819. (n.d.). *Sonder Engine* [Source code and architecture documentation]. GitHub. https://github.com/N0819/Sonder_Engine
 
 Nelson, M. J., Ashmore, C., & Mateas, M. (2006). Authoring an interactive narrative with declarative optimization-based drama management. *Proceedings of the AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment, 2*(1), 127–129. https://doi.org/10.1609/aiide.v2i1.18761
 
@@ -1660,6 +1682,8 @@ Sullivan, A. M. (2012). *The Grail framework: Making stories playable on three l
 
 Szabó, G., Krizsai, F., & Deme, A. (2026). The invisible author: Citizen sociolinguistic perspectives on identifying human and AI-generated narrative texts. *Social Sciences & Humanities Open, 13*, 102646. https://doi.org/10.1016/j.ssaho.2026.102646
 
+thalismind. (n.d.). *Bunnyland server* [Source code and world-contract documentation]. GitHub. https://github.com/thalismind/bunnyland-server
+
 Thomson, B., & Young, S. (2010). Bayesian update of dialogue state: A POMDP framework for spoken dialogue systems. *Computer Speech & Language, 24*(4), 562–588. https://doi.org/10.1016/j.csl.2009.07.003
 
 Thompson, R. (2009, July 27). Why MxO live content worked. *MMORPG.com*. https://www.mmorpg.com/editorials/why-mxo-live-content-worked-2000117124
@@ -1669,6 +1693,8 @@ Thue, D., Bulitko, V., Spetch, M., & Romanuik, T. (2011). A Computational Model 
 Tian, Y., Huang, T., Liu, M., Jiang, D., Spangher, A., Chen, M., May, J., & Peng, N. (2024). Are Large Language Models Capable of Generating Human-Level Narratives? *Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing*, 17659–17681. https://doi.org/10.18653/v1/2024.emnlp-main.978
 
 Tulving, E. (2002). Episodic memory: From mind to brain. *Annual Review of Psychology, 53*, 1–25. https://doi.org/10.1146/annurev.psych.53.100901.135114
+
+Vezhnevets, A. S., Agapiou, J. P., Aharon, A., Ziv, R., Matyas, J., Duéñez-Guzmán, E. A., Cunningham, W. A., Osindero, S., Karmon, D., & Leibo, J. Z. (2023). Generative agent-based modeling with actions grounded in physical, social, or digital space using Concordia. *arXiv preprint arXiv:2312.03664*. https://arxiv.org/abs/2312.03664
 
 Wang, D., Huang, D., Shen, H., & Uzzi, B. (2026). A large-scale comparison of divergent creativity in humans and large language models. *Nature Human Behaviour, 10*, 531–540. https://doi.org/10.1038/s41562-025-02331-1
 

@@ -1,8 +1,8 @@
-# Appendix C — The Replay Horizon: Epistemic Discovery and the Limits of Perceived Agency
+# Appendix D — The Replay Horizon: Epistemic Discovery and the Limits of Perceived Agency
 
 > **Working appendix outline.** This appendix develops the argument introduced in §4.6 without altering that section. It separates (1) observable limits of fixed authored narrative structures, (2) a Participant's growing knowledge of those limits, and (3) the empirical question of how that knowledge changes perceived agency. It is a theoretical supplement, not a claim that a replay-dependent psychological decline has already been demonstrated.
 
-## C.1 Perceived Agency, Causal Agency, and Epistemic Possibility
+## D.1 Perceived Agency, Causal Agency, and Epistemic Possibility
 
 - **Causal agency** concerns which different, persistent consequences a Participant can actually produce through their choices under the world rules.
 - **Perceived agency** concerns the Participant's subjective experience of having meaningful influence. Immediate acknowledgement, framing, and feedback can affect it without altering later world state.
@@ -15,7 +15,7 @@
 - Distinguish novelty, enjoyment, replay value, perceived influence, and actual consequence. A decline in one does not prove a decline in another.
 - **Research boundary:** [Day & Zhu (2017)](https://doi.org/10.1145/3102071.3106363), [Thue et al. (2011)](https://doi.org/10.1609/aiide.v7i1.12437), [Fendt et al. (2012)](https://doi.org/10.1007/978-3-642-34851-8_11), and [Cardona-Rivera et al. (2014)](https://doi.org/10.1609/aiide.v10i1.12716) provide related agency concepts and bounded empirical results, not a completed theory of replay exhaustion.
 
-## C.2 The Initial Discovery Effect
+## D.2 The Initial Discovery Effect
 
 - **First encounter:** the Participant sees only one realized trajectory and may reasonably suppose that alternative choices would produce meaningfully different consequences.
 - **Second encounter:** choosing differently can reveal that the system responds, providing positive evidence of influence that was previously only anticipated.
@@ -28,7 +28,7 @@
 - **[Roth & Vermeulen (2013)](https://doi.org/10.1007/978-3-319-02756-2_20)** analyzed *Façade* user behavior in the same replay research program and found less in-character input on second exposure: a Participant may learn how to work within an interface while simultaneously learning its limitations. This is not an independent replication of the 2012 sample.
 - **Crucial qualification:** the source evidence covers two exposures in one environment, not a long series of playthroughs or a direct manipulation of revealed reconvergence.
 
-## C.3 Narrative Exhaustion and the Replay Horizon
+## D.3 Narrative Exhaustion and the Replay Horizon
 
 - A **fixed authored branching narrative** can be represented as a finite set of distinguishable consequential outcomes under a declared observation window and criterion of difference. This does **not** assert that every interactive world or generative system has a tractably finite space.
 - Define:
@@ -44,7 +44,7 @@
   - In very large spaces, the horizon may never be reached by a typical Participant.
 - Separate exhaustion of **new discoveries** from persistence of the **ability to select already-known outcomes**.
 
-## C.4 Epistemic Calibration and Convergence
+## D.4 Epistemic Calibration and Convergence
 
 - The Participant constructs a mental model of the system's possible consequences. That model can initially understate or overstate the system's actual branching and causal boundaries.
 - Repeated interaction supplies observations that can calibrate the mental model:
@@ -62,7 +62,7 @@
 - **[Cardona-Rivera et al. (2014)](https://doi.org/10.1609/aiide.v10i1.12716)** found that anticipated meaningful differences between choices matter for agency judgments. It does not demonstrate a replay-dependent decline.
 - **[Jones & Millard (2026)](https://doi.org/10.1145/3757746), §7.5.1**, explicitly question whether illusion-of-agency results hold after participants learn that choices lack wider consequences; treat this as a reasoned research observation, **not** a measured longitudinal effect. Their 2026 journal paper extends the same authorial-burden research stream as their cited 2024 conference paper.
 
-## C.5 Consequences for Reactive Narrative Architectures
+## D.5 Consequences for Reactive Narrative Architectures
 
 - Traditional fixed branching represents consequential alternatives primarily through authored conditional paths, scenes, flags, or outcome structures. Reconvergence is often an intentional and useful design technique.
 - Such systems are not necessarily shallow: a finite system can contain substantial meaningful variation, and a player can preserve meaningful choice among known outcomes.
@@ -80,7 +80,7 @@
 - The theoretically relevant comparison is **consequence diversity under repeated intervention**, not raw counts of text generations, endings, or dialogue variations.
 - Connect the appendix to §§4.6, 5, 7, 8, 12 and 13 without recasting Enclave's architectural proposal as an experimentally demonstrated replay outcome.
 
-## C.6 Testable Predictions and Research Design
+## D.6 Testable Predictions and Research Design
 
 - Distinguish the following candidate hypotheses:
   - **H1 — initial discovery:** an alternative playthrough revealing meaningful differences can increase perceived agency relative to the first exposure.
@@ -98,7 +98,7 @@
 - A cross-sectional comparison of first-time and tenth-time players would be weaker than within-participant trajectories or randomized revelation of narrative constraints.
 - Negative or mixed findings would be informative: participants may learn the system, value known outcomes, and experience agency without novelty.
 
-## C.7 Evidentiary and Editorial Boundaries
+## D.7 Evidentiary and Editorial Boundaries
 
 - **Deductive result:** under the stated fixed, finite, exhaustively explored outcome model, undiscovered outcome classes eventually reach zero.
 - **Empirical results:** agency can differ from underlying causal divergence; feedback and anticipated meaningful consequences affect agency ratings in bounded experimental settings; effectance increased over two *Façade* exposures in one study.
@@ -110,6 +110,6 @@
 ### Evidence provenance and publication references
 
 - The five appendix-specific references are now integrated into the **single alphabetized bibliography** in [the design paper](design-paper.md#bibliography). References are linked at their relevant claims above rather than duplicated in a separate appendix bibliography.
-- Their study designs, claims, limitations, source-access records and relationship to the 2024 Jones & Millard paper are documented in [research bibliography notes, §13](research/bibliography-notes.md#13-appendix-c-research--the-replay-horizon-and-perceived-agency).
+- Their study designs, claims, limitations, source-access records and relationship to the 2024 Jones & Millard paper are documented in [research bibliography notes, §13](research/bibliography-notes.md#13-appendix-d-research--the-replay-horizon-and-perceived-agency).
 - The complete issue-specific evaluation remains in the [focused R1 audit](research/claim-to-source-audit-2026-10-09.md#focused-research-resolution-r1--46-repeated-play-reconvergence-and-perceived-agency-2026-10-09).
 - **Status:** Working theoretical appendix outline. The evidence is cited and catalogued, but the long-horizon replay hypothesis remains unverified. **§4.6 has not been rewritten.**
