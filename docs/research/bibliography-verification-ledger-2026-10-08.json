@@ -1,0 +1,782 @@
+{
+  "audit_date": "2026-10-08",
+  "scope": "Identity and metadata audit, not full-text claim-level review",
+  "counts": {
+    "DOI bibliographic identity matched": 42,
+    "original source page title matched": 35,
+    "original source page reviewed": 6,
+    "journal/conference date independently resolved": 5,
+    "indexed source corroborated; direct fetch blocked": 4
+  },
+  "references": [
+    {
+      "number": 1,
+      "reference": "Adams, T. (2021). Characterization and emergent narrative in Dwarf Fortress. In B. Suter, R. Bauer, & M. Kocher (Eds.), *Narrative Mechanics: Strategies and Meanings in Games and Real Life* (pp. 151–160). transcript Verlag. https://doi.org/10.1515/9783839453452-007",
+      "url": "https://doi.org/10.1515/9783839453452-007",
+      "doi": "10.1515/9783839453452-007",
+      "verification": "DOI bibliographic identity matched",
+      "notes": []
+    },
+    {
+      "number": 2,
+      "reference": "Agarwal, D., Naaman, M., & Vashistha, A. (2025). AI suggestions homogenize writing toward Western styles and diminish cultural nuances. *Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems*, Article 1117, 1–21. https://doi.org/10.1145/3706598.3713564",
+      "url": "https://doi.org/10.1145/3706598.3713564",
+      "doi": "10.1145/3706598.3713564",
+      "verification": "DOI bibliographic identity matched",
+      "notes": []
+    },
+    {
+      "number": 3,
+      "reference": "Alexander, J. (2008, May 8). Three Clue Rule. *The Alexandrian*. https://thealexandrian.net/wordpress/1118/roleplaying-games/three-clue-rule",
+      "url": "https://thealexandrian.net/wordpress/1118/roleplaying-games/three-clue-rule",
+      "doi": null,
+      "verification": "original source page title matched",
+      "notes": []
+    },
+    {
+      "number": 4,
+      "reference": "Alexander, J. (2009, March 23). Don’t prep plots. *The Alexandrian*. https://thealexandrian.net/wordpress/4147/roleplaying-games/dont-prep-plots",
+      "url": "https://thealexandrian.net/wordpress/4147/roleplaying-games/dont-prep-plots",
+      "doi": null,
+      "verification": "original source page title matched",
+      "notes": []
+    },
+    {
+      "number": 5,
+      "reference": "Alexander, J. (2009, March 23). Don’t prep plots: Prepping scenario timelines. *The Alexandrian*. https://thealexandrian.net/wordpress/4154/roleplaying-games/dont-prep-plots-prepping-scenario-timelines",
+      "url": "https://thealexandrian.net/wordpress/4154/roleplaying-games/dont-prep-plots-prepping-scenario-timelines",
+      "doi": null,
+      "verification": "original source page title matched",
+      "notes": []
+    },
+    {
+      "number": 6,
+      "reference": "Alexander, J. (2010, May 27). Node-based scenario design – Part 1: The plotted approach. *The Alexandrian*. https://thealexandrian.net/wordpress/7949/roleplaying-games/node-based-scenario-design-part-1-the-plotted-approach",
+      "url": "https://thealexandrian.net/wordpress/7949/roleplaying-games/node-based-scenario-design-part-1-the-plotted-approach",
+      "doi": null,
+      "verification": "original source page title matched",
+      "notes": []
+    },
+    {
+      "number": 7,
+      "reference": "Alexander, J. (2010, May 28). Node-based scenario design – Part 2: Choose your own adventure. *The Alexandrian*. https://thealexandrian.net/wordpress/7961/roleplaying-games/node-based-scenario-design-part-2-choose-your-own-adventure",
+      "url": "https://thealexandrian.net/wordpress/7961/roleplaying-games/node-based-scenario-design-part-2-choose-your-own-adventure",
+      "doi": null,
+      "verification": "original source page title matched",
+      "notes": []
+    },
+    {
+      "number": 8,
+      "reference": "Alexander, J. (2010, May 31). Node-based scenario design – Part 3: Inverting the Three Clue Rule. *The Alexandrian*. https://thealexandrian.net/wordpress/7985/roleplaying-games/node-based-scenario-design-part-3-inverting-the-three-clue-rule",
+      "url": "https://thealexandrian.net/wordpress/7985/roleplaying-games/node-based-scenario-design-part-3-inverting-the-three-clue-rule",
+      "doi": null,
+      "verification": "original source page title matched",
+      "notes": []
+    },
+    {
+      "number": 9,
+      "reference": "Alexander, J. (2010, June 4). Node-based scenario design – Part 5: Plot vs. node. *The Alexandrian*. https://thealexandrian.net/wordpress/8008/roleplaying-games/node-based-scenario-design-part-5-plot-vs-node",
+      "url": "https://thealexandrian.net/wordpress/8008/roleplaying-games/node-based-scenario-design-part-5-plot-vs-node",
+      "doi": null,
+      "verification": "original source page title matched",
+      "notes": []
+    },
+    {
+      "number": 10,
+      "reference": "Alexander, J. (2010, June 14). Node-based scenario design – Part 9: Types of nodes. *The Alexandrian*. https://thealexandrian.net/wordpress/8049/roleplaying-games/node-based-scenario-design-part-9-types-of-nodes",
+      "url": "https://thealexandrian.net/wordpress/8049/roleplaying-games/node-based-scenario-design-part-9-types-of-nodes",
+      "doi": null,
+      "verification": "original source page title matched",
+      "notes": []
+    },
+    {
+      "number": 11,
+      "reference": "Alexander, J. (2011, October 3). Advanced node-based design – Part 1: Moving between nodes. *The Alexandrian*. https://thealexandrian.net/wordpress/8171/roleplaying-games/advanced-node-based-design-part-1-moving-between-nodes",
+      "url": "https://thealexandrian.net/wordpress/8171/roleplaying-games/advanced-node-based-design-part-1-moving-between-nodes",
+      "doi": null,
+      "verification": "original source page title matched",
+      "notes": []
+    },
+    {
+      "number": 12,
+      "reference": "Alexander, J. (2011, October 17). Advanced node-based design – Part 5: The two prongs of mystery design. *The Alexandrian*. https://thealexandrian.net/wordpress/8202/roleplaying-games/advanced-node-based-design-part-5-the-two-prongs-of-mystery-design",
+      "url": "https://thealexandrian.net/wordpress/8202/roleplaying-games/advanced-node-based-design-part-5-the-two-prongs-of-mystery-design",
+      "doi": null,
+      "verification": "original source page title matched",
+      "notes": []
+    },
+    {
+      "number": 13,
+      "reference": "Alexander, J. (2012, April 2). Game structures. *The Alexandrian*. https://thealexandrian.net/wordpress/15126/roleplaying-games/game-structures",
+      "url": "https://thealexandrian.net/wordpress/15126/roleplaying-games/game-structures",
+      "doi": null,
+      "verification": "original source page title matched",
+      "notes": []
+    },
+    {
+      "number": 14,
+      "reference": "Alexander, J. (2015, June 18). Don’t prep plots – Tools, not contingencies. *The Alexandrian*. https://thealexandrian.net/wordpress/37422/roleplaying-games/dont-prep-plots-tools-not-contingencies",
+      "url": "https://thealexandrian.net/wordpress/37422/roleplaying-games/dont-prep-plots-tools-not-contingencies",
+      "doi": null,
+      "verification": "original source page title matched",
+      "notes": []
+    },
+    {
+      "number": 15,
+      "reference": "Alexander, J. (2015, January 5). Don’t prep plots – “You will rue this day, heroes!” (The principles of RPG villainy). *The Alexandrian*. https://thealexandrian.net/wordpress/36383/roleplaying-games/dont-prep-plots-you-will-rue-this-day-heroes-the-principles-of-rpg-villainy",
+      "url": "https://thealexandrian.net/wordpress/36383/roleplaying-games/dont-prep-plots-you-will-rue-this-day-heroes-the-principles-of-rpg-villainy",
+      "doi": null,
+      "verification": "original source page title matched",
+      "notes": []
+    },
+    {
+      "number": 16,
+      "reference": "Alexander, J. (2018, October 29). Random GM tip – Using revelation lists. *The Alexandrian*. https://thealexandrian.net/wordpress/40978/roleplaying-games/random-gm-tip-using-revelation-lists",
+      "url": "https://thealexandrian.net/wordpress/40978/roleplaying-games/random-gm-tip-using-revelation-lists",
+      "doi": null,
+      "verification": "original source page reviewed",
+      "notes": [
+        "Full original headline restored."
+      ]
+    },
+    {
+      "number": 17,
+      "reference": "Alexander, J. (2018, May 26). Smart prep. *The Alexandrian*. https://thealexandrian.net/wordpress/39885/roleplaying-games/smart-prep",
+      "url": "https://thealexandrian.net/wordpress/39885/roleplaying-games/smart-prep",
+      "doi": null,
+      "verification": "original source page title matched",
+      "notes": []
+    },
+    {
+      "number": 18,
+      "reference": "Alexander, J. (2020, October 14). The secret life of nodes – Part 2: Node-based campaigns. *The Alexandrian*. https://thealexandrian.net/wordpress/45268/roleplaying-games/the-secret-life-of-nodes-part-2-node-based-campaigns",
+      "url": "https://thealexandrian.net/wordpress/45268/roleplaying-games/the-secret-life-of-nodes-part-2-node-based-campaigns",
+      "doi": null,
+      "verification": "original source page title matched",
+      "notes": []
+    },
+    {
+      "number": 19,
+      "reference": "Alexander, J. (2020, October 21). The secret life of nodes – Part 3: Fractal nodes. *The Alexandrian*. https://thealexandrian.net/wordpress/45272/roleplaying-games/the-secret-life-of-nodes-part-3-fractal-nodes",
+      "url": "https://thealexandrian.net/wordpress/45272/roleplaying-games/the-secret-life-of-nodes-part-3-fractal-nodes",
+      "doi": null,
+      "verification": "original source page title matched",
+      "notes": []
+    },
+    {
+      "number": 20,
+      "reference": "Alexander, J. (2020, October 28). The secret life of nodes – Part 4: Nodes aren’t everything. *The Alexandrian*. https://thealexandrian.net/wordpress/45278/roleplaying-games/the-secret-life-of-nodes-part-4-nodes-arent-everything",
+      "url": "https://thealexandrian.net/wordpress/45278/roleplaying-games/the-secret-life-of-nodes-part-4-nodes-arent-everything",
+      "doi": null,
+      "verification": "original source page title matched",
+      "notes": []
+    },
+    {
+      "number": 21,
+      "reference": "Alexander, J. (2020, November 4). The secret life of nodes – Part 5: Naturalistic node design. *The Alexandrian*. https://thealexandrian.net/wordpress/45283/roleplaying-games/the-secret-life-of-nodes-part-5-naturalistic-node-design",
+      "url": "https://thealexandrian.net/wordpress/45283/roleplaying-games/the-secret-life-of-nodes-part-5-naturalistic-node-design",
+      "doi": null,
+      "verification": "original source page title matched",
+      "notes": []
+    },
+    {
+      "number": 22,
+      "reference": "Alexander, J. (2020, October 9). The secret life of nodes. *The Alexandrian*. https://thealexandrian.net/wordpress/45263/roleplaying-games/the-secret-life-of-nodes",
+      "url": "https://thealexandrian.net/wordpress/45263/roleplaying-games/the-secret-life-of-nodes",
+      "doi": null,
+      "verification": "original source page title matched",
+      "notes": []
+    },
+    {
+      "number": 23,
+      "reference": "Alexander, J. (2026, February 22). Is node-based design prepping a plot? *The Alexandrian*. https://thealexandrian.net/wordpress/53341/roleplaying-games/is-node-based-design-prepping-a-plot",
+      "url": "https://thealexandrian.net/wordpress/53341/roleplaying-games/is-node-based-design-prepping-a-plot",
+      "doi": null,
+      "verification": "original source page title matched",
+      "notes": []
+    },
+    {
+      "number": 24,
+      "reference": "Appel, M., Malecki, W. P., Messingschlager, T. V., & Winkler, J. R. (2025). I, ChatGPT: linguistic properties and human experiences of human- versus AI-generated stories. *Humanities and Social Sciences Communications, 12*, 1892. https://doi.org/10.1057/s41599-025-06341-2",
+      "url": "https://doi.org/10.1057/s41599-025-06341-2",
+      "doi": "10.1057/s41599-025-06341-2",
+      "verification": "DOI bibliographic identity matched",
+      "notes": []
+    },
+    {
+      "number": 25,
+      "reference": "Bai, Y., Lv, X., Zhang, J., Lyu, H., Tang, J., Huang, Z., Du, Z., Liu, X., Zeng, A., Hou, L., Dong, Y., Tang, J., & Li, J. (2024). LongBench: A bilingual, multitask benchmark for long context understanding. *Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)*, 3119–3137. https://doi.org/10.18653/v1/2024.acl-long.172",
+      "url": "https://doi.org/10.18653/v1/2024.acl-long.172",
+      "doi": "10.18653/v1/2024.acl-long.172",
+      "verification": "DOI bibliographic identity matched",
+      "notes": []
+    },
+    {
+      "number": 26,
+      "reference": "Bellaiche, L., Shahi, R., Turpin, M. H., Ragnhildstveit, A., Sprockett, S., Barr, N., Christensen, A., & Seli, P. (2023). Humans versus AI: whether and why we prefer human-created compared to AI-created artwork. *Cognitive Research: Principles and Implications, 8*, 42. https://doi.org/10.1186/s41235-023-00499-6",
+      "url": "https://doi.org/10.1186/s41235-023-00499-6",
+      "doi": "10.1186/s41235-023-00499-6",
+      "verification": "DOI bibliographic identity matched",
+      "notes": []
+    },
+    {
+      "number": 27,
+      "reference": "Brown, J. (2000, September 21). Volunteer revolt. *Salon*. https://www.salon.com/2000/09/21/ultima_volunteers/",
+      "url": "https://www.salon.com/2000/09/21/ultima_volunteers/",
+      "doi": null,
+      "verification": "original source page reviewed",
+      "notes": []
+    },
+    {
+      "number": 28,
+      "reference": "Burgess, J., & Jones, C. M. (2023). Exploring how players use emergent narrative in strategy games. *Entertainment Computing, 44*, 100533. https://doi.org/10.1016/j.entcom.2022.100533",
+      "url": "https://doi.org/10.1016/j.entcom.2022.100533",
+      "doi": "10.1016/j.entcom.2022.100533",
+      "verification": "journal/conference date independently resolved",
+      "notes": [
+        "Early online 2022; Elsevier Volume 44 issued January 2023; 2023 citation correct."
+      ]
+    },
+    {
+      "number": 29,
+      "reference": "Buschman, T. J. (2021). Balancing flexibility and interference in working memory. *Annual Review of Vision Science, 7*, 367–388. https://doi.org/10.1146/annurev-vision-100419-104831",
+      "url": "https://doi.org/10.1146/annurev-vision-100419-104831",
+      "doi": "10.1146/annurev-vision-100419-104831",
+      "verification": "DOI bibliographic identity matched",
+      "notes": []
+    },
+    {
+      "number": 30,
+      "reference": "Carlini, N., Tramèr, F., Wallace, E., Jagielski, M., Herbert-Voss, A., Lee, K., Roberts, A., Brown, T., Song, D., Erlingsson, Ú., Oprea, A., & Raffel, C. (2021). Extracting training data from large language models. *Proceedings of the 30th USENIX Security Symposium*. https://www.usenix.org/conference/usenixsecurity21/presentation/carlini-extracting",
+      "url": "https://www.usenix.org/conference/usenixsecurity21/presentation/carlini-extracting",
+      "doi": null,
+      "verification": "original source page title matched",
+      "notes": []
+    },
+    {
+      "number": 31,
+      "reference": "Chang, K. K., Cramer, M., Soni, S., & Bamman, D. (2023). Speak, memory: An archaeology of books known to ChatGPT/GPT-4. *Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing*, 7312–7327. https://doi.org/10.18653/v1/2023.emnlp-main.453",
+      "url": "https://doi.org/10.18653/v1/2023.emnlp-main.453",
+      "doi": "10.18653/v1/2023.emnlp-main.453",
+      "verification": "DOI bibliographic identity matched",
+      "notes": []
+    },
+    {
+      "number": 32,
+      "reference": "Chen, S., Nelson, M. J., & Mateas, M. (2009). Evaluating the authorial leverage of drama management. *Proceedings of the AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment, 5*(1), 136–141. https://doi.org/10.1609/aiide.v5i1.12377",
+      "url": "https://doi.org/10.1609/aiide.v5i1.12377",
+      "doi": "10.1609/aiide.v5i1.12377",
+      "verification": "DOI bibliographic identity matched",
+      "notes": [
+        "Publisher pages 136–141 added."
+      ]
+    },
+    {
+      "number": 33,
+      "reference": "Cowan, N. (2001). The magical number 4 in short-term memory: A reconsideration of mental storage capacity. *Behavioral and Brain Sciences, 24*(1), 87–114. https://doi.org/10.1017/S0140525X01003922",
+      "url": "https://doi.org/10.1017/S0140525X01003922",
+      "doi": "10.1017/S0140525X01003922",
+      "verification": "DOI bibliographic identity matched",
+      "notes": []
+    },
+    {
+      "number": 34,
+      "reference": "Day, T., & Zhu, J. (2017). Agency informing techniques: Communicating player agency in interactive narratives. *Proceedings of the International Conference on the Foundations of Digital Games (FDG '17)*, Article 56, 1–4. https://doi.org/10.1145/3102071.3106363",
+      "url": "https://doi.org/10.1145/3102071.3106363",
+      "doi": "10.1145/3102071.3106363",
+      "verification": "DOI bibliographic identity matched",
+      "notes": []
+    },
+    {
+      "number": 35,
+      "reference": "Evans, M. (2024). Too Afraid to Go Deeper: Creating Pervasive Dread Through Blended Design Structures in *Subnautica* and *Subnautica: Below Zero*. *Game Studies, 24*(4). https://gamestudies.org/2404/articles/evans",
+      "url": "https://gamestudies.org/2404/articles/evans",
+      "doi": null,
+      "verification": "original source page reviewed",
+      "notes": []
+    },
+    {
+      "number": 36,
+      "reference": "Failbetter Games. (2010, March 3). Echo Bazaar narrative structures, part two. https://www.failbettergames.com/news/echo-bazaar-narrative-structures-part-two",
+      "url": "https://www.failbettergames.com/news/echo-bazaar-narrative-structures-part-two",
+      "doi": null,
+      "verification": "original source page title matched",
+      "notes": [
+        "Original March 3, 2010 date restored (previously n.d.)."
+      ]
+    },
+    {
+      "number": 37,
+      "reference": "Failbetter Games. (2012, August 5). StoryNexus developer diary #2: Fewer spreadsheets, less swearing. https://www.failbettergames.com/news/storynexus-developer-diary-2-fewer-spreadsheets-less-swearing",
+      "url": "https://www.failbettergames.com/news/storynexus-developer-diary-2-fewer-spreadsheets-less-swearing",
+      "doi": null,
+      "verification": "original source page title matched",
+      "notes": [
+        "Original August 5, 2012 date restored."
+      ]
+    },
+    {
+      "number": 38,
+      "reference": "Fisher, M. (2022). Narrative planning in large domains through state abstraction and option discovery. *Proceedings of the AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment, 18*(1), 299–302. https://doi.org/10.1609/aiide.v18i1.21979",
+      "url": "https://doi.org/10.1609/aiide.v18i1.21979",
+      "doi": "10.1609/aiide.v18i1.21979",
+      "verification": "DOI bibliographic identity matched",
+      "notes": []
+    },
+    {
+      "number": 39,
+      "reference": "Gao, L., Madaan, A., Zhou, S., Alon, U., Liu, P., Yang, Y., Callan, J., & Neubig, G. (2023). PAL: Program-aided language models. *Proceedings of the 40th International Conference on Machine Learning, 202*, 10764–10799. https://proceedings.mlr.press/v202/gao23f.html",
+      "url": "https://proceedings.mlr.press/v202/gao23f.html",
+      "doi": null,
+      "verification": "original source page title matched",
+      "notes": []
+    },
+    {
+      "number": 40,
+      "reference": "Greenberg, D. L., & Verfaellie, M. (2010). Interdependence of episodic and semantic memory: Evidence from neuropsychology. *Journal of the International Neuropsychological Society, 16*(5), 748–753. https://doi.org/10.1017/S1355617710000676",
+      "url": "https://doi.org/10.1017/S1355617710000676",
+      "doi": "10.1017/S1355617710000676",
+      "verification": "DOI bibliographic identity matched",
+      "notes": []
+    },
+    {
+      "number": 41,
+      "reference": "Grinblat, J., Manning, C., & Kreminski, M. (2021). Emergent narrative and reparative play. In *Interactive Storytelling* (pp. 208–216). Springer. https://doi.org/10.1007/978-3-030-92300-6_19",
+      "url": "https://doi.org/10.1007/978-3-030-92300-6_19",
+      "doi": "10.1007/978-3-030-92300-6_19",
+      "verification": "DOI bibliographic identity matched",
+      "notes": []
+    },
+    {
+      "number": 42,
+      "reference": "Hammond, S., Pain, H., & Smith, T. J. (2007). Player Agency in Interactive Narrative: Audience, Actor & Author. In *Proceedings of AISB '07: Artificial and Ambient Intelligence* (pp. 386–393). https://ualresearchonline.arts.ac.uk/id/eprint/21210/",
+      "url": "https://ualresearchonline.arts.ac.uk/id/eprint/21210/",
+      "doi": null,
+      "verification": "original source page title matched",
+      "notes": []
+    },
+    {
+      "number": 43,
+      "reference": "Hayton, T., Porteous, J., Ferreira, J., & Lindsay, A. (2020). Narrative planning model acquisition from text summaries and descriptions. *Proceedings of the AAAI Conference on Artificial Intelligence, 34*(02), 1709–1716. https://doi.org/10.1609/aaai.v34i02.5534",
+      "url": "https://doi.org/10.1609/aaai.v34i02.5534",
+      "doi": "10.1609/aaai.v34i02.5534",
+      "verification": "DOI bibliographic identity matched",
+      "notes": []
+    },
+    {
+      "number": 44,
+      "reference": "Hogan, D. P., & Brennen, A. (2024). Open-ended wargames with large language models. *arXiv preprint arXiv:2404.11446*. https://doi.org/10.48550/arXiv.2404.11446",
+      "url": "https://doi.org/10.48550/arXiv.2404.11446",
+      "doi": "10.48550/arXiv.2404.11446",
+      "verification": "DOI bibliographic identity matched",
+      "notes": []
+    },
+    {
+      "number": 45,
+      "reference": "Hsieh, C.-P., Sun, S., Kriman, S., Acharya, S., Rekesh, D., Jia, F., Zhang, Y., & Ginsburg, B. (2024). RULER: What's the real context size of your long-context language models? *arXiv preprint arXiv:2404.06654*. https://arxiv.org/abs/2404.06654",
+      "url": "https://arxiv.org/abs/2404.06654",
+      "doi": null,
+      "verification": "original source page title matched",
+      "notes": []
+    },
+    {
+      "number": 46,
+      "reference": "Hu, S., Huang, T., Liu, G., Kompella, R. R., Ilhan, F., Tekin, S. F., Xu, Y., Yahn, Z., & Liu, L. (2024). A survey on large language model-based game agents. *arXiv preprint arXiv:2404.02039*. https://doi.org/10.48550/arXiv.2404.02039",
+      "url": "https://doi.org/10.48550/arXiv.2404.02039",
+      "doi": "10.48550/arXiv.2404.02039",
+      "verification": "DOI bibliographic identity matched",
+      "notes": []
+    },
+    {
+      "number": 47,
+      "reference": "Iovino, M., Scukins, E., Styrud, J., Ögren, P., & Smith, C. (2022). A survey of behavior trees in robotics and AI. *Robotics and Autonomous Systems, 154*, 104096. https://doi.org/10.1016/j.robot.2022.104096",
+      "url": "https://doi.org/10.1016/j.robot.2022.104096",
+      "doi": "10.1016/j.robot.2022.104096",
+      "verification": "DOI bibliographic identity matched",
+      "notes": []
+    },
+    {
+      "number": 48,
+      "reference": "Jenkins, H. (2004). Game design as narrative architecture. *Electronic Book Review*. https://electronicbookreview.com/publications/game-design-as-narrative-architecture/",
+      "url": "https://electronicbookreview.com/publications/game-design-as-narrative-architecture/",
+      "doi": null,
+      "verification": "original source page title matched",
+      "notes": []
+    },
+    {
+      "number": 49,
+      "reference": "Johnson, M. K., Hashtroudi, S., & Lindsay, D. S. (1993). Source monitoring. *Psychological Bulletin, 114*(1), 3–28. https://doi.org/10.1037/0033-2909.114.1.3",
+      "url": "https://doi.org/10.1037/0033-2909.114.1.3",
+      "doi": "10.1037/0033-2909.114.1.3",
+      "verification": "DOI bibliographic identity matched",
+      "notes": []
+    },
+    {
+      "number": 50,
+      "reference": "Johnson-Bey, S., Nelson, M. J., & Mateas, M. (2022). Neighborly: A sandbox for simulation-based emergent narrative. *2022 IEEE Conference on Games (CoG)*, 425–432. https://doi.org/10.1109/CoG51982.2022.9893631",
+      "url": "https://doi.org/10.1109/CoG51982.2022.9893631",
+      "doi": "10.1109/CoG51982.2022.9893631",
+      "verification": "DOI bibliographic identity matched",
+      "notes": []
+    },
+    {
+      "number": 51,
+      "reference": "Jones, J. D. (2022). Authorial Burden. In C. Hargood, D. E. Millard, A. Mitchell, & U. Spierling (Eds.), *The Authoring Problem: Challenges in Supporting Authoring for Interactive Digital Narratives* (pp. 47–63). Springer International Publishing. https://doi.org/10.1007/978-3-031-05214-9_4",
+      "url": "https://doi.org/10.1007/978-3-031-05214-9_4",
+      "doi": "10.1007/978-3-031-05214-9_4",
+      "verification": "DOI bibliographic identity matched",
+      "notes": []
+    },
+    {
+      "number": 52,
+      "reference": "Jones, J. D., & Millard, D. E. (2024). Experiencing The Authorial Burden. In *Proceedings of the 35th ACM Conference on Hypertext and Social Media (HT '24)* (pp. 78–87). Association for Computing Machinery. https://doi.org/10.1145/3648188.3675134",
+      "url": "https://doi.org/10.1145/3648188.3675134",
+      "doi": "10.1145/3648188.3675134",
+      "verification": "DOI bibliographic identity matched",
+      "notes": []
+    },
+    {
+      "number": 53,
+      "reference": "Juul, J. (2002). The open and the closed: Games of emergence and games of progression. In F. Mäyrä (Ed.), *Computer Games and Digital Cultures Conference Proceedings* (pp. 323–329). Tampere University Press. https://doi.org/10.26503/dl.v2002i1.9",
+      "url": "https://doi.org/10.26503/dl.v2002i1.9",
+      "doi": "10.26503/dl.v2002i1.9",
+      "verification": "DOI bibliographic identity matched",
+      "notes": []
+    },
+    {
+      "number": 54,
+      "reference": "Kambhampati, S., Valmeekam, K., Guan, L., Verma, M., Stechly, K., Bhambri, S., Saldyt, L. P., & Murthy, A. B. (2024). Position: LLMs can’t plan, but can help planning in LLM-Modulo frameworks. *Proceedings of the 41st International Conference on Machine Learning, 235*, 22895–22907. https://proceedings.mlr.press/v235/kambhampati24a.html",
+      "url": "https://proceedings.mlr.press/v235/kambhampati24a.html",
+      "doi": null,
+      "verification": "original source page title matched",
+      "notes": []
+    },
+    {
+      "number": 55,
+      "reference": "Liu, N. F., Lin, K., Hewitt, J., Paranjape, A., Bevilacqua, M., Petroni, F., & Liang, P. (2024). Lost in the middle: How language models use long contexts. *Transactions of the Association for Computational Linguistics, 12*, 157–173. https://doi.org/10.1162/tacl_a_00638",
+      "url": "https://doi.org/10.1162/tacl_a_00638",
+      "doi": "10.1162/tacl_a_00638",
+      "verification": "DOI bibliographic identity matched",
+      "notes": []
+    },
+    {
+      "number": 56,
+      "reference": "Louchart, S., & Aylett, R. (2003). Solving the Narrative Paradox in VEs—Lessons from RPGs. In *Intelligent Virtual Agents 2003* (pp. 244–248). Springer. https://doi.org/10.1007/978-3-540-39396-2_41",
+      "url": "https://doi.org/10.1007/978-3-540-39396-2_41",
+      "doi": "10.1007/978-3-540-39396-2_41",
+      "verification": "DOI bibliographic identity matched",
+      "notes": []
+    },
+    {
+      "number": 57,
+      "reference": "Louchart, S., Swartjes, I., Kriegel, M., & Aylett, R. (2008). Purposeful authoring for emergent narrative. In *Interactive Storytelling: First Joint International Conference on Interactive Digital Storytelling (ICIDS 2008)* (Lecture Notes in Computer Science, Vol. 5334, pp. 273–284). Springer. https://doi.org/10.1007/978-3-540-89454-4_35",
+      "url": "https://doi.org/10.1007/978-3-540-89454-4_35",
+      "doi": "10.1007/978-3-540-89454-4_35",
+      "verification": "journal/conference date independently resolved",
+      "notes": [
+        "ICIDS 2008 LNCS Vol. 5334 pages 273–284 restored.",
+        "OpenAlex lists 2006; ICIDS 2008 proceedings confirmed by University of Twente and Heriot-Watt. 2008 correct."
+      ]
+    },
+    {
+      "number": 58,
+      "reference": "Marco, G., Gonzalo, J., & Fresno, V. (2025). The Reader is the Metric: How Textual Features and Reader Profiles Explain Conflicting Evaluations of AI Creative Writing. *Findings of the Association for Computational Linguistics: ACL 2025*, 25432–25449. https://doi.org/10.18653/v1/2025.findings-acl.1304",
+      "url": "https://doi.org/10.18653/v1/2025.findings-acl.1304",
+      "doi": "10.18653/v1/2025.findings-acl.1304",
+      "verification": "DOI bibliographic identity matched",
+      "notes": []
+    },
+    {
+      "number": 59,
+      "reference": "Marra, G., Dumančić, S., Manhaeve, R., & De Raedt, L. (2024). From statistical relational to neurosymbolic artificial intelligence: A survey. *Artificial Intelligence, 328*, 104062. https://doi.org/10.1016/j.artint.2023.104062",
+      "url": "https://doi.org/10.1016/j.artint.2023.104062",
+      "doi": "10.1016/j.artint.2023.104062",
+      "verification": "journal/conference date independently resolved",
+      "notes": [
+        "OpenAlex indexes earlier repository version; Elsevier Artificial Intelligence Volume 328 is 2024."
+      ]
+    },
+    {
+      "number": 60,
+      "reference": "Mateas, M., & Stern, A. (2005). Structuring content in the Façade interactive drama architecture. *Proceedings of the AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment, 1*(1), 93–98. https://doi.org/10.1609/aiide.v1i1.18722",
+      "url": "https://doi.org/10.1609/aiide.v1i1.18722",
+      "doi": "10.1609/aiide.v1i1.18722",
+      "verification": "DOI bibliographic identity matched",
+      "notes": [
+        "Publisher pages 93–98 added."
+      ]
+    },
+    {
+      "number": 61,
+      "reference": "Nelson, M. J., Ashmore, C., & Mateas, M. (2006). Authoring an interactive narrative with declarative optimization-based drama management. *Proceedings of the AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment, 2*(1), 127–129. https://doi.org/10.1609/aiide.v2i1.18761",
+      "url": "https://doi.org/10.1609/aiide.v2i1.18761",
+      "doi": "10.1609/aiide.v2i1.18761",
+      "verification": "DOI bibliographic identity matched",
+      "notes": [
+        "Publisher pages 127–129 added."
+      ]
+    },
+    {
+      "number": 62,
+      "reference": "Oberauer, K., Farrell, S., Jarrold, C., & Lewandowsky, S. (2016). What limits working memory capacity? *Psychological Bulletin, 142*(7), 758–799. https://doi.org/10.1037/bul0000046",
+      "url": "https://doi.org/10.1037/bul0000046",
+      "doi": "10.1037/bul0000046",
+      "verification": "DOI bibliographic identity matched",
+      "notes": []
+    },
+    {
+      "number": 63,
+      "reference": "Packer, C., Wooders, S., Lin, K., Fang, V., Patil, S. G., Stoica, I., & Gonzalez, J. E. (2023). MemGPT: Towards LLMs as operating systems. *arXiv preprint arXiv:2310.08560*. https://arxiv.org/abs/2310.08560",
+      "url": "https://arxiv.org/abs/2310.08560",
+      "doi": null,
+      "verification": "original source page title matched",
+      "notes": []
+    },
+    {
+      "number": 64,
+      "reference": "Park, A. (2003, April 14). Asheron's Call. *GameSpot*. https://www.gamespot.com/articles/asherons-call/1100-2655688/",
+      "url": "https://www.gamespot.com/articles/asherons-call/1100-2655688/",
+      "doi": null,
+      "verification": "indexed source corroborated; direct fetch blocked",
+      "notes": [
+        "GameSpot indexed original confirms Andrew Park, April 14, 2003."
+      ]
+    },
+    {
+      "number": 65,
+      "reference": "Park, J. S., O'Brien, J. C., Cai, C. J., Morris, M. R., Liang, P., & Bernstein, M. S. (2023). Generative agents: Interactive simulacra of human behavior. *Proceedings of the 36th Annual ACM Symposium on User Interface Software and Technology*, Article 2, 1–22. https://doi.org/10.1145/3586183.3606763",
+      "url": "https://doi.org/10.1145/3586183.3606763",
+      "doi": "10.1145/3586183.3606763",
+      "verification": "DOI bibliographic identity matched",
+      "notes": []
+    },
+    {
+      "number": 66,
+      "reference": "Porteous, J., Ferreira, J. F., Lindsay, A., & Cavazza, M. (2021). Automated narrative planning model extension. *Autonomous Agents and Multi-Agent Systems, 35*(2), Article 19. https://doi.org/10.1007/s10458-021-09501-1",
+      "url": "https://doi.org/10.1007/s10458-021-09501-1",
+      "doi": "10.1007/s10458-021-09501-1",
+      "verification": "DOI bibliographic identity matched",
+      "notes": []
+    },
+    {
+      "number": 67,
+      "reference": "PostgreSQL Global Development Group. (n.d.-a). Database page layout. *PostgreSQL Documentation*. https://www.postgresql.org/docs/current/storage-page-layout.html",
+      "url": "https://www.postgresql.org/docs/current/storage-page-layout.html",
+      "doi": null,
+      "verification": "original source page reviewed",
+      "notes": []
+    },
+    {
+      "number": 68,
+      "reference": "PostgreSQL Global Development Group. (n.d.-b). TOAST. *PostgreSQL Documentation*. https://www.postgresql.org/docs/current/storage-toast.html",
+      "url": "https://www.postgresql.org/docs/current/storage-toast.html",
+      "doi": null,
+      "verification": "original source page reviewed",
+      "notes": []
+    },
+    {
+      "number": 69,
+      "reference": "Raffloer, G., & Green, M. C. (2025). Of love & lasers: Perceptions of narratives by AI versus human authors. *Computers in Human Behavior: Artificial Humans, 5*, 100168. https://doi.org/10.1016/j.chbah.2025.100168",
+      "url": "https://doi.org/10.1016/j.chbah.2025.100168",
+      "doi": "10.1016/j.chbah.2025.100168",
+      "verification": "DOI bibliographic identity matched",
+      "notes": []
+    },
+    {
+      "number": 70,
+      "reference": "Reab v. Electronic Arts, Inc., 214 F.R.D. 623 (D. Colo. 2002). https://calculators.law/caselaw/decisions/5qJNjDQ68kap/reab-v-electronic-arts-inc",
+      "url": "https://calculators.law/caselaw/decisions/5qJNjDQ68kap/reab-v-electronic-arts-inc",
+      "doi": null,
+      "verification": "original source page reviewed",
+      "notes": []
+    },
+    {
+      "number": 71,
+      "reference": "Riedl, M. O., & Bulitko, V. (2013). Interactive narrative: An intelligent systems approach. *AI Magazine, 34*(1), 67–77. https://doi.org/10.1609/aimag.v34i1.2449",
+      "url": "https://doi.org/10.1609/aimag.v34i1.2449",
+      "doi": "10.1609/aimag.v34i1.2449",
+      "verification": "DOI bibliographic identity matched",
+      "notes": []
+    },
+    {
+      "number": 72,
+      "reference": "Rowe, J. P., & Lester, J. C. (2013). A modular reinforcement learning framework for interactive narrative planning. *Proceedings of the AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment, 9*(4), 57–63. https://doi.org/10.1609/aiide.v9i4.12636",
+      "url": "https://doi.org/10.1609/aiide.v9i4.12636",
+      "doi": "10.1609/aiide.v9i4.12636",
+      "verification": "DOI bibliographic identity matched",
+      "notes": [
+        "Publisher pages 57–63 added."
+      ]
+    },
+    {
+      "number": 73,
+      "reference": "Ryan, J. (2018). *Curating simulated storyworlds* [Doctoral dissertation, University of California, Santa Cruz]. eScholarship. https://escholarship.org/uc/item/1340j5h2",
+      "url": "https://escholarship.org/uc/item/1340j5h2",
+      "doi": null,
+      "verification": "indexed source corroborated; direct fetch blocked",
+      "notes": [
+        "UC eScholarship indexed original confirms James Ryan dissertation, 2018."
+      ]
+    },
+    {
+      "number": 74,
+      "reference": "Schacter, D. L. (2012). Constructive memory: Past and future. *Dialogues in Clinical Neuroscience, 14*(1), 7–18. https://doi.org/10.31887/DCNS.2012.14.1/dschacter",
+      "url": "https://doi.org/10.31887/DCNS.2012.14.1/dschacter",
+      "doi": "10.31887/DCNS.2012.14.1/dschacter",
+      "verification": "DOI bibliographic identity matched",
+      "notes": []
+    },
+    {
+      "number": 75,
+      "reference": "Schacter, D. L., & Addis, D. R. (2007). The cognitive neuroscience of constructive memory: Remembering the past and imagining the future. *Philosophical Transactions of the Royal Society B: Biological Sciences, 362*(1481), 773–786. https://doi.org/10.1098/rstb.2007.2087",
+      "url": "https://doi.org/10.1098/rstb.2007.2087",
+      "doi": "10.1098/rstb.2007.2087",
+      "verification": "DOI bibliographic identity matched",
+      "notes": []
+    },
+    {
+      "number": 76,
+      "reference": "Sears, S., & Weisberg, D. S. (2026). Bot or not: Can people tell the difference between stories written by a human or by an AI system? *Judgment and Decision Making, 21*, e21. https://doi.org/10.1017/jdm.2026.10042",
+      "url": "https://doi.org/10.1017/jdm.2026.10042",
+      "doi": "10.1017/jdm.2026.10042",
+      "verification": "DOI bibliographic identity matched",
+      "notes": []
+    },
+    {
+      "number": 77,
+      "reference": "Short, E. (2019, December 3). Storylets play together. *Emily Short's Interactive Storytelling*. https://emshort.blog/2019/12/03/storylets-play-together/",
+      "url": "https://emshort.blog/2019/12/03/storylets-play-together/",
+      "doi": null,
+      "verification": "original source page title matched",
+      "notes": []
+    },
+    {
+      "number": 78,
+      "reference": "Short, E. (2019, November 29). Storylets: You want them. *Emily Short's Interactive Storytelling*. https://emshort.blog/2019/11/29/storylets-you-want-them/",
+      "url": "https://emshort.blog/2019/11/29/storylets-you-want-them/",
+      "doi": null,
+      "verification": "original source page title matched",
+      "notes": []
+    },
+    {
+      "number": 79,
+      "reference": "Soler-Adillon, J. (2019). The open, the closed and the emergent: Theorizing emergence for videogame studies. *Game Studies, 19*(2). https://gamestudies.org/1902/articles/soleradillon",
+      "url": "https://gamestudies.org/1902/articles/soleradillon",
+      "doi": null,
+      "verification": "original source page title matched",
+      "notes": []
+    },
+    {
+      "number": 80,
+      "reference": "Sourati, Z., Karimi-Malekabadi, F., Ozcan, M., McDaniel, C., Ziabari, A., Trager, J., Tak, A. N., Chen, M., Morstatter, F., & Dehghani, M. (2026). The shrinking landscape of linguistic diversity in the age of large language models. *Nature Human Behaviour*. https://doi.org/10.1038/s41562-026-02550-0",
+      "url": "https://doi.org/10.1038/s41562-026-02550-0",
+      "doi": "10.1038/s41562-026-02550-0",
+      "verification": "DOI bibliographic identity matched",
+      "notes": []
+    },
+    {
+      "number": 81,
+      "reference": "SQLite. (n.d.). Database file format. *SQLite Documentation*. https://www.sqlite.org/fileformat.html",
+      "url": "https://www.sqlite.org/fileformat.html",
+      "doi": null,
+      "verification": "original source page title matched",
+      "notes": []
+    },
+    {
+      "number": 82,
+      "reference": "Stang, S. (2019). “This Action Will Have Consequences”: Interactivity and Player Agency. *Game Studies, 19*(1). https://gamestudies.org/1901/articles/stang",
+      "url": "https://gamestudies.org/1901/articles/stang",
+      "doi": null,
+      "verification": "original source page title matched",
+      "notes": []
+    },
+    {
+      "number": 83,
+      "reference": "Stanko-Kaczmarek, M., Dera, L., & Koscielska, H. (2025). “Between the Lines”: Perceptions of Poetry With Authorship Attributed to Artificial Intelligence or Humans – A Comparative Analysis. *The Journal of Creative Behavior, 59*(3), e1513. https://doi.org/10.1002/jocb.1513",
+      "url": "https://doi.org/10.1002/jocb.1513",
+      "doi": "10.1002/jocb.1513",
+      "verification": "journal/conference date independently resolved",
+      "notes": [
+        "Wiley first published online 2024; journal Volume 59(3) issued 2025; 2025 correct."
+      ]
+    },
+    {
+      "number": 84,
+      "reference": "Szabó, G., Krizsai, F., & Deme, A. (2026). The invisible author: Citizen sociolinguistic perspectives on identifying human and AI-generated narrative texts. *Social Sciences & Humanities Open, 13*, 102646. https://doi.org/10.1016/j.ssaho.2026.102646",
+      "url": "https://doi.org/10.1016/j.ssaho.2026.102646",
+      "doi": "10.1016/j.ssaho.2026.102646",
+      "verification": "DOI bibliographic identity matched",
+      "notes": []
+    },
+    {
+      "number": 85,
+      "reference": "Thompson, R. (2009, July 27). Why MxO live content worked. *MMORPG.com*. https://www.mmorpg.com/editorials/why-mxo-live-content-worked-2000117124",
+      "url": "https://www.mmorpg.com/editorials/why-mxo-live-content-worked-2000117124",
+      "doi": null,
+      "verification": "indexed source corroborated; direct fetch blocked",
+      "notes": [
+        "MMORPG original index confirms July 27, 2009 and Rachel Thompson contributor; host index credits editor Jon Wood."
+      ]
+    },
+    {
+      "number": 86,
+      "reference": "Thue, D., Bulitko, V., Spetch, M., & Romanuik, T. (2011). A Computational Model of Perceived Agency in Video Games. *Proceedings of the AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment, 7*(1), 91–96. https://doi.org/10.1609/aiide.v7i1.12437",
+      "url": "https://doi.org/10.1609/aiide.v7i1.12437",
+      "doi": "10.1609/aiide.v7i1.12437",
+      "verification": "DOI bibliographic identity matched",
+      "notes": []
+    },
+    {
+      "number": 87,
+      "reference": "Tian, Y., Huang, T., Liu, M., Jiang, D., Spangher, A., Chen, M., May, J., & Peng, N. (2024). Are Large Language Models Capable of Generating Human-Level Narratives? *Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing*, 17659–17681. https://doi.org/10.18653/v1/2024.emnlp-main.978",
+      "url": "https://doi.org/10.18653/v1/2024.emnlp-main.978",
+      "doi": "10.18653/v1/2024.emnlp-main.978",
+      "verification": "DOI bibliographic identity matched",
+      "notes": []
+    },
+    {
+      "number": 88,
+      "reference": "Tulving, E. (2002). Episodic memory: From mind to brain. *Annual Review of Psychology, 53*, 1–25. https://doi.org/10.1146/annurev.psych.53.100901.135114",
+      "url": "https://doi.org/10.1146/annurev.psych.53.100901.135114",
+      "doi": "10.1146/annurev.psych.53.100901.135114",
+      "verification": "DOI bibliographic identity matched",
+      "notes": []
+    },
+    {
+      "number": 89,
+      "reference": "Wang, D., Huang, D., Shen, H., & Uzzi, B. (2026). A large-scale comparison of divergent creativity in humans and large language models. *Nature Human Behaviour, 10*, 531–540. https://doi.org/10.1038/s41562-025-02331-1",
+      "url": "https://doi.org/10.1038/s41562-025-02331-1",
+      "doi": "10.1038/s41562-025-02331-1",
+      "verification": "journal/conference date independently resolved",
+      "notes": [
+        "Nature first published online December 2025; Volume 10 pp. 531–540 issued in 2026; 2026 correct."
+      ]
+    },
+    {
+      "number": 90,
+      "reference": "Williams, S. (2009, August 4). Another perspective on live content. *MMORPG.com*. https://www.mmorpg.com/editorials/another-perspective-on-live-content-2000117156",
+      "url": "https://www.mmorpg.com/editorials/another-perspective-on-live-content-2000117156",
+      "doi": null,
+      "verification": "indexed source corroborated; direct fetch blocked",
+      "notes": [
+        "MMORPG original article confirms Aug 4, 2009 and first-person contributor Steve Williams; host page says Guest Writer."
+      ]
+    },
+    {
+      "number": 91,
+      "reference": "Wu, D., Wang, H., Yu, W., Zhang, Y., Chang, K.-W., & Yu, D. (2025). LongMemEval: Benchmarking chat assistants on long-term interactive memory. *Proceedings of the International Conference on Learning Representations (ICLR 2025)*. https://proceedings.iclr.cc/paper_files/paper/2025/hash/d813d324dbf0598bbdc9c8e79740ed01-Abstract-Conference.html",
+      "url": "https://proceedings.iclr.cc/paper_files/paper/2025/hash/d813d324dbf0598bbdc9c8e79740ed01-Abstract-Conference.html",
+      "doi": null,
+      "verification": "original source page title matched",
+      "notes": []
+    },
+    {
+      "number": 92,
+      "reference": "Xu, W., Jojic, N., Rao, S., Brockett, C., & Dolan, B. (2025). Echoes in AI: Quantifying lack of plot diversity in LLM outputs. *Proceedings of the National Academy of Sciences, 122*(35), e2504966122. https://doi.org/10.1073/pnas.2504966122",
+      "url": "https://doi.org/10.1073/pnas.2504966122",
+      "doi": "10.1073/pnas.2504966122",
+      "verification": "DOI bibliographic identity matched",
+      "notes": []
+    }
+  ]
+}

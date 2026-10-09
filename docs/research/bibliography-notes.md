@@ -138,7 +138,7 @@ Do **not** claim that Alexander provides Enclave's full architecture. He does no
 - **Likely use:** §3.
 - **Status:** **Supporting.**
 
-### Failbetter Games (n.d.), *Echo Bazaar narrative structures, part two*
+### Failbetter Games (2010), *Echo Bazaar narrative structures, part two*
 
 - **Role:** Primary practitioner.
 - **Supports:** Qualities control storylet/branch availability and are changed by completed content.

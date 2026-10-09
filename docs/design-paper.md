@@ -1470,37 +1470,37 @@ Alexander, J. (2009, March 23). Don’t prep plots. *The Alexandrian*. https://t
 
 Alexander, J. (2009, March 23). Don’t prep plots: Prepping scenario timelines. *The Alexandrian*. https://thealexandrian.net/wordpress/4154/roleplaying-games/dont-prep-plots-prepping-scenario-timelines
 
-Alexander, J. (2010, June 14). Node-based scenario design – Part 9: Types of nodes. *The Alexandrian*. https://thealexandrian.net/wordpress/8049/roleplaying-games/node-based-scenario-design-part-9-types-of-nodes
-
-Alexander, J. (2010, June 4). Node-based scenario design – Part 5: Plot vs. node. *The Alexandrian*. https://thealexandrian.net/wordpress/8008/roleplaying-games/node-based-scenario-design-part-5-plot-vs-node
-
 Alexander, J. (2010, May 27). Node-based scenario design – Part 1: The plotted approach. *The Alexandrian*. https://thealexandrian.net/wordpress/7949/roleplaying-games/node-based-scenario-design-part-1-the-plotted-approach
 
 Alexander, J. (2010, May 28). Node-based scenario design – Part 2: Choose your own adventure. *The Alexandrian*. https://thealexandrian.net/wordpress/7961/roleplaying-games/node-based-scenario-design-part-2-choose-your-own-adventure
 
 Alexander, J. (2010, May 31). Node-based scenario design – Part 3: Inverting the Three Clue Rule. *The Alexandrian*. https://thealexandrian.net/wordpress/7985/roleplaying-games/node-based-scenario-design-part-3-inverting-the-three-clue-rule
 
-Alexander, J. (2011, October 17). Advanced node-based design – Part 5: The two prongs of mystery design. *The Alexandrian*. https://thealexandrian.net/wordpress/8202/roleplaying-games/advanced-node-based-design-part-5-the-two-prongs-of-mystery-design
+Alexander, J. (2010, June 4). Node-based scenario design – Part 5: Plot vs. node. *The Alexandrian*. https://thealexandrian.net/wordpress/8008/roleplaying-games/node-based-scenario-design-part-5-plot-vs-node
+
+Alexander, J. (2010, June 14). Node-based scenario design – Part 9: Types of nodes. *The Alexandrian*. https://thealexandrian.net/wordpress/8049/roleplaying-games/node-based-scenario-design-part-9-types-of-nodes
 
 Alexander, J. (2011, October 3). Advanced node-based design – Part 1: Moving between nodes. *The Alexandrian*. https://thealexandrian.net/wordpress/8171/roleplaying-games/advanced-node-based-design-part-1-moving-between-nodes
 
-Alexander, J. (2012, April 2). Game structures. *The Alexandrian*. https://thealexandrian.net/wordpress/15126/roleplaying-games/game-structures
+Alexander, J. (2011, October 17). Advanced node-based design – Part 5: The two prongs of mystery design. *The Alexandrian*. https://thealexandrian.net/wordpress/8202/roleplaying-games/advanced-node-based-design-part-5-the-two-prongs-of-mystery-design
 
-Alexander, J. (2015, January 5). Don’t prep plots – “You will rue this day, heroes!” (The principles of RPG villainy). *The Alexandrian*. https://thealexandrian.net/wordpress/36383/roleplaying-games/dont-prep-plots-you-will-rue-this-day-heroes-the-principles-of-rpg-villainy
+Alexander, J. (2012, April 2). Game structures. *The Alexandrian*. https://thealexandrian.net/wordpress/15126/roleplaying-games/game-structures
 
 Alexander, J. (2015, June 18). Don’t prep plots – Tools, not contingencies. *The Alexandrian*. https://thealexandrian.net/wordpress/37422/roleplaying-games/dont-prep-plots-tools-not-contingencies
 
+Alexander, J. (2015, January 5). Don’t prep plots – “You will rue this day, heroes!” (The principles of RPG villainy). *The Alexandrian*. https://thealexandrian.net/wordpress/36383/roleplaying-games/dont-prep-plots-you-will-rue-this-day-heroes-the-principles-of-rpg-villainy
+
+Alexander, J. (2018, October 29). Random GM tip – Using revelation lists. *The Alexandrian*. https://thealexandrian.net/wordpress/40978/roleplaying-games/random-gm-tip-using-revelation-lists
+
 Alexander, J. (2018, May 26). Smart prep. *The Alexandrian*. https://thealexandrian.net/wordpress/39885/roleplaying-games/smart-prep
-
-Alexander, J. (2018, October 29). Using revelation lists. *The Alexandrian*. https://thealexandrian.net/wordpress/40978/roleplaying-games/random-gm-tip-using-revelation-lists
-
-Alexander, J. (2020, November 4). The secret life of nodes – Part 5: Naturalistic node design. *The Alexandrian*. https://thealexandrian.net/wordpress/45283/roleplaying-games/the-secret-life-of-nodes-part-5-naturalistic-node-design
 
 Alexander, J. (2020, October 14). The secret life of nodes – Part 2: Node-based campaigns. *The Alexandrian*. https://thealexandrian.net/wordpress/45268/roleplaying-games/the-secret-life-of-nodes-part-2-node-based-campaigns
 
 Alexander, J. (2020, October 21). The secret life of nodes – Part 3: Fractal nodes. *The Alexandrian*. https://thealexandrian.net/wordpress/45272/roleplaying-games/the-secret-life-of-nodes-part-3-fractal-nodes
 
 Alexander, J. (2020, October 28). The secret life of nodes – Part 4: Nodes aren’t everything. *The Alexandrian*. https://thealexandrian.net/wordpress/45278/roleplaying-games/the-secret-life-of-nodes-part-4-nodes-arent-everything
+
+Alexander, J. (2020, November 4). The secret life of nodes – Part 5: Naturalistic node design. *The Alexandrian*. https://thealexandrian.net/wordpress/45283/roleplaying-games/the-secret-life-of-nodes-part-5-naturalistic-node-design
 
 Alexander, J. (2020, October 9). The secret life of nodes. *The Alexandrian*. https://thealexandrian.net/wordpress/45263/roleplaying-games/the-secret-life-of-nodes
 
@@ -1522,7 +1522,7 @@ Carlini, N., Tramèr, F., Wallace, E., Jagielski, M., Herbert-Voss, A., Lee, K.,
 
 Chang, K. K., Cramer, M., Soni, S., & Bamman, D. (2023). Speak, memory: An archaeology of books known to ChatGPT/GPT-4. *Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing*, 7312–7327. https://doi.org/10.18653/v1/2023.emnlp-main.453
 
-Chen, S., Nelson, M. J., & Mateas, M. (2009). Evaluating the authorial leverage of drama management. *Proceedings of the AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment, 5*(1). https://doi.org/10.1609/aiide.v5i1.12377
+Chen, S., Nelson, M. J., & Mateas, M. (2009). Evaluating the authorial leverage of drama management. *Proceedings of the AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment, 5*(1), 136–141. https://doi.org/10.1609/aiide.v5i1.12377
 
 Cowan, N. (2001). The magical number 4 in short-term memory: A reconsideration of mental storage capacity. *Behavioral and Brain Sciences, 24*(1), 87–114. https://doi.org/10.1017/S0140525X01003922
 
@@ -1530,9 +1530,9 @@ Day, T., & Zhu, J. (2017). Agency informing techniques: Communicating player age
 
 Evans, M. (2024). Too Afraid to Go Deeper: Creating Pervasive Dread Through Blended Design Structures in *Subnautica* and *Subnautica: Below Zero*. *Game Studies, 24*(4). https://gamestudies.org/2404/articles/evans
 
-Failbetter Games. (2012). StoryNexus developer diary #2: Fewer spreadsheets, less swearing. https://www.failbettergames.com/news/storynexus-developer-diary-2-fewer-spreadsheets-less-swearing
+Failbetter Games. (2010, March 3). Echo Bazaar narrative structures, part two. https://www.failbettergames.com/news/echo-bazaar-narrative-structures-part-two
 
-Failbetter Games. (n.d.). Echo Bazaar narrative structures, part two. https://www.failbettergames.com/news/echo-bazaar-narrative-structures-part-two
+Failbetter Games. (2012, August 5). StoryNexus developer diary #2: Fewer spreadsheets, less swearing. https://www.failbettergames.com/news/storynexus-developer-diary-2-fewer-spreadsheets-less-swearing
 
 Fisher, M. (2022). Narrative planning in large domains through state abstraction and option discovery. *Proceedings of the AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment, 18*(1), 299–302. https://doi.org/10.1609/aiide.v18i1.21979
 
@@ -1572,15 +1572,15 @@ Liu, N. F., Lin, K., Hewitt, J., Paranjape, A., Bevilacqua, M., Petroni, F., & L
 
 Louchart, S., & Aylett, R. (2003). Solving the Narrative Paradox in VEs—Lessons from RPGs. In *Intelligent Virtual Agents 2003* (pp. 244–248). Springer. https://doi.org/10.1007/978-3-540-39396-2_41
 
-Louchart, S., Swartjes, I., Kriegel, M., & Aylett, R. (2008). Purposeful authoring for emergent narrative. https://doi.org/10.1007/978-3-540-89454-4_35
+Louchart, S., Swartjes, I., Kriegel, M., & Aylett, R. (2008). Purposeful authoring for emergent narrative. In *Interactive Storytelling: First Joint International Conference on Interactive Digital Storytelling (ICIDS 2008)* (Lecture Notes in Computer Science, Vol. 5334, pp. 273–284). Springer. https://doi.org/10.1007/978-3-540-89454-4_35
 
 Marco, G., Gonzalo, J., & Fresno, V. (2025). The Reader is the Metric: How Textual Features and Reader Profiles Explain Conflicting Evaluations of AI Creative Writing. *Findings of the Association for Computational Linguistics: ACL 2025*, 25432–25449. https://doi.org/10.18653/v1/2025.findings-acl.1304
 
 Marra, G., Dumančić, S., Manhaeve, R., & De Raedt, L. (2024). From statistical relational to neurosymbolic artificial intelligence: A survey. *Artificial Intelligence, 328*, 104062. https://doi.org/10.1016/j.artint.2023.104062
 
-Mateas, M., & Stern, A. (2005). Structuring content in the Façade interactive drama architecture. *Proceedings of the AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment, 1*(1). https://doi.org/10.1609/aiide.v1i1.18722
+Mateas, M., & Stern, A. (2005). Structuring content in the Façade interactive drama architecture. *Proceedings of the AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment, 1*(1), 93–98. https://doi.org/10.1609/aiide.v1i1.18722
 
-Nelson, M. J., Ashmore, C., & Mateas, M. (2006). Authoring an interactive narrative with declarative optimization-based drama management. *Proceedings of the AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment, 2*(1). https://doi.org/10.1609/aiide.v2i1.18761
+Nelson, M. J., Ashmore, C., & Mateas, M. (2006). Authoring an interactive narrative with declarative optimization-based drama management. *Proceedings of the AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment, 2*(1), 127–129. https://doi.org/10.1609/aiide.v2i1.18761
 
 Oberauer, K., Farrell, S., Jarrold, C., & Lewandowsky, S. (2016). What limits working memory capacity? *Psychological Bulletin, 142*(7), 758–799. https://doi.org/10.1037/bul0000046
 
@@ -1602,7 +1602,7 @@ Reab v. Electronic Arts, Inc., 214 F.R.D. 623 (D. Colo. 2002). https://calculato
 
 Riedl, M. O., & Bulitko, V. (2013). Interactive narrative: An intelligent systems approach. *AI Magazine, 34*(1), 67–77. https://doi.org/10.1609/aimag.v34i1.2449
 
-Rowe, J. P., & Lester, J. C. (2013). A modular reinforcement learning framework for interactive narrative planning. *Proceedings of the AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment, 9*(4). https://doi.org/10.1609/aiide.v9i4.12636
+Rowe, J. P., & Lester, J. C. (2013). A modular reinforcement learning framework for interactive narrative planning. *Proceedings of the AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment, 9*(4), 57–63. https://doi.org/10.1609/aiide.v9i4.12636
 
 Ryan, J. (2018). *Curating simulated storyworlds* [Doctoral dissertation, University of California, Santa Cruz]. eScholarship. https://escholarship.org/uc/item/1340j5h2
 
