@@ -13,7 +13,7 @@
   - an experienced Participant may know every available outcome yet still deliberately choose among them.
 - The relevant question is not simply *how many endings exist?* It is how knowledge of possible outcomes and their **causal differences** changes with interaction.
 - Distinguish novelty, enjoyment, replay value, perceived influence, and actual consequence. A decline in one does not prove a decline in another.
-- **Research boundary:** Day & Zhu (2017), Thue et al. (2011), Fendt et al. (2012), and Cardona-Rivera et al. (2014) provide related agency concepts and bounded empirical results, not a completed theory of replay exhaustion.
+- **Research boundary:** [Day & Zhu (2017)](https://doi.org/10.1145/3102071.3106363), [Thue et al. (2011)](https://doi.org/10.1609/aiide.v7i1.12437), [Fendt et al. (2012)](https://doi.org/10.1007/978-3-642-34851-8_11), and [Cardona-Rivera et al. (2014)](https://doi.org/10.1609/aiide.v10i1.12716) provide related agency concepts and bounded empirical results, not a completed theory of replay exhaustion.
 
 ## C.2 The Initial Discovery Effect
 
@@ -21,11 +21,11 @@
 - **Second encounter:** choosing differently can reveal that the system responds, providing positive evidence of influence that was previously only anticipated.
 - **Later encounters:** alternative paths may continue to be revealed, or previously unseen branches may become harder to find.
 - Hypothesis: perceived agency can initially **increase** through demonstrated difference, even if the complete authored possibility space is bounded.
-- This is compatible with **Roth et al. (2012)**:
+- This is compatible with **[Roth et al. (2012)](https://doi.org/10.1089/cyber.2011.0437)**:
   - fifty participants encountered the interactive drama *Façade* twice;
   - self-reported *effectance* rose on the second exposure;
   - this supports neither indefinite growth nor the specific idea that discovery of an alternative branch caused the change.
-- **Roth & Vermeulen (2013)** examined the same replay program and found less in-character/complex input on second exposure: a Participant may learn how to work within an interface while simultaneously learning its limitations.
+- **[Roth & Vermeulen (2013)](https://doi.org/10.1007/978-3-319-02756-2_20)** analyzed *Façade* user behavior in the same replay research program and found less in-character input on second exposure: a Participant may learn how to work within an interface while simultaneously learning its limitations. This is not an independent replication of the 2012 sample.
 - **Crucial qualification:** the source evidence covers two exposures in one environment, not a long series of playthroughs or a direct manipulation of revealed reconvergence.
 
 ## C.3 Narrative Exhaustion and the Replay Horizon
@@ -58,9 +58,9 @@
   - ultimately, learning can plateau rather than drive a monotonic fall in overall agency.
 - If an earlier subjective sense of freedom **depended on an overestimate** of causal alternatives, discovering a smaller possibility space supplies a reason to revise that estimate downward. It does *not* force enjoyment, effectance, or agency over **known alternatives** to decline.
 - A replay of a fully understood narrative may still provide intentional agency: players can choose the desired known ending. The loss, if any, concerns **undiscovered or falsely anticipated consequences**, not the mere fact of informed choice.
-- **Fendt et al. (2012)** found that some linear experiences acknowledging choices produced agency ratings similar to branching narratives on an initial test, although this did not establish equivalence; the study did not measure what happened when users discovered the structure.
-- **Cardona-Rivera et al. (2014)** found that anticipated meaningful differences between choices matter for agency judgments. It does not demonstrate a replay-dependent decline.
-- **Jones & Millard (2026)** explicitly question whether illusion-of-agency results hold after participants learn that choices lack wider consequences; treat this as a reasoned research observation, **not** a measured longitudinal effect.
+- **[Fendt et al. (2012)](https://doi.org/10.1007/978-3-642-34851-8_11)** found that some linear experiences acknowledging choices produced agency ratings similar to branching narratives on an initial test, although this did not establish equivalence; the study did not measure what happened when users discovered the structure.
+- **[Cardona-Rivera et al. (2014)](https://doi.org/10.1609/aiide.v10i1.12716)** found that anticipated meaningful differences between choices matter for agency judgments. It does not demonstrate a replay-dependent decline.
+- **[Jones & Millard (2026)](https://doi.org/10.1145/3757746), §7.5.1**, explicitly question whether illusion-of-agency results hold after participants learn that choices lack wider consequences; treat this as a reasoned research observation, **not** a measured longitudinal effect. Their 2026 journal paper extends the same authorial-burden research stream as their cited 2024 conference paper.
 
 ## C.5 Consequences for Reactive Narrative Architectures
 
@@ -107,14 +107,9 @@
 - The appendix should **not** assert that tenth-playthrough agency must diminish, or that the particular source experiments prove long-horizon replay decay.
 - §4.6 remains as written; the separate [claim-to-source audit](research/claim-to-source-audit-2026-10-09.md#focused-research-resolution-r1--46-repeated-play-reconvergence-and-perceived-agency-2026-10-09) records the evidence dispute and full research disposition.
 
-### Research references to reconcile at bibliography stage
+### Evidence provenance and publication references
 
-- Roth, C., Vermeulen, I., Vorderer, P., & Klimmt, C. (2012). [*Exploring Replay Value: Shifts and Continuities in User Experiences Between First and Second Exposure to an Interactive Story*](https://doi.org/10.1089/cyber.2011.0437).
-- Roth, C., & Vermeulen, I. (2013). [*Breaching Interactive Storytelling's Implicit Agreement*](https://doi.org/10.1007/978-3-319-02756-2_20).
-- Fendt, M. W., Harrison, B., Ware, S. G., Cardona-Rivera, R. E., & Roberts, D. L. (2012). [*Achieving the Illusion of Agency*](https://doi.org/10.1007/978-3-642-34851-8_11).
-- Cardona-Rivera, R. E., Robertson, J., Ware, S. G., Harrison, B., Roberts, D. L., & Young, R. M. (2014). [*Foreseeing Meaningful Choices*](https://doi.org/10.1609/aiide.v10i1.12716).
-- Stang, S. (2019). [*“This Action Will Have Consequences”: Interrogating Player Agency and Choice in Video Games*](https://gamestudies.org/1901/articles/stang).
-- Jones, C., & Millard, D. E. (2026). [*Beyond Authorial Burden*](https://doi.org/10.1145/3757746).
-- Existing §4.6 references: Day & Zhu (2017); Thue et al. (2011); Stang (2019). The audit's source-access and support limits remain applicable.
-
-> **Status:** Working appendix outline only. Sources listed here are research candidates; no bibliography edits and no rewrite of §4.6 are implied.
+- The five appendix-specific references are now integrated into the **single alphabetized bibliography** in [the design paper](design-paper.md#bibliography). References are linked at their relevant claims above rather than duplicated in a separate appendix bibliography.
+- Their study designs, claims, limitations, source-access records and relationship to the 2024 Jones & Millard paper are documented in [research bibliography notes, §13](research/bibliography-notes.md#13-appendix-c-research--the-replay-horizon-and-perceived-agency).
+- The complete issue-specific evaluation remains in the [focused R1 audit](research/claim-to-source-audit-2026-10-09.md#focused-research-resolution-r1--46-repeated-play-reconvergence-and-perceived-agency-2026-10-09).
+- **Status:** Working theoretical appendix outline. The evidence is cited and catalogued, but the long-horizon replay hypothesis remains unverified. **§4.6 has not been rewritten.**

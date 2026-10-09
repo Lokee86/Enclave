@@ -1518,6 +1518,8 @@ Burgess, J., & Jones, C. M. (2023). Exploring how players use emergent narrative
 
 Buschman, T. J. (2021). Balancing flexibility and interference in working memory. *Annual Review of Vision Science, 7*, 367–388. https://doi.org/10.1146/annurev-vision-100419-104831
 
+Cardona-Rivera, R. E., Robertson, J., Ware, S. G., Harrison, B., Roberts, D. L., & Young, R. M. (2014). Foreseeing meaningful choices. *Proceedings of the AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment, 10*(1), 9–15. https://doi.org/10.1609/aiide.v10i1.12716
+
 Carlini, N., Tramèr, F., Wallace, E., Jagielski, M., Herbert-Voss, A., Lee, K., Roberts, A., Brown, T., Song, D., Erlingsson, Ú., Oprea, A., & Raffel, C. (2021). Extracting training data from large language models. *Proceedings of the 30th USENIX Security Symposium*. https://www.usenix.org/conference/usenixsecurity21/presentation/carlini-extracting
 
 Chang, K. K., Cramer, M., Soni, S., & Bamman, D. (2023). Speak, memory: An archaeology of books known to ChatGPT/GPT-4. *Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing*, 7312–7327. https://doi.org/10.18653/v1/2023.emnlp-main.453
@@ -1533,6 +1535,8 @@ Evans, M. (2024). Too Afraid to Go Deeper: Creating Pervasive Dread Through Blen
 Failbetter Games. (2010, March 3). Echo Bazaar narrative structures, part two. https://www.failbettergames.com/news/echo-bazaar-narrative-structures-part-two
 
 Failbetter Games. (2012, August 5). StoryNexus developer diary #2: Fewer spreadsheets, less swearing. https://www.failbettergames.com/news/storynexus-developer-diary-2-fewer-spreadsheets-less-swearing
+
+Fendt, M. W., Harrison, B., Ware, S. G., Cardona-Rivera, R. E., & Roberts, D. L. (2012). Achieving the illusion of agency. In *Interactive Storytelling: 5th International Conference, ICIDS 2012* (Lecture Notes in Computer Science, Vol. 7648, pp. 114–125). Springer. https://doi.org/10.1007/978-3-642-34851-8_11
 
 Fisher, M. (2022). Narrative planning in large domains through state abstraction and option discovery. *Proceedings of the AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment, 18*(1), 299–302. https://doi.org/10.1609/aiide.v18i1.21979
 
@@ -1563,6 +1567,8 @@ Johnson-Bey, S., Nelson, M. J., & Mateas, M. (2022). Neighborly: A sandbox for s
 Jones, J. D. (2022). Authorial Burden. In C. Hargood, D. E. Millard, A. Mitchell, & U. Spierling (Eds.), *The Authoring Problem: Challenges in Supporting Authoring for Interactive Digital Narratives* (pp. 47–63). Springer International Publishing. https://doi.org/10.1007/978-3-031-05214-9_4
 
 Jones, J. D., & Millard, D. E. (2024). Experiencing The Authorial Burden. In *Proceedings of the 35th ACM Conference on Hypertext and Social Media (HT '24)* (pp. 78–87). Association for Computing Machinery. https://doi.org/10.1145/3648188.3675134
+
+Jones, J. D., & Millard, D. E. (2026). Beyond authorial burden. *ACM Transactions on the Web, 20*(3), Article 34, 1–23. https://doi.org/10.1145/3757746
 
 Juul, J. (2002). The open and the closed: Games of emergence and games of progression. In F. Mäyrä (Ed.), *Computer Games and Digital Cultures Conference Proceedings* (pp. 323–329). Tampere University Press. https://doi.org/10.26503/dl.v2002i1.9
 
@@ -1601,6 +1607,10 @@ Raffloer, G., & Green, M. C. (2025). Of love & lasers: Perceptions of narratives
 Reab v. Electronic Arts, Inc., 214 F.R.D. 623 (D. Colo. 2002). https://calculators.law/caselaw/decisions/5qJNjDQ68kap/reab-v-electronic-arts-inc
 
 Riedl, M. O., & Bulitko, V. (2013). Interactive narrative: An intelligent systems approach. *AI Magazine, 34*(1), 67–77. https://doi.org/10.1609/aimag.v34i1.2449
+
+Roth, C., Vermeulen, I., Vorderer, P., & Klimmt, C. (2012). Exploring replay value: Shifts and continuities in user experiences between first and second exposure to an interactive story. *Cyberpsychology, Behavior, and Social Networking, 15*(7), 378–381. https://doi.org/10.1089/cyber.2011.0437
+
+Roth, C., & Vermeulen, I. (2013). Breaching interactive storytelling's implicit agreement: A content analysis of *Façade* user behaviors. In *Interactive Storytelling: 6th International Conference, ICIDS 2013* (Lecture Notes in Computer Science, Vol. 8230, pp. 168–173). Springer. https://doi.org/10.1007/978-3-319-02756-2_20
 
 Rowe, J. P., & Lester, J. C. (2013). A modular reinforcement learning framework for interactive narrative planning. *Proceedings of the AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment, 9*(4), 57–63. https://doi.org/10.1609/aiide.v9i4.12636
 
