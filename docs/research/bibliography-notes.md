@@ -499,6 +499,17 @@ The formalization bottleneck already documented in §§8.1–8.5 is directly sup
 
 **Disposition:** historical absence **contradicted when universal**; formal domain-model authoring bottleneck **supported**; open-world reliability/threshold of generality **not demonstrated**. See [focused R2](claim-to-source-audit-2026-10-09.md#focused-research-resolution-r2--310-and-47-historical-formalization-and-probabilistic-interpretation-2026-10-09). No edits to the approved outline.
 
+### 8.7 Probabilistic implementation costs — approved §3.10 expansion (2026-10-09)
+
+**Research question:** Did historical probabilistic inference eliminate the authoring costs of explicit narrative systems, or shift costs into model construction, inference and parameter acquisition? The latter is documented for important classes of probabilistic models; it does not establish that all probabilistic models were equally costly, nor explain observed commercial adoption without separate evidence.
+
+- **Cooper (1990),** [The Computational Complexity of Probabilistic Inference Using Bayesian Belief Networks](https://doi.org/10.1016/0004-3702(90)90060-D), *Artificial Intelligence, 42*(2–3), 393–405. **Peer-reviewed complexity result; publisher abstract checked.** Proves exact probabilistic inference is NP-hard for general Bayesian networks; special network families may permit efficient algorithms. **Supports:** computational-complexity bullet. **Does not show:** worst-case complexity for every historical probabilistic narrative implementation.
+- **Dagum & Luby (1993),** [Approximating Probabilistic Inference in Bayesian Belief Networks Is NP-Hard](https://doi.org/10.1016/0004-3702(93)90036-B), *Artificial Intelligence, 60*(1), 141–153. **Peer-reviewed complexity result; publisher abstract checked.** Establishes NP-hardness for broad classes of approximating conditional probabilities, not universal intractability for all approximation algorithms or restricted models. **Supports:** approximation-cost qualification.
+- **Das (2004),** [Generating Conditional Probabilities for Bayesian Networks: Easing the Knowledge Acquisition Problem](https://arxiv.org/abs/cs/0411034), *arXiv preprint cs/0411034*. **Original preprint abstract checked; not treated as peer-reviewed.** Documents exponential growth of conventional conditional-probability-table elicitation burden with parent-node count and proposes reduction using influence weights and a linear number of elicited distributions. **Supports:** model construction / knowledge acquisition burden. **Does not show:** every probabilistic model needs an exponential number of expert-elicited parameters.
+- **Thomson & Young (2010),** already in bibliography, gives a concrete dialogue-system illustration of approximate probabilistic belief updates under tractability constraints. Distinguish a practical special-purpose deployment from claims about domain-general narrative adjudication.
+
+**Result for approved §3.10:** Two independently important costs are now differentiated: (1) representational/domain-formalization burden and (2) probabilistic inference/parameter-acquisition burden. The paragraph on modern generative models is a proposed shift in interpretive authoring requirements, **not** measured proof of cost savings or unlimited interpretation. The author approved this §3.10 outline revision on 2026-10-09; no other outline subsection was edited.
+
 ---
 
 ## 9. Section 5 research — persistent worlds and the labour cost of human gamemastering

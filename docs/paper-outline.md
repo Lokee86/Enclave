@@ -164,14 +164,29 @@
 - Narrative possibility and richness can grow faster than the labour required to enumerate paths.
 - **Support:** Chen, Nelson & Mateas (2009); Nelson, Ashmore & Mateas (2006); Mateas & Stern (2005); Rowe & Lester (2013).
 
-### 3.10 Existing formalized approaches remain limited by deterministic representation and the historical lack of efficient probabilistic assessment.
-- Branches, state machines, storylets, planner actions, drama-manager interventions, and other formal structures can only react to possibilities represented in their state, rules, content, or transition models.
-- They remain bounded by what has been explicitly formalized.
-- The limitation is not only branching itself, but the need for deterministic machinery to decide in advance what situations mean and what responses are available.
-- Modern probabilistic models provide a practical mechanism for making contextual assessments without requiring every interpretation and response to be enumerated beforehand.
-- Authoritative state and consequences remain under deterministic control.
-- **Support:** Nelson, Ashmore & Mateas (2006); Mateas & Stern (2005); Rowe & Lester (2013); Short (2019); Failbetter Games.
-- **Research note:** independently source the historical claim before final prose.
+### 3.10 Limitations of Historical Approaches
+
+- Traditional computational narrative approaches rely on explicitly represented states, actions, predicates, transitions, behaviors, or authored content to determine what can occur within their systems.
+- These approaches can generate outcomes and combinations that were never individually authored, but the operations available to them remain bounded by their underlying representations.
+- Consequently, the deeper limitation is not simply the enumeration of narrative branches, but the requirement to establish machine-interpretable representations of possible actions, situations, relationships, and consequences.
+- This limitation was not exclusively deterministic:
+  - Bayesian plan recognition demonstrated probabilistic interpretation of actions and narrative circumstances as early as 1993.
+  - Probabilistic dialogue systems and data-driven drama management demonstrated contextual inference and adaptive behavior within bounded domains.
+  - Learned narrative schemas and automated planning-model acquisition demonstrated that formal representations could themselves be generated or extended rather than entirely hand-authored.
+- Historical probabilistic approaches introduced substantial implementation burdens of their own:
+  - **Computational complexity:** General Bayesian-network inference is NP-hard, and even approximation is computationally difficult for broad classes of problems. Practical implementations often required simplifying assumptions, restricted dependencies, or specialized inference algorithms.
+  - **Model construction:** Probabilistic systems required representations of relevant variables, dependencies, and conditional probabilities. In conventional Bayesian networks, the number of parameters required by conditional probability tables can grow exponentially with the number of parent variables.
+  - **Knowledge acquisition and calibration:** Obtaining reliable probability estimates required expert knowledge, sufficiently representative training data, or specialized learning procedures, introducing additional development and maintenance costs.
+  - **Domain restrictions:** Managing these costs often required limiting the possible states, actions, relationships, and dependencies that a system could evaluate, constraining the generality of its interpretations.
+- Probabilistic techniques could reduce the burden of explicitly authoring individual responses, but frequently replaced portions of that burden with probabilistic model construction, parameterization, inference optimization, and validation.
+- These developments reduced the burden of explicit formalization without eliminating the dependence on domain representations, executable action models, or predefined mechanisms for evaluating consequences.
+- The historical challenge was therefore not the absence of probabilistic inference, but the difficulty of applying sufficiently general, computationally practical, and reliable interpretation to situations that had not been individually anticipated or formally represented.
+- Modern generative models materially change this relationship by allowing candidate interpretations and responses to be synthesized from broader learned knowledge and contextual information.
+- This does not eliminate the need for formal representation of authoritative world state or deterministic evaluation of consequences. It changes which parts of the interpretive process must be explicitly authored.
+- **Historical support:** Charniak & Goldman (1993); Mateas & Stern (2005); Chambers & Jurafsky (2010); Thomson & Young (2010); Chen & Mooney (2011); Yu & Riedl (2013); Hayton et al. (2020); Porteous et al. (2021).
+- **Computational and implementation support:** Cooper (1990); Dagum & Luby (1993); Das (2004); Thomson & Young (2010).
+- **Additional architectural support:** Nelson, Ashmore & Mateas (2006); Rowe & Lester (2013); Short (2019); Failbetter Games.
+- **Research qualification:** The historical formalization and computational bottlenecks are documented. Their contribution to commercial adoption rates, and the degree to which modern generative models overcome them, remain application-dependent.
 
 ---
 

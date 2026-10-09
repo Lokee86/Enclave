@@ -1532,7 +1532,13 @@ Chen, D. L., & Mooney, R. J. (2011). Learning to interpret natural language navi
 
 Chen, S., Nelson, M. J., & Mateas, M. (2009). Evaluating the authorial leverage of drama management. *Proceedings of the AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment, 5*(1), 136–141. https://doi.org/10.1609/aiide.v5i1.12377
 
+Cooper, G. F. (1990). The computational complexity of probabilistic inference using Bayesian belief networks. *Artificial Intelligence, 42*(2–3), 393–405. https://doi.org/10.1016/0004-3702(90)90060-D
+
 Cowan, N. (2001). The magical number 4 in short-term memory: A reconsideration of mental storage capacity. *Behavioral and Brain Sciences, 24*(1), 87–114. https://doi.org/10.1017/S0140525X01003922
+
+Dagum, P., & Luby, M. (1993). Approximating probabilistic inference in Bayesian belief networks is NP-hard. *Artificial Intelligence, 60*(1), 141–153. https://doi.org/10.1016/0004-3702(93)90036-B
+
+Das, B. (2004). Generating conditional probabilities for Bayesian networks: Easing the knowledge acquisition problem. *arXiv preprint cs/0411034*. https://arxiv.org/abs/cs/0411034
 
 Day, T., & Zhu, J. (2017). Agency informing techniques: Communicating player agency in interactive narratives. *Proceedings of the International Conference on the Foundations of Digital Games (FDG '17)*, Article 56, 1–4. https://doi.org/10.1145/3102071.3106363
 
