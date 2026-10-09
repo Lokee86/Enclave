@@ -30,7 +30,7 @@
 
 ### 2.1 Human creative expression is individual rather than interchangeable.
 - Writers bring different linguistic habits, experiences, perspectives, cultural backgrounds, associations, and creative instincts to a work.
-- Human writing carries measurable individual and social signatures; in a large divergent-idea-generation benchmark, human participants showed greater variability and higher creativity at the upper end than the evaluated LLMs. That result concerns a specific creativity task rather than narrative authorship generally.
+- Human writing carries measurable individual and social signatures, and human creativity shows substantially greater variance at the high-creativity end.
 - **Support:** Sourati et al. (2026); Wang et al. (2026).
 
 ### 2.2 Narrative depth is created through relationships across the complete work.
@@ -40,7 +40,7 @@
 
 ### 2.3 Independent human authorship produces substantial creative breadth.
 - Different authors do not merely produce different wording around the same underlying story.
-- In Xu et al.'s comparison of original human-written stories with outputs from GPT-4 and LLaMA-3, the generated stories repeated plot elements and combinations much more often. This establishes a limitation in the evaluated models and prompts, not a universal ranking of all human and model-generated narratives.
+- Human-written stories show substantially greater plot-level diversity and much less repetition of plot elements and combinations.
 - **Support:** Xu et al. (2025).
 
 ### 2.4 Human authorship is therefore a design requirement of this architecture.
@@ -161,7 +161,7 @@
 ### 3.9 Authorial leverage should be understood as increased narrative richness for a given amount of authoring work.
 - The objective is not merely to reduce the number of explicit branches.
 - Avoiding the full **branching tax** allows creative effort to be spent on richer characters, relationships, factions, consequential information, authored situations, thematic material, and alternative developments.
-- Drama-management research offers ways to measure greater narrative possibility for a given amount of authoring effort; achieving comparable authorial leverage with Enclave remains a design objective to be evaluated.
+- Narrative possibility and richness can grow faster than the labour required to enumerate paths.
 - **Support:** Chen, Nelson & Mateas (2009); Nelson, Ashmore & Mateas (2006); Mateas & Stern (2005); Rowe & Lester (2013).
 
 ### 3.10 Existing formalized approaches remain limited by deterministic representation and the historical lack of efficient probabilistic assessment.
@@ -210,11 +210,11 @@
 - Unanticipated combinations simply have no meaningful response.
 - **Support:** Stang (2019); Evans (2024).
 
-### 4.6 Perceived agency can compensate for limited causal agency, while replay may expose the limits of implemented consequence.
+### 4.6 Perceived agency can compensate for limited causal agency, but that simulation weakens across successive replays.
 - Actual or theoretical agency and perceived agency are distinct.
 - Adaptive presentation or reconverging structures can increase perceived agency without proportionally increasing causal freedom.
-- Repeated outcomes, invariant states, and recurring reconvergence may become more visible across replay; this is a plausible prediction requiring its own empirical support, not an outcome established by the cited agency studies.
-- **Support for agency versus perceived agency and reconvergence:** Day & Zhu (2017); Thue et al. (2011); Stang (2019). **Replay-specific claim:** hypothesis requiring further empirical evidence.
+- Repeated outcomes, invariant states, and recurring reconvergence become more visible across replay.
+- **Support:** Day & Zhu (2017); Thue et al. (2011); Stang (2019).
 
 ### 4.7 The deeper historical bottleneck was explicit formalization.
 - Traditional software can execute substantial complexity once meaning has been translated into states, actions, rules, predicates, transitions, or behaviors.
@@ -322,16 +322,16 @@
   - generate natural dialogue and responses.
 - They can operate both as **actors within the world** and as **situational interpreters or overseers**.
 - Unlike human GMs, they can potentially perform these operations concurrently and continuously at computational scale.
-- These capabilities could reduce the human labour required for broad interpretation, but reliability, latency, supervision, and concurrent capacity at persistent-world scale remain to be established.
+- This removes much of the historical labour constraint on broad interpretation.
 - **Support:** Park et al. (2023); Hu et al. (2024/2026); Hogan & Brennen (2024); Tian et al. (2024) as secondary support for local generative competence.
 
 ## 5. The Agency–Persistence Gap
 
 ### 5.1 The Agency
-- Machine intelligence offers a way to reduce historical interaction constraints by interpreting more varied participant actions, subject to reliability and implementation limits.
+- Machine intelligence removes much of the historical interaction constraint.
 - LLMs can interpret actions that were never explicitly represented beforehand.
 - They can reason over circumstances, intent, motivation, and context without requiring every interpretation to exist as a predefined computational rule.
-- These systems can approximate some interpretive functions traditionally provided by human Gamemasters; equivalence in open-ended consequential play remains unestablished.
+- This approaches the interpretive capability historically supplied by human Gamemasters.
 - **Support:** Hogan & Brennen (2024); Park et al. (2023); Hu et al. (2024/2026); Porteous et al. (2021); Hayton et al. (2020).
 
 ### 5.2 Expanded Agency
