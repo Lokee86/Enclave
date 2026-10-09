@@ -3284,3 +3284,9 @@ These are estimated volumes of model-driven Actor inference, not Participant cog
 - The central claim of Enclave is not that probabilistic models can replace authored narrative.
 - It is that persistent computation, controlled information, probabilistic interpretation, and human authorship can be combined so that authored narrative acquires substantially greater capacity to absorb Participant agency.
 - The intended result is **a deeply authored world whose narrative can remain coherent while responding persistently to actions its authors never individually anticipated**.
+
+---
+
+## Appendix C — The Replay Horizon: Epistemic Discovery and the Limits of Perceived Agency
+
+> **Working appendix:** [The Replay Horizon outline](appendix-replay-horizon-outline.md). A theoretical extension of §4.6 examining initial increases in perceived agency, the eventual exhaustion of discoverable outcomes in fixed finite narrative systems, epistemic calibration, and the still-unproven psychological effect of discovering reconvergence.
