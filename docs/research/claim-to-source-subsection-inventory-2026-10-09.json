@@ -1,0 +1,2078 @@
+{
+  "audit_date": "2026-10-09",
+  "source_outline": "docs/paper-outline.md",
+  "method": "Complete subsection inventory, focused substantive source audit only for specifically flagged sections. Unflagged entries are NOT source-verified.",
+  "counts": {
+    "sections": 17,
+    "subsections": 139,
+    "focused_reviewed_subsections": 34
+  },
+  "subsections": [
+    {
+      "section": 1,
+      "id": "1.1",
+      "heading": "Interactive narrative traditionally trades participant freedom against authorial control.",
+      "claim_type": "framework thesis / definition",
+      "representative_bullets": [
+        "Greater meaningful freedom creates more branches, dialogue states, contingencies, and consequences that must be anticipated and implemented."
+      ],
+      "outbound_support_lines": [],
+      "focused_review": "not_individually_verified",
+      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+    },
+    {
+      "section": 1,
+      "id": "1.2",
+      "heading": "Generative models expand reactive possibilities but create new authority problems.",
+      "claim_type": "framework thesis / definition",
+      "representative_bullets": [
+        "Characters can acquire knowledge they should not possess.",
+        "World state can become inconsistent.",
+        "Causality can drift."
+      ],
+      "outbound_support_lines": [],
+      "focused_review": "not_individually_verified",
+      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+    },
+    {
+      "section": 1,
+      "id": "1.3",
+      "heading": "The proposed architecture separates human authorship, authoritative state, reactive actors, and probabilistic assistance.",
+      "claim_type": "framework thesis / definition",
+      "representative_bullets": [
+        "Human authors define the narrative world, actors, knowledge, conflicts, motivations, relationships, intended events, and possible outcomes.",
+        "An authoritative state, information, and event system maintains narrative reality and governs propagation of claims, observations, beliefs, and consequences.",
+        "Reactive actors respond using only the information, beliefs, and state available to them."
+      ],
+      "outbound_support_lines": [],
+      "focused_review": "not_individually_verified",
+      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+    },
+    {
+      "section": 1,
+      "id": "1.4",
+      "heading": "Core objective",
+      "claim_type": "framework thesis / definition",
+      "representative_bullets": [
+        "Preserve human authorship while making authored narrative responsive without requiring every possible response to be authored in advance."
+      ],
+      "outbound_support_lines": [],
+      "focused_review": "not_individually_verified",
+      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+    },
+    {
+      "section": 2,
+      "id": "2.1",
+      "heading": "Human creative expression is individual rather than interchangeable.",
+      "claim_type": "literature-linked interpretive claim",
+      "representative_bullets": [
+        "Writers bring different linguistic habits, experiences, perspectives, cultural backgrounds, associations, and creative instincts to a work.",
+        "Human writing carries measurable individual and social signatures; in a large divergent-idea-generation benchmark, human participants showed greater variability and higher creativity at the upper end than the evaluated LLMs. That result concerns a specific creativity task rather than narrative authorship generally."
+      ],
+      "outbound_support_lines": [
+        "- **Support:** Sourati et al. (2026); Wang et al. (2026)."
+      ],
+      "focused_review": "scope_narrowed",
+      "review_note": "Divergent-idea task is not a general result about narrative authorship"
+    },
+    {
+      "section": 2,
+      "id": "2.2",
+      "heading": "Narrative depth is created through relationships across the complete work.",
+      "claim_type": "literature-linked interpretive claim",
+      "representative_bullets": [
+        "Character, theme, subtext, symbolism, pacing, conflict, foreshadowing, emotional development, turning points, and resolution gain meaning through their relationship to one another.",
+        "Human-authored stories show greater structural diversity, suspense, arousal, and variation in story arcs; expert-oriented evaluation also places more emphasis on thematic development and rhetorical variety than on surface fluency alone."
+      ],
+      "outbound_support_lines": [
+        "- **Support:** Tian et al. (2024); Marco et al. (2025)."
+      ],
+      "focused_review": "bounded_support",
+      "review_note": "Tian concerns evaluated stories; Marco concerns reader priorities"
+    },
+    {
+      "section": 2,
+      "id": "2.3",
+      "heading": "Independent human authorship produces substantial creative breadth.",
+      "claim_type": "literature-linked interpretive claim",
+      "representative_bullets": [
+        "Different authors do not merely produce different wording around the same underlying story.",
+        "In Xu et al.'s comparison of original human-written stories with outputs from GPT-4 and LLaMA-3, the generated stories repeated plot elements and combinations much more often. This establishes a limitation in the evaluated models and prompts, not a universal ranking of all human and model-generated narratives."
+      ],
+      "outbound_support_lines": [
+        "- **Support:** Xu et al. (2025)."
+      ],
+      "focused_review": "scope_narrowed",
+      "review_note": "Xu compares original short stories with two specified LLMs and prompts"
+    },
+    {
+      "section": 2,
+      "id": "2.4",
+      "heading": "Human authorship is therefore a design requirement of this architecture.",
+      "claim_type": "literature-linked interpretive claim",
+      "representative_bullets": [
+        "The objective is to preserve **deep, meaningful stories with breadth and depth that challenge and push the edges of philosophy**, while preserving the creative perspectives, long-range intent, and diversity produced by individual humans.",
+        "Human authorship supplies the larger creative purpose within which interactive events acquire meaning."
+      ],
+      "outbound_support_lines": [],
+      "focused_review": "not_individually_verified",
+      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+    },
+    {
+      "section": 2,
+      "id": "2.5",
+      "heading": "Meaningful participation requires meaningful response.",
+      "claim_type": "literature-linked interpretive claim",
+      "representative_bullets": [
+        "Participant freedom matters only when the world can react to what the participant does.",
+        "Agency is not merely the availability of inputs or choices; it is tied to meaningful action and perceivable consequence.",
+        "Interactive-narrative research explicitly treats the maintenance of agency and narrative coherence as a central design problem."
+      ],
+      "outbound_support_lines": [
+        "- **Support:** Hammond, Pain & Smith (2007)."
+      ],
+      "focused_review": "not_individually_verified",
+      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+    },
+    {
+      "section": 2,
+      "id": "2.6",
+      "heading": "Interactive narrative places unusual demands on human authorship.",
+      "claim_type": "literature-linked interpretive claim",
+      "representative_bullets": [
+        "Unlike conventional narrative, the audience can intervene in the work.",
+        "Participants may ignore intended paths, alter event order, combine actions unexpectedly, or attempt things the author never anticipated.",
+        "This unpredictability is a property of the medium, not a deficiency in human authorship."
+      ],
+      "outbound_support_lines": [
+        "- **Support:** Louchart & Aylett (2003)."
+      ],
+      "focused_review": "not_individually_verified",
+      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+    },
+    {
+      "section": 2,
+      "id": "2.7",
+      "heading": "Conventional interactive authoring mechanisms make broad responsiveness increasingly difficult to express.",
+      "claim_type": "literature-linked interpretive claim",
+      "representative_bullets": [
+        "Branching creates additional authored content.",
+        "Persistent choices produce increasing combinations of possible state.",
+        "More interactions require more conditional logic, alternate descriptions, dialogue, consequences, and testing."
+      ],
+      "outbound_support_lines": [
+        "- **Support:** Jones (2022); Jones & Millard (2024)."
+      ],
+      "focused_review": "not_individually_verified",
+      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+    },
+    {
+      "section": 2,
+      "id": "2.8",
+      "heading": "Conventional interactive authoring mechanisms therefore tend to produce a poor simulacrum of the intended experience.",
+      "claim_type": "literature-linked interpretive claim",
+      "representative_bullets": [
+        "One compromise is **pseudo-freeform structure**: the player appears to have broad narrative freedom, but meaningful reactions exist only inside anticipated branches and state combinations.",
+        "Branches may diverge temporarily and then reconverge, preserving the impression of consequence without supporting permanently divergent narrative states.",
+        "The other compromise is **open-ended but weakly consequential structure**: the player may explore freely and engage with many optional stories, but those stories often remain compartmentalized from the principal narrative and broader gameplay unless explicitly entered."
+      ],
+      "outbound_support_lines": [
+        "- **Support:** Stang (2019); Evans (2024)."
+      ],
+      "focused_review": "not_individually_verified",
+      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+    },
+    {
+      "section": 2,
+      "id": "2.9",
+      "heading": "Research on agency shows that the appearance of freedom can be separated from actual freedom.",
+      "claim_type": "literature-linked interpretive claim",
+      "representative_bullets": [
+        "Day & Zhu distinguish **theoretical agency** from **perceived agency**.",
+        "Thue et al. (2011) provide empirical support for perceived agency increasing without expanding the underlying action space.",
+        "Stang's analysis of *The Walking Dead* describes branching decisions that repeatedly reconverge."
+      ],
+      "outbound_support_lines": [
+        "- **Support:** Day & Zhu (2017); Thue et al. (2011); Stang (2019)."
+      ],
+      "focused_review": "direct_support",
+      "review_note": "Theoretical versus perceived agency distinguished; narrative reconvergence is case-study supported"
+    },
+    {
+      "section": 2,
+      "id": "2.10",
+      "heading": "Those limitations constrain both sides of the creative relationship.",
+      "claim_type": "literature-linked interpretive claim",
+      "representative_bullets": [
+        "Authors cannot reasonably anticipate and explicitly implement responses to everything a participant might attempt.",
+        "Participants are consequently limited either to actions for which meaningful responses were implemented, or to broader activities whose effects remain largely outside the consequential narrative.",
+        "The authorial-burden literature locates this problem in the growth of content, state management, and implementation work rather than in any shortage of human creative capacity."
+      ],
+      "outbound_support_lines": [
+        "- **Support:** Jones (2022); Jones & Millard (2024)."
+      ],
+      "focused_review": "not_individually_verified",
+      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+    },
+    {
+      "section": 2,
+      "id": "2.11",
+      "heading": "The architectural problem is therefore not how to diminish human authorship, but how to extend its reach.",
+      "claim_type": "literature-linked interpretive claim",
+      "representative_bullets": [
+        "Better interactive authoring mechanisms should allow human-authored worlds, characters, motivations, conflicts, and narrative intentions to respond coherently across a much larger range of participant behavior.",
+        "Greater participant freedom and deeper human authorship should reinforce one another rather than compete.",
+        "**Closing thesis:** *The limitation is not human creativity, but the machinery through which human creativity is currently made interactive.*"
+      ],
+      "outbound_support_lines": [],
+      "focused_review": "not_individually_verified",
+      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+    },
+    {
+      "section": 3,
+      "id": "3.1",
+      "heading": "Human authorship is expressed through worlds as well as sequences.",
+      "claim_type": "literature-linked interpretive claim",
+      "representative_bullets": [
+        "Narrative meaning can be embedded in places, institutions, relationships, histories, conflicts, objects, information, and affordances—not only in a predetermined chain of scenes.",
+        "A designed environment can carry narrative purpose before a specific traversal through it is known.",
+        "Different participants can encounter the same authored material in different orders and combinations without stripping it of authorial intent."
+      ],
+      "outbound_support_lines": [
+        "- **Support:** Jenkins (2004), *Game Design as Narrative Architecture*."
+      ],
+      "focused_review": "not_individually_verified",
+      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+    },
+    {
+      "section": 3,
+      "id": "3.2",
+      "heading": "Interactive authorship should prepare situations rather than scripts for participant behavior.",
+      "claim_type": "literature-linked interpretive claim",
+      "representative_bullets": [
+        "Participant action is inherently difficult to predict exhaustively.",
+        "The author can instead establish the circumstances from which consequences follow: people, motives, resources, constraints, relationships, locations, and pressures.",
+        "“Don’t prep plots, prep situations” is the clearest practitioner formulation of this distinction."
+      ],
+      "outbound_support_lines": [
+        "- **Support:** Alexander (2009), *Don’t Prep Plots*; Alexander (2015), *Tools, Not Contingencies*.",
+        "- **Supporting:** Alexander (2018), *Smart Prep*."
+      ],
+      "focused_review": "direct_practitioner",
+      "review_note": "Alexander explicitly advocates prepping situations instead of predetermined plots"
+    },
+    {
+      "section": 3,
+      "id": "3.3",
+      "heading": "Intended future developments can still be authored without becoming fixed plots.",
+      "claim_type": "literature-linked interpretive claim",
+      "representative_bullets": [
+        "Authors can establish likely future events, actor plans, timelines, goals, and dramatic destinations.",
+        "Those expectations remain conditional on the world continuing to develop in the anticipated way.",
+        "When participant action changes the situation, future developments are reconsidered from the new state rather than forcibly preserved."
+      ],
+      "outbound_support_lines": [
+        "- **Support:** Alexander (2009), *Don’t Prep Plots: Prepping Scenario Timelines*.",
+        "- **Supporting:** Alexander (2026), *Is Node-Based Design Prepping a Plot?*"
+      ],
+      "focused_review": "not_individually_verified",
+      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+    },
+    {
+      "section": 3,
+      "id": "3.4",
+      "heading": "Information is one of the principal structures through which narrative possibility is organized.",
+      "claim_type": "literature-linked interpretive claim",
+      "representative_bullets": [
+        "What participants know determines what they can understand, pursue, question, reveal, conceal, or interfere with.",
+        "Important information should not depend on one brittle discovery path.",
+        "Revelations can be separated from the particular clues or routes by which they become available."
+      ],
+      "outbound_support_lines": [
+        "- **Support:** Alexander (2008), *Three Clue Rule*; Alexander (2010), *Node-Based Scenario Design – Part 3: Inverting the Three Clue Rule*; Alexander (2018), *Using Revelation Lists*; Alexander (2020), *The Secret Life of Nodes*."
+      ],
+      "focused_review": "not_individually_verified",
+      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+    },
+    {
+      "section": 3,
+      "id": "3.5",
+      "heading": "Narrative structure can arise from the diegetic organization of the world itself.",
+      "claim_type": "literature-linked interpretive claim",
+      "representative_bullets": [
+        "People, places, organizations, events, and activities can become loci of interaction because of their actual relationships in the fictional world.",
+        "Structure does not have to be imposed purely as an abstract scene graph.",
+        "“Node” should not become the ontology of the world."
+      ],
+      "outbound_support_lines": [
+        "- **Support:** Alexander (2010), *Node-Based Scenario Design – Part 9: Types of Nodes*; Alexander (2020), *Naturalistic Node Design*."
+      ],
+      "focused_review": "not_individually_verified",
+      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+    },
+    {
+      "section": 3,
+      "id": "3.6",
+      "heading": "Actors give authored situations motion.",
+      "claim_type": "literature-linked interpretive claim",
+      "representative_bullets": [
+        "Actors should have goals, resources, relationships, knowledge, and plans rather than simply waiting for a participant to trigger a scripted branch.",
+        "Opposition and conflict can arise from what actors want and are capable of doing.",
+        "The world can act **toward** the participant through proactive actors and events rather than remaining passively discoverable."
+      ],
+      "outbound_support_lines": [
+        "- **Support:** Alexander (2009), *Don’t Prep Plots*; Alexander (2011), *Advanced Node-Based Design – Part 1: Moving Between Nodes*; Alexander (2015), *You Will Rue This Day, Heroes!*."
+      ],
+      "focused_review": "not_individually_verified",
+      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+    },
+    {
+      "section": 3,
+      "id": "3.7",
+      "heading": "Authored narrative material can be conditional rather than sequential.",
+      "claim_type": "literature-linked interpretive claim",
+      "representative_bullets": [
+        "Storylets demonstrate that authored content can exist independently and become available when prerequisites are satisfied.",
+        "Completed content can alter shared state, which changes what becomes possible next.",
+        "This permits deliberate narrative arcs without encoding every route through them as a branch tree."
+      ],
+      "outbound_support_lines": [
+        "- **Support:** Short (2019), *Storylets: You Want Them*; Short (2019), *Storylets Play Together*.",
+        "- **Supporting practitioner references:** Failbetter Games, *StoryNexus Developer Diary #2*; *Echo Bazaar Narrative Structures, Part Two*."
+      ],
+      "focused_review": "direct_practitioner",
+      "review_note": "Storylets and QBN are state-conditioned authored structures"
+    },
+    {
+      "section": 3,
+      "id": "3.8",
+      "heading": "Emergent sequence is a form of participant authorship within a purposefully authored world.",
+      "claim_type": "literature-linked interpretive claim",
+      "representative_bullets": [
+        "Human authors define the world, its meaningful structures, conflicts, actors, information, and possibilities.",
+        "Participants meaningfully author part of the realized narrative by determining which authored forces they encounter, disrupt, combine, or redirect.",
+        "The realized sequence can emerge through interaction among authored structures without implying that authorship has disappeared."
+      ],
+      "outbound_support_lines": [
+        "- **Support:** Louchart et al. (2008), *Purposeful Authoring for Emergent Narrative*."
+      ],
+      "focused_review": "not_individually_verified",
+      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+    },
+    {
+      "section": 3,
+      "id": "3.9",
+      "heading": "Authorial leverage should be understood as increased narrative richness for a given amount of authoring work.",
+      "claim_type": "literature-linked interpretive claim",
+      "representative_bullets": [
+        "The objective is not merely to reduce the number of explicit branches.",
+        "Avoiding the full **branching tax** allows creative effort to be spent on richer characters, relationships, factions, consequential information, authored situations, thematic material, and alternative developments.",
+        "Drama-management research offers ways to measure greater narrative possibility for a given amount of authoring effort; achieving comparable authorial leverage with Enclave remains a design objective to be evaluated."
+      ],
+      "outbound_support_lines": [
+        "- **Support:** Chen, Nelson & Mateas (2009); Nelson, Ashmore & Mateas (2006); Mateas & Stern (2005); Rowe & Lester (2013)."
+      ],
+      "focused_review": "scope_narrowed",
+      "review_note": "Authorial leverage studies do not measure Enclave"
+    },
+    {
+      "section": 3,
+      "id": "3.10",
+      "heading": "Existing formalized approaches remain limited by deterministic representation and the historical lack of efficient probabilistic assessment.",
+      "claim_type": "literature-linked interpretive claim",
+      "representative_bullets": [
+        "Branches, state machines, storylets, planner actions, drama-manager interventions, and other formal structures can only react to possibilities represented in their state, rules, content, or transition models.",
+        "They remain bounded by what has been explicitly formalized.",
+        "The limitation is not only branching itself, but the need for deterministic machinery to decide in advance what situations mean and what responses are available."
+      ],
+      "outbound_support_lines": [
+        "- **Support:** Nelson, Ashmore & Mateas (2006); Mateas & Stern (2005); Rowe & Lester (2013); Short (2019); Failbetter Games."
+      ],
+      "focused_review": "historical_claim_unproven",
+      "review_note": "Research cited concerns specific architectures, not exhaustive historical absence of general probabilistic assessment"
+    },
+    {
+      "section": 4,
+      "id": "4.1",
+      "heading": "The branching problem is fundamentally a state-space problem, not merely a tree-of-scenes problem.",
+      "claim_type": "literature-linked interpretive claim",
+      "representative_bullets": [
+        "Every consequential participant action can alter multiple dimensions of narrative state: relationships, knowledge, beliefs, resources, locations, faction conditions, event eligibility, and future opportunities.",
+        "Two stories that arrive at the same nominal scene may represent materially different narrative states.",
+        "As those dimensions accumulate, the number of meaningful combinations grows rapidly."
+      ],
+      "outbound_support_lines": [
+        "- **Support:** Jones (2022); Jones & Millard (2024); Fisher (2022)."
+      ],
+      "focused_review": "not_individually_verified",
+      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+    },
+    {
+      "section": 4,
+      "id": "4.2",
+      "heading": "Persistent consequence creates the branching tax.",
+      "claim_type": "literature-linked interpretive claim",
+      "representative_bullets": [
+        "If earlier actions continue to matter, later narrative material must remain compatible with combinations of earlier state.",
+        "Cost includes conditional logic, state tracking, alternate dialogue, actor behavior, testing, recovery paths, and content needed to keep divergent states meaningful.",
+        "Reconvergence reduces that cost precisely because it collapses some persistent divergence."
+      ],
+      "outbound_support_lines": [
+        "- **Support:** Jones (2022); Jones & Millard (2024); Alexander (2010), *Node-Based Scenario Design – Part 2: Choose Your Own Adventure*."
+      ],
+      "focused_review": "not_individually_verified",
+      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+    },
+    {
+      "section": 4,
+      "id": "4.3",
+      "heading": "Replacing explicit branches with planning or simulation does not remove the underlying representation problem.",
+      "claim_type": "literature-linked interpretive claim",
+      "representative_bullets": [
+        "A planner can generate sequences that were not individually authored as paths.",
+        "It still needs actions, predicates, objects, relationships, preconditions, and effects represented in a machine-readable domain.",
+        "The combinatorial problem can be moved into a formal model without disappearing."
+      ],
+      "outbound_support_lines": [
+        "- **Support:** Porteous et al. (2021); Hayton et al. (2020); Fisher (2022)."
+      ],
+      "focused_review": "direct_support",
+      "review_note": "Narrative planning domain modeling bottleneck established by Hayton and Porteous"
+    },
+    {
+      "section": 4,
+      "id": "4.4",
+      "heading": "Traditional computational architectures are useful foundations and stepping stones toward richer reactive systems.",
+      "claim_type": "literature-linked interpretive claim",
+      "representative_bullets": [
+        "Finite-state machines, behavior trees, planners, drama managers, state-conditioned content, and related techniques provide valuable ways to structure, reuse, constrain, and compose behavior.",
+        "Drama management and narrative planning improve authorial leverage by selecting, combining, or sequencing authored structures at runtime.",
+        "These approaches provide deterministic structure, compositional machinery, and authorial control that remain useful."
+      ],
+      "outbound_support_lines": [
+        "- **Support:** Iovino et al. (2022); Riedl & Bulitko (2013); Nelson, Ashmore & Mateas (2006); Rowe & Lester (2013); Short (2019); Failbetter Games."
+      ],
+      "focused_review": "direct_support",
+      "review_note": "Iovino documents finite-state-machine modularity/scalability issues motivating BTs"
+    },
+    {
+      "section": 4,
+      "id": "4.5",
+      "heading": "Interactive systems commonly manage complexity by collapsing causal possibility.",
+      "claim_type": "literature-linked interpretive claim",
+      "representative_bullets": [
+        "Branches reconverge.",
+        "Decisions produce temporary variations but return to common states.",
+        "Side stories remain isolated from the principal narrative."
+      ],
+      "outbound_support_lines": [
+        "- **Support:** Stang (2019); Evans (2024)."
+      ],
+      "focused_review": "not_individually_verified",
+      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+    },
+    {
+      "section": 4,
+      "id": "4.6",
+      "heading": "Perceived agency can compensate for limited causal agency, while replay may expose the limits of implemented consequence.",
+      "claim_type": "literature-linked interpretive claim",
+      "representative_bullets": [
+        "Actual or theoretical agency and perceived agency are distinct.",
+        "Adaptive presentation or reconverging structures can increase perceived agency without proportionally increasing causal freedom.",
+        "Repeated outcomes, invariant states, and recurring reconvergence may become more visible across replay; this is a plausible prediction requiring its own empirical support, not an outcome established by the cited agency studies."
+      ],
+      "outbound_support_lines": [
+        "- **Support for agency versus perceived agency and reconvergence:** Day & Zhu (2017); Thue et al. (2011); Stang (2019). **Replay-specific claim:** hypothesis requiring further empirical evidence."
+      ],
+      "focused_review": "replay_hypothesis_unsourced",
+      "review_note": "Three cited references do not test a repeat-playthrough decline in perceived agency"
+    },
+    {
+      "section": 4,
+      "id": "4.7",
+      "heading": "The deeper historical bottleneck was explicit formalization.",
+      "claim_type": "literature-linked interpretive claim",
+      "representative_bullets": [
+        "Traditional software can execute substantial complexity once meaning has been translated into states, actions, rules, predicates, transitions, or behaviors.",
+        "The difficult part is turning unforeseen human action or ambiguous social situations into those formal structures.",
+        "A human gamemaster can interpret intent, determine relevance, consider actor knowledge and goals, judge plausible responses, and decide which rules apply without enumerating those interpretations in advance."
+      ],
+      "outbound_support_lines": [
+        "- **Support:** Fisher (2022); Porteous et al. (2021); Hayton et al. (2020); Iovino et al. (2022); Hogan & Brennen (2024)."
+      ],
+      "focused_review": "not_individually_verified",
+      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+    },
+    {
+      "section": 4,
+      "id": "4.8",
+      "heading": "Modern probabilistic models materially change what must be formalized in advance.",
+      "claim_type": "literature-linked interpretive claim",
+      "representative_bullets": [
+        "Models can interpret open-ended situations, retrieve contextual information, reason over prose descriptions, propose actions, and synthesize plausible candidate events or developments that were not individually enumerated beforehand.",
+        "This is not limited to language models.",
+        "Probabilistic judgment can extend the reachable possibility space without requiring every interpretation, actor response, or candidate development to be hand-authored as a branch or symbolic rule."
+      ],
+      "outbound_support_lines": [
+        "- **Support:** Park et al. (2023); Hu et al. (2024/2026); Hogan & Brennen (2024)."
+      ],
+      "focused_review": "narrow_scope",
+      "review_note": "Park and Hogan demonstrate specific open-ended interactions, not unrestricted feasible actions"
+    },
+    {
+      "section": 4,
+      "id": "4.9",
+      "heading": "Probabilistic flexibility does not by itself solve narrative authority.",
+      "claim_type": "literature-linked interpretive claim",
+      "representative_bullets": [
+        "A model that can plausibly infer or synthesize what might happen can also invent events, actions, facts, or consequences that were never established.",
+        "Believable behavior is not authoritative causal correctness.",
+        "Explicit authority boundaries remain necessary."
+      ],
+      "outbound_support_lines": [
+        "- **Support:** Hogan & Brennen (2024); Park et al. (2023)."
+      ],
+      "focused_review": "design_synthesis",
+      "review_note": "Separation from authority is normative; Kambhampati offers external-verifier precedent"
+    },
+    {
+      "section": 4,
+      "id": "4.10",
+      "heading": "The new opportunity is not to replace deterministic systems, but to augment them and change what they do and how they do it.",
+      "claim_type": "literature-linked interpretive claim",
+      "representative_bullets": [
+        "Deterministic systems remain suited to authoritative state, constraints, permissions, event preconditions, persistence, and validated causal effects.",
+        "Probabilistic systems can handle interpretation, contextual relevance, actor reasoning, plausible intentions, semantic ambiguity, and proposal of responses.",
+        "Deterministic architectures can shift from enumerating the entire meaningful response space toward validating, constraining, composing, and persisting proposed outcomes."
+      ],
+      "outbound_support_lines": [
+        "- **Support:** Marra et al. (2024); Gao et al. (2023); Kambhampati et al. (2024)."
+      ],
+      "focused_review": "not_individually_verified",
+      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+    },
+    {
+      "section": 4,
+      "id": "4.11",
+      "heading": "The branching problem can therefore be reframed around the computational constraints that branching makes necessary.",
+      "claim_type": "literature-linked interpretive claim",
+      "representative_bullets": [
+        "Meaningful divergence creates rapidly increasing combinations of narrative state, authored content, and possible response.",
+        "Conventional computation historically required much of that meaning to be represented explicitly.",
+        "Prior narrative architectures remain valuable for reuse, recombination, management, and control."
+      ],
+      "outbound_support_lines": [
+        "- **Support:** Marra et al. (2024); Gao et al. (2023); Kambhampati et al. (2024)."
+      ],
+      "focused_review": "not_individually_verified",
+      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+    },
+    {
+      "section": 4,
+      "id": "4.12",
+      "heading": "A Fundamentally Combinatorial Problem Space",
+      "claim_type": "literature-linked interpretive claim",
+      "representative_bullets": [
+        "Player agency itself is not the problem; the difficulty comes from attempting to provide **meaningful consequential agency** computationally.",
+        "Consequential actions can affect world state, relationships, information and beliefs, resources, actor behaviour, future events, and future opportunities.",
+        "Persistent consequences create new circumstances that later interactions must account for."
+      ],
+      "outbound_support_lines": [
+        "- **Support:** Jones (2022); Jones & Millard (2024); Fisher (2022); Porteous et al. (2021); Hayton et al. (2020)."
+      ],
+      "focused_review": "not_individually_verified",
+      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+    },
+    {
+      "section": 4,
+      "id": "4.13",
+      "heading": "Existing Designs Reduce the Problem by Imposing Limits",
+      "claim_type": "literature-linked interpretive claim",
+      "representative_bullets": [
+        "Existing systems make the problem tractable by limiting the causal space they must support.",
+        "Common approaches include:",
+        "explicitly branching narratives;"
+      ],
+      "outbound_support_lines": [
+        "- **Support:** Stang (2019); Day & Zhu (2017); Thue et al. (2011); Evans (2024); Short (2019); Failbetter Games; Alexander (2010), *Node-Based Scenario Design – Part 2: Choose Your Own Adventure*."
+      ],
+      "focused_review": "not_individually_verified",
+      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+    },
+    {
+      "section": 4,
+      "id": "4.14",
+      "heading": "Scale Exacerbates the Issue",
+      "claim_type": "literature-linked interpretive claim",
+      "representative_bullets": [
+        "Larger game spaces create more actors, locations, objects, institutions, relationships, and possible consequences.",
+        "The limitation is **not simply the amount of state that can be stored**.",
+        "Computational systems can maintain enormous persistent worlds."
+      ],
+      "outbound_support_lines": [
+        "- **Support:** Fisher (2022); Porteous et al. (2021); Hayton et al. (2020); Iovino et al. (2022); Riedl & Bulitko (2013); Hogan & Brennen (2024)."
+      ],
+      "focused_review": "not_individually_verified",
+      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+    },
+    {
+      "section": 4,
+      "id": "4.15",
+      "heading": "The Analog Solution",
+      "claim_type": "literature-linked interpretive claim",
+      "representative_bullets": [
+        "Tabletop and in-person gaming have addressed this problem for decades through the **Gamemaster**.",
+        "A GM does not need every participant action to have been anticipated beforehand.",
+        "Instead, the GM interprets attempted action in relation to:"
+      ],
+      "outbound_support_lines": [
+        "- **Support:** Alexander (2009), *Don’t Prep Plots*; Alexander (2015), *Tools, Not Contingencies*; Alexander (2009), scenario timelines; Alexander (2012), *Game Structures*; Alexander (2020), *The Secret Life of Nodes*; Hogan & Brennen (2024)."
+      ],
+      "focused_review": "not_individually_verified",
+      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+    },
+    {
+      "section": 4,
+      "id": "4.16",
+      "heading": "The Prohibitive Costs of Persistent Human Labour",
+      "claim_type": "literature-linked interpretive claim",
+      "representative_bullets": [
+        "Human Gamemasters provide the interpretive flexibility required for broad agency.",
+        "They do not scale like computational worlds.",
+        "Human availability is constrained by working hours, attention, concurrency, memory, and server/geographic coverage."
+      ],
+      "outbound_support_lines": [
+        "- **Support:** Brown (2000); *Reab v. Electronic Arts* (2002); Thompson (2009); Williams (2009); Park (2003)."
+      ],
+      "focused_review": "narrow_scope",
+      "review_note": "UO counselors primarily support; Matrix Online accounts are retrospective"
+    },
+    {
+      "section": 4,
+      "id": "4.17",
+      "heading": "Machine Intelligence as Actors and Situational Overseers",
+      "claim_type": "literature-linked interpretive claim",
+      "representative_bullets": [
+        "Modern probabilistic systems can perform many operations that previously required human interpretation.",
+        "They can:",
+        "interpret open-ended actions;"
+      ],
+      "outbound_support_lines": [
+        "- **Support:** Park et al. (2023); Hu et al. (2024/2026); Hogan & Brennen (2024); Tian et al. (2024) as secondary support for local generative competence."
+      ],
+      "focused_review": "not_individually_verified",
+      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+    },
+    {
+      "section": 5,
+      "id": "5.1",
+      "heading": "The Agency",
+      "claim_type": "literature-linked interpretive claim",
+      "representative_bullets": [
+        "Machine intelligence removes much of the historical interaction constraint.",
+        "LLMs can interpret actions that were never explicitly represented beforehand.",
+        "They can reason over circumstances, intent, motivation, and context without requiring every interpretation to exist as a predefined computational rule."
+      ],
+      "outbound_support_lines": [
+        "- **Support:** Hogan & Brennen (2024); Park et al. (2023); Hu et al. (2024/2026); Porteous et al. (2021); Hayton et al. (2020)."
+      ],
+      "focused_review": "not_individually_verified",
+      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+    },
+    {
+      "section": 5,
+      "id": "5.2",
+      "heading": "Expanded Agency",
+      "claim_type": "literature-linked interpretive claim",
+      "representative_bullets": [
+        "Participants no longer necessarily need to express consequential actions through a predefined interaction vocabulary.",
+        "The system can potentially interpret what they are trying to accomplish and relate it to existing circumstances.",
+        "Actors can likewise react to combinations of circumstances that were never specifically scripted."
+      ],
+      "outbound_support_lines": [
+        "- **Support:** Hogan & Brennen (2024); Park et al. (2023); Alexander (2009/2015)."
+      ],
+      "focused_review": "not_individually_verified",
+      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+    },
+    {
+      "section": 5,
+      "id": "5.3",
+      "heading": "The Persistence",
+      "claim_type": "literature-linked interpretive claim",
+      "representative_bullets": [
+        "**Extensive agency produces extensive persistent consequences and extensive persistence requirements.**",
+        "For interactions to be meaningful, their outcomes must persist beyond the duration of the model call.",
+        "Novel actions may change state, knowledge, beliefs, relationships, possessions, plans, institutions, future event eligibility, and later actor reactions."
+      ],
+      "outbound_support_lines": [
+        "- **Support:** Park et al. (2023); Wu et al. (2025), *LongMemEval*; Jones (2022); Jones & Millard (2024); Fisher (2022)."
+      ],
+      "focused_review": "not_individually_verified",
+      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+    },
+    {
+      "section": 5,
+      "id": "5.4",
+      "heading": "LLMs Are Poorly Suited to Maintaining State",
+      "claim_type": "literature-linked interpretive claim",
+      "representative_bullets": [
+        "LLMs are effective interpreters of state but unreliable custodians of it.",
+        "Their active context is finite.",
+        "Long-running worlds can produce far more relevant history than can remain active simultaneously."
+      ],
+      "outbound_support_lines": [
+        "- **Support:** Liu et al. (2024), *Lost in the Middle*; Bai et al. (2024), *LongBench*; Hsieh et al. (2024), *RULER*; Wu et al. (2025), *LongMemEval*; Hogan & Brennen (2024)."
+      ],
+      "focused_review": "direct_support_bounded",
+      "review_note": "Liu/Wu/Hsieh/Bai benchmark imperfect context use; no proof all LLMs fail every state task"
+    },
+    {
+      "section": 5,
+      "id": "5.5",
+      "heading": "Naive Applications Create Linear Storage Problems",
+      "claim_type": "literature-linked interpretive claim",
+      "representative_bullets": [
+        "If every consequential interaction generates retained information and that information is not discarded, historical storage grows at least proportionally with consequential interaction count: **O(N) retained history** in the naive case.",
+        "Long-running actors accumulate observations, relationships, beliefs, decisions, event histories, provenance, and state transitions.",
+        "Actor-specific references, indexes, derived state, and propagation metadata can add further overhead."
+      ],
+      "outbound_support_lines": [
+        "- **Support:** Wu et al. (2025), *LongMemEval*; Park et al. (2023); Packer et al. (2023), *MemGPT*; PostgreSQL storage-page and TOAST documentation; SQLite database file-format documentation."
+      ],
+      "focused_review": "logical_deduction",
+      "review_note": "O(N) storage growth follows stipulated record retention; PostgreSQL/SQLite support overhead only"
+    },
+    {
+      "section": 5,
+      "id": "5.6",
+      "heading": "The Gap",
+      "claim_type": "literature-linked interpretive claim",
+      "representative_bullets": [
+        "**This is the Agency–Persistence Gap.**",
+        "Broad agency requires flexible interpretation of unforeseen actions and circumstances.",
+        "Meaningful agency requires the consequences of those actions to persist."
+      ],
+      "outbound_support_lines": [
+        "- **Support:** Enclave synthesis drawing on Hogan & Brennen (2024); Park et al. (2023); Liu et al. (2024); Bai et al. (2024); Hsieh et al. (2024); Wu et al. (2025); Fisher (2022); Porteous et al. (2021)."
+      ],
+      "focused_review": "not_individually_verified",
+      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+    },
+    {
+      "section": 5,
+      "id": "5.7",
+      "heading": "Fertile Ground",
+      "claim_type": "literature-linked interpretive claim",
+      "representative_bullets": [
+        "**This leaves us with two unusually complementary systems.**",
+        "durable persistence;",
+        "exact representation;"
+      ],
+      "outbound_support_lines": [
+        "- **Support:** Cowan (2001); Oberauer et al. (2016); Schacter & Addis (2007); Schacter (2012); Johnson, Hashtroudi & Lindsay (1993); Buschman (2021); Liu et al. (2024); Hsieh et al. (2024); Wu et al. (2025); Gao et al. (2023), *PAL*; Kambhampati et al. (2024), *LLM-Modulo*; Marra et al. (2024)."
+      ],
+      "focused_review": "cross_domain_analogy",
+      "review_note": "Human memory psychology is analogy, not proof of equivalence to LLM failure"
+    },
+    {
+      "section": 5,
+      "id": "5.8",
+      "heading": "Enclave as an Architectural Response",
+      "claim_type": "literature-linked interpretive claim",
+      "representative_bullets": [
+        "Enclave treats the Agency–Persistence Gap as an **architectural boundary**, not as something that can simply be eliminated with a larger model or larger context window.",
+        "It combines:",
+        "persistent computational state;"
+      ],
+      "outbound_support_lines": [
+        "- **Support:** Gao et al. (2023), *PAL*; Kambhampati et al. (2024), *LLM-Modulo*; Marra et al. (2024); Hogan & Brennen (2024); Park et al. (2023)."
+      ],
+      "focused_review": "not_individually_verified",
+      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+    },
+    {
+      "section": 6,
+      "id": "6.1",
+      "heading": "Sandboxing the World Is Already Highly Developed",
+      "claim_type": "literature-linked interpretive claim",
+      "representative_bullets": [
+        "Modern games can support very large spaces of participant action without individually authoring every resulting world configuration.",
+        "Developers define systems, objects, rules, constraints, and affordances; players combine those elements during play.",
+        "Runtime interaction can therefore generate valid world states and events that were never individually enumerated beforehand."
+      ],
+      "outbound_support_lines": [
+        "- **Support:** Juul (2002), *The Open and the Closed*; Soler-Adillon (2019), *The Open, the Closed and the Emergent*."
+      ],
+      "focused_review": "conceptual_support",
+      "review_note": "Juul emergence/progression concept; not measurement of modern sandbox maturity"
+    },
+    {
+      "section": 6,
+      "id": "6.2",
+      "heading": "Sandbox Systems Already Accommodate Genuine Emergence",
+      "claim_type": "literature-linked interpretive claim",
+      "representative_bullets": [
+        "Supported systems can interact in combinations nobody explicitly scripted.",
+        "A resulting event does not need to have existed as a specific authored branch to be valid if it follows from the underlying systems.",
+        "Simulation-heavy games can produce character histories, conflicts, losses, alliances, strategic reversals, and other events from systemic interaction."
+      ],
+      "outbound_support_lines": [
+        "- **Support:** Juul (2002); Ryan (2018), *Curating Simulated Storyworlds*; Adams (2021), *Characterization and Emergent Narrative in Dwarf Fortress*; Burgess & Jones (2023), *Exploring how players use emergent narrative in strategy games*; Johnson-Bey, Nelson & Mateas (2022), *Neighborly*."
+      ],
+      "focused_review": "direct_support",
+      "review_note": "Juul, Adams and Neighborly demonstrate systemic/emergent narrative"
+    },
+    {
+      "section": 6,
+      "id": "6.3",
+      "heading": "Existing Sandboxes Still Operate Through a Bounded Interaction Vocabulary",
+      "claim_type": "literature-linked interpretive claim",
+      "representative_bullets": [
+        "Sandbox capability is not literal unlimited freedom.",
+        "The world can only directly resolve properties, actions, and interactions represented by its computational systems.",
+        "A finite ruleset may produce enormous variation while still defining the vocabulary through which that variation occurs."
+      ],
+      "outbound_support_lines": [
+        "- **Support:** Juul (2002); Soler-Adillon (2019); Fisher (2022); Porteous et al. (2021); Hayton et al. (2020); Iovino et al. (2022)."
+      ],
+      "focused_review": "not_individually_verified",
+      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+    },
+    {
+      "section": 6,
+      "id": "6.4",
+      "heading": "State Persistence Is Not the Central Sandbox Limitation",
+      "claim_type": "literature-linked interpretive claim",
+      "representative_bullets": [
+        "Sandbox worlds can already preserve large quantities of changing state.",
+        "Objects move, inventories change, resources are consumed, characters die, territories change hands, structures are created or destroyed, and these consequences can remain part of the world.",
+        "Persistent online worlds further demonstrate that computational state can outlive the interaction or session that created it."
+      ],
+      "outbound_support_lines": [
+        "- **Support:** Juul (2002), especially *EverQuest* as a persistent emergent world; existing §5 persistent-world research on *Ultima Online*, *Asheron's Call*, and *The Matrix Online*."
+      ],
+      "focused_review": "partial_support",
+      "review_note": "Persistence possible but examples do not establish global centrality of limitation"
+    },
+    {
+      "section": 6,
+      "id": "6.5",
+      "heading": "Narrative Is Usually Less Sandboxed Than the World",
+      "claim_type": "literature-linked interpretive claim",
+      "representative_bullets": [
+        "A game may provide extraordinary systemic freedom while its authored narrative remains comparatively rigid.",
+        "Modern open-world games commonly combine mechanically rich exploration with a comparatively linear central plot and optional side material.",
+        "This does **not** mean sandbox systems fail to produce narrative."
+      ],
+      "outbound_support_lines": [
+        "- **Support:** Juul (2002); Evans (2024); Ryan (2018); Adams (2021); Burgess & Jones (2023); Grinblat, Manning & Kreminski (2021), *Emergent Narrative and Reparative Play*; Jenkins (2004)."
+      ],
+      "focused_review": "broad_generalization",
+      "review_note": "Studies distinguish examples but not prevalence of narrative limitations across games"
+    },
+    {
+      "section": 6,
+      "id": "6.6",
+      "heading": "The Missing Capability Is a Reactive Authored Narrative Sandbox",
+      "claim_type": "literature-linked interpretive claim",
+      "representative_bullets": [
+        "Existing research already uses **narrative sandbox** for systems that rely heavily on emergence to produce narrative effects.",
+        "Enclave's narrower concern is therefore not to claim invention of narrative sandboxing itself.",
+        "The missing capability identified here is the ability for **deeply authored narrative structures to absorb emergent world events as persistent, meaningful inputs** without requiring every resulting reaction to be explicitly authored beforehand."
+      ],
+      "outbound_support_lines": [
+        "- **Support:** Louchart et al. (2008); Jenkins (2004); Short (2019); Failbetter Games; Chen, Nelson & Mateas (2009); Johnson-Bey, Nelson & Mateas (2022); Grinblat, Manning & Kreminski (2021)."
+      ],
+      "focused_review": "unproven_exclusivity",
+      "review_note": "No exhaustive prior-art proof that architecture is a missing capability"
+    },
+    {
+      "section": 7,
+      "id": "7.1",
+      "heading": "Sandboxing the Narrative",
+      "claim_type": "framework thesis / definition",
+      "representative_bullets": [
+        "Section 6 established that sandbox systems can generate enormous spaces of valid world state and emergent events without requiring developers to enumerate every resulting configuration.",
+        "Historically, granting participants comparable freedom within **deeply authored narrative** has faced distinct limitations and has not achieved the same flexibility.",
+        "Games such as *Dwarf Fortress*, *The Sims*, *Neighborly*, and other narrative or simulation sandboxes demonstrate that complex and meaningful stories can emerge from systemic interaction."
+      ],
+      "outbound_support_lines": [],
+      "focused_review": "not_individually_verified",
+      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+    },
+    {
+      "section": 7,
+      "id": "7.2",
+      "heading": "Three Primitive Families",
+      "claim_type": "framework thesis / definition",
+      "representative_bullets": [
+        "Enclave represents the running narrative world independently of any current model invocation or Actor interpretation.",
+        "Enclave organizes its foundational primitive ontology into three families: **Knowledge**, **Nexuses**, and **Classification**.",
+        "The **Knowledge** family contains **Facts**, **Memories**, and **Events**."
+      ],
+      "outbound_support_lines": [],
+      "focused_review": "not_individually_verified",
+      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+    },
+    {
+      "section": 7,
+      "id": "7.3",
+      "heading": "Human Authors Define the Knowledge Base",
+      "claim_type": "framework thesis / definition",
+      "representative_bullets": [
+        "Human authors define the initial contents and structure of the persistent narrative world to create the initial **Knowledge Base**:",
+        "people;",
+        "institutions;"
+      ],
+      "outbound_support_lines": [],
+      "focused_review": "not_individually_verified",
+      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+    },
+    {
+      "section": 7,
+      "id": "7.4",
+      "heading": "Nexus Interactions Create Cause and Effect",
+      "claim_type": "framework thesis / definition",
+      "representative_bullets": [
+        "Narrative state merely describes the current world, but for the system to work actions must have consequences.",
+        "Actions alter circumstances and introduce new information.",
+        "New information alters the Knowledge available through Loci and may change the circumstances under which Actors act."
+      ],
+      "outbound_support_lines": [],
+      "focused_review": "not_individually_verified",
+      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+    },
+    {
+      "section": 7,
+      "id": "7.5",
+      "heading": "Knowledge Control and Classification",
+      "claim_type": "framework thesis / definition",
+      "representative_bullets": [
+        "A persistent Knowledge Base of meaningful scale cannot be treated as an undifferentiated collection of information.",
+        "Enclave therefore organizes Knowledge through **Domains**: broad semantic classifications representing major areas of knowledge within the world.",
+        "Domains may describe areas such as:"
+      ],
+      "outbound_support_lines": [],
+      "focused_review": "not_individually_verified",
+      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+    },
+    {
+      "section": 7,
+      "id": "7.6",
+      "heading": "Narrative as Emergent State",
+      "claim_type": "framework thesis / definition",
+      "representative_bullets": [
+        "As a result, narrative is not represented as a sequence of scenes, branches, or states through which the system advances.",
+        "The realized narrative is instead the continuously evolving state produced by interaction between:",
+        "the human-authored **Knowledge Base**;"
+      ],
+      "outbound_support_lines": [],
+      "focused_review": "not_individually_verified",
+      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+    },
+    {
+      "section": 7,
+      "id": "7.7",
+      "heading": "Why It Can Work",
+      "claim_type": "framework thesis / definition",
+      "representative_bullets": [
+        "Existing approaches demonstrate that the individual capabilities required by Enclave are already viable, but each addresses only part of the larger problem.",
+        "Modern sandbox systems are highly effective at:",
+        "maintaining large persistent worlds;"
+      ],
+      "outbound_support_lines": [],
+      "focused_review": "not_individually_verified",
+      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+    },
+    {
+      "section": 8,
+      "id": "8.1",
+      "heading": "Different Authority for Different Layers",
+      "claim_type": "framework thesis / definition",
+      "representative_bullets": [
+        "Enclave depends on systems with radically different capabilities operating over the same persistent narrative world.",
+        "For those systems to operate together, **capability must remain distinct from authority**.",
+        "Enclave treats authority as a form of **jurisdiction**: each layer controls a specific class of decisions while remaining constrained by decisions belonging to other layers."
+      ],
+      "outbound_support_lines": [],
+      "focused_review": "not_individually_verified",
+      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+    },
+    {
+      "section": 8,
+      "id": "8.2",
+      "heading": "Authorial Authority",
+      "claim_type": "framework thesis / definition",
+      "representative_bullets": [
+        "Human authors possess authority over the authored structure from which the narrative develops.",
+        "This includes:",
+        "people and institutions;"
+      ],
+      "outbound_support_lines": [],
+      "focused_review": "not_individually_verified",
+      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+    },
+    {
+      "section": 8,
+      "id": "8.3",
+      "heading": "Knowledge Authority",
+      "claim_type": "framework thesis / definition",
+      "representative_bullets": [
+        "Enclave distinguishes between **information that exists within the world** and **information the system accepts as canonical**.",
+        "Knowledge may represent:",
+        "established facts;"
+      ],
+      "outbound_support_lines": [],
+      "focused_review": "not_individually_verified",
+      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+    },
+    {
+      "section": 8,
+      "id": "8.4",
+      "heading": "Actor Authority",
+      "claim_type": "framework thesis / definition",
+      "representative_bullets": [
+        "Actors possess authority over their own actions within the limits of the capabilities available to them.",
+        "Those actions may originate through:",
+        "deterministic logic;"
+      ],
+      "outbound_support_lines": [],
+      "focused_review": "not_individually_verified",
+      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+    },
+    {
+      "section": 8,
+      "id": "8.5",
+      "heading": "Action, Resolution, and Consequence",
+      "claim_type": "framework thesis / definition",
+      "representative_bullets": [
+        "Actors enter a narrative world that already possesses authoritative state, constraints, and history.",
+        "Consequences are therefore resolved against the world as it currently exists.",
+        "Resolution may consider:"
+      ],
+      "outbound_support_lines": [],
+      "focused_review": "not_individually_verified",
+      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+    },
+    {
+      "section": 8,
+      "id": "8.6",
+      "heading": "A Single Source of Truth",
+      "claim_type": "framework thesis / definition",
+      "representative_bullets": [
+        "Enclave ultimately maintains one authoritative account of the running world.",
+        "One that does **not** require every Actor to possess the same information or every item of Knowledge to agree.",
+        "Multiple contradictory accounts can coexist within the Knowledge Base."
+      ],
+      "outbound_support_lines": [],
+      "focused_review": "not_individually_verified",
+      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+    },
+    {
+      "section": 9,
+      "id": "9.1",
+      "heading": "Seven Foundational Primitives",
+      "claim_type": "framework thesis / definition",
+      "representative_bullets": [
+        "Enclave is constructed around seven foundational primitives.",
+        "The seven primitives are organized into three families:",
+        "**Facts** - persistent representations of information within the narrative world;"
+      ],
+      "outbound_support_lines": [],
+      "focused_review": "not_individually_verified",
+      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+    },
+    {
+      "section": 9,
+      "id": "9.2",
+      "heading": "Facts",
+      "claim_type": "framework thesis / definition",
+      "representative_bullets": [
+        "**Facts** are persistent computational representations of information that exist within Enclave.",
+        "Facts are deterministic representations rather than probabilistic recollection.",
+        "The term *fact* is architectural and does not imply truth."
+      ],
+      "outbound_support_lines": [],
+      "focused_review": "not_individually_verified",
+      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+    },
+    {
+      "section": 9,
+      "id": "9.3",
+      "heading": "Memories",
+      "claim_type": "framework thesis / definition",
+      "representative_bullets": [
+        "**Memories** are the persistent record of a particular Actor's interactions, experiences, and identity.",
+        "Memories preserve the Actor-specific context surrounding what occurred rather than only the transmissible informational content that may be extracted from it.",
+        "A Memory may contain:"
+      ],
+      "outbound_support_lines": [
+        "- **Support:** Tulving (2002); Greenberg & Verfaellie (2010).",
+        "- **Reference:&#x20;**&#x54;his paper assumes the deployment of a memory architecture similar to the Reliquary system found here: [https://www.github.com/Lokee86/Reliquary](https://www.github.com/Lokee86/Reliquary)"
+      ],
+      "focused_review": "analogy_and_architecture",
+      "review_note": "Episodic/semantic analogy does not validate Enclave primitives"
+    },
+    {
+      "section": 9,
+      "id": "9.4",
+      "heading": "Events",
+      "claim_type": "framework thesis / definition",
+      "representative_bullets": [
+        "**Events** are the persistent authoritative record of occurrences accepted as having happened within the narrative world.",
+        "Where Facts may be canonical or non-canonical, an Event records an authoritative occurrence and its consequences.",
+        "Events arise when actions are resolved against authoritative world state."
+      ],
+      "outbound_support_lines": [],
+      "focused_review": "not_individually_verified",
+      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+    },
+    {
+      "section": 9,
+      "id": "9.5",
+      "heading": "Loci",
+      "claim_type": "framework thesis / definition",
+      "representative_bullets": [
+        "**Loci** are points through which Knowledge can be retained, received, exposed, transmitted, or acted upon.",
+        "A Locus describes a point of information availability or exchange within the narrative world, not a capacity for cognition or action.",
+        "Examples may include:"
+      ],
+      "outbound_support_lines": [],
+      "focused_review": "not_individually_verified",
+      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+    },
+    {
+      "section": 9,
+      "id": "9.6",
+      "heading": "Actors",
+      "claim_type": "framework thesis / definition",
+      "representative_bullets": [
+        "**Actors** are entities capable of acting upon the narrative world.",
+        "Action is the defining distinction.",
+        "An Actor may use some combination of:"
+      ],
+      "outbound_support_lines": [],
+      "focused_review": "not_individually_verified",
+      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+    },
+    {
+      "section": 9,
+      "id": "9.7",
+      "heading": "Participants",
+      "claim_type": "framework thesis / definition",
+      "representative_bullets": [
+        "**Participants** are Cognitive Actors whose cognition originates outside Enclave.",
+        "In interactive media they are generally the human players.",
+        "Enclave therefore does not possess direct authority over or complete visibility into Participant cognition."
+      ],
+      "outbound_support_lines": [],
+      "focused_review": "not_individually_verified",
+      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+    },
+    {
+      "section": 9,
+      "id": "9.8",
+      "heading": "Domains",
+      "claim_type": "framework thesis / definition",
+      "representative_bullets": [
+        "**Domains** are broad semantic classifications describing what Knowledge concerns.",
+        "Examples may include:",
+        "Medicine;"
+      ],
+      "outbound_support_lines": [],
+      "focused_review": "not_individually_verified",
+      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+    },
+    {
+      "section": 9,
+      "id": "9.9",
+      "heading": "Primitive Interaction",
+      "claim_type": "framework thesis / definition",
+      "representative_bullets": [
+        "The seven foundational primitives are organized into three families describing complementary dimensions of one persistent narrative system.",
+        "**Facts** - What information exists within the system, and what authority does that information possess?",
+        "**Memories** - What Actor-specific history, experience, and context should persist?"
+      ],
+      "outbound_support_lines": [],
+      "focused_review": "not_individually_verified",
+      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+    },
+    {
+      "section": 10,
+      "id": "10.1",
+      "heading": "Derivation From the Foundational Primitives",
+      "claim_type": "framework thesis / definition",
+      "representative_bullets": [
+        "The seven foundational primitives describe the basic entities and relationships required by the architecture.",
+        "Several additional concepts arise naturally through specialization, composition, or relationship between those primitives.",
+        "These concepts are important enough to require explicit definition but do not represent additional foundational primitives."
+      ],
+      "outbound_support_lines": [],
+      "focused_review": "not_individually_verified",
+      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+    },
+    {
+      "section": 10,
+      "id": "10.2",
+      "heading": "Interaction",
+      "claim_type": "framework thesis / definition",
+      "representative_bullets": [
+        "**Interaction** is a derivative form of Event characterized by causal process.",
+        "Events record authoritative occurrence and consequence.",
+        "Interaction identifies the causal process through which an occurrence develops."
+      ],
+      "outbound_support_lines": [],
+      "focused_review": "not_individually_verified",
+      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+    },
+    {
+      "section": 10,
+      "id": "10.3",
+      "heading": "Enclaves",
+      "claim_type": "framework thesis / definition",
+      "representative_bullets": [
+        "**Enclaves** are specialized Domains associated with Actor populations.",
+        "Where Domains classify Knowledge semantically, Enclaves extend classification by relating bodies of Knowledge to specific contextual populations.",
+        "Enclaves will frequently be cross-Domain."
+      ],
+      "outbound_support_lines": [],
+      "focused_review": "not_individually_verified",
+      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+    },
+    {
+      "section": 10,
+      "id": "10.4",
+      "heading": "Rank",
+      "claim_type": "framework thesis / definition",
+      "representative_bullets": [
+        "**Rank** is a specialized subordinate Enclave intrinsic to every Enclave.",
+        "Each Enclave possesses its own Rank structure. Recommended to be expressed in system by numerical scale.",
+        "Rank regulates differentiated Knowledge access and related contextual relationships within its parent Enclave."
+      ],
+      "outbound_support_lines": [],
+      "focused_review": "not_individually_verified",
+      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+    },
+    {
+      "section": 10,
+      "id": "10.5",
+      "heading": "Facets",
+      "claim_type": "framework thesis / definition",
+      "representative_bullets": [
+        "**Facets** represent identifiable entities whose relevant context is expressed through multiple independent Enclave hierarchies.",
+        "A Facet is not merely a broad category of Enclaves.",
+        "It represents one entity viewed through several distinct organizational, social, geographic, institutional, or other Enclave structures."
+      ],
+      "outbound_support_lines": [],
+      "focused_review": "not_individually_verified",
+      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+    },
+    {
+      "section": 10,
+      "id": "10.6",
+      "heading": "Combinatorial Enclaves",
+      "claim_type": "framework thesis / definition",
+      "representative_bullets": [
+        "**Combinatorial Enclaves** represent the conjunction or intersection of two or more Enclaves.",
+        "They identify populations satisfying all included Enclave conditions.",
+        "Examples may include:"
+      ],
+      "outbound_support_lines": [],
+      "focused_review": "not_individually_verified",
+      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+    },
+    {
+      "section": 10,
+      "id": "10.7",
+      "heading": "Inheritance",
+      "claim_type": "framework thesis / definition",
+      "representative_bullets": [
+        "**Inheritance** describes parent-child relationships between Enclaves.",
+        "Membership in a child Enclave implies membership in its parent Enclave.",
+        "Inheritance is transitive through all ancestors."
+      ],
+      "outbound_support_lines": [],
+      "focused_review": "not_individually_verified",
+      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+    },
+    {
+      "section": 11,
+      "id": "11.1",
+      "heading": "Initial Knowledge Distribution",
+      "claim_type": "framework thesis / definition",
+      "representative_bullets": [
+        "The existing Knowledge Base presents a universal source of truth representing all Knowledge within the narrative possibility space.",
+        "Some knowledge may be universally accessible depending on the setting, but most is not intended to be known by every actor in the narrative.",
+        "The initial model is and organized and fully-authored graph of Domains > Facets > Enclaves & Combinatorial Enclaves > Ranks > Memory"
+      ],
+      "outbound_support_lines": [],
+      "focused_review": "not_individually_verified",
+      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+    },
+    {
+      "section": 11,
+      "id": "11.2",
+      "heading": "Knowledge Transmission",
+      "claim_type": "framework thesis / definition",
+      "representative_bullets": [
+        "Knowledge moves through Interactions involving Actors, Participants, and Loci.",
+        "Transmission occurs when Knowledge becomes newly available through an interaction or point of exposure.",
+        "Transmission may occur through:"
+      ],
+      "outbound_support_lines": [],
+      "focused_review": "not_individually_verified",
+      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+    },
+    {
+      "section": 11,
+      "id": "11.3",
+      "heading": "Emergent Diffusion",
+      "claim_type": "framework thesis / definition",
+      "representative_bullets": [
+        "Once acquired, Knowledge may subsequently be retransmitted through other Actors, Participants, and Loci.",
+        "Facts can therefore continue moving through the world long after the Event or Interaction that introduced them.",
+        "Diffusion may be shaped by:"
+      ],
+      "outbound_support_lines": [],
+      "focused_review": "not_individually_verified",
+      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+    },
+    {
+      "section": 11,
+      "id": "11.4",
+      "heading": "Enclave Saturation and Institutional Knowledge",
+      "claim_type": "framework thesis / definition",
+      "representative_bullets": [
+        "**Saturation** describes the degree to which a particular item of Knowledge has propagated through the Actor population of an Enclave.",
+        "It is a cost-efficiency method meant to abstract widespread institutional transmission where individual propagation would provide little additional narrative or product value.",
+        "Saturation is therefore a relationship between:"
+      ],
+      "outbound_support_lines": [],
+      "focused_review": "not_individually_verified",
+      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+    },
+    {
+      "section": 11,
+      "id": "11.5",
+      "heading": "Institutional Emission",
+      "claim_type": "framework thesis / definition",
+      "representative_bullets": [
+        "Institutionalization does not necessarily imply that every member immediately knows the Fact.",
+        "This is one possible result of Saturation, but higher fidelity simulations may choose to exclusively employ Institutional Emission instead",
+        "Instead, the Enclave may begin to **emit** the Fact through ordinary institutional mechanisms."
+      ],
+      "outbound_support_lines": [],
+      "focused_review": "not_individually_verified",
+      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+    },
+    {
+      "section": 11,
+      "id": "11.6",
+      "heading": "Information as World State",
+      "claim_type": "framework thesis / definition",
+      "representative_bullets": [
+        "Information becomes part of the distributed persistent state of the simulated world.",
+        "The system does not only represent:",
+        "what is true;"
+      ],
+      "outbound_support_lines": [],
+      "focused_review": "not_individually_verified",
+      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+    },
+    {
+      "section": 12,
+      "id": "12.1",
+      "heading": "Bounded Narrative Agents",
+      "claim_type": "literature-linked interpretive claim",
+      "representative_bullets": [
+        "At this point astute readers may have noticed that Enclave's primitives, informational state, Knowledge distribution, Actor relationships, Events, Interactions, and persistent cause and effect can all be represented and resolved through conventional computational systems without probabilistic cognition or resolution.",
+        "A sufficiently formalized implementation could therefore use Enclave as the informational and causal architecture for a conventional deterministic simulation.",
+        "The system could even theoretically be applied to a more traditional procedurally generated narrative like those found in Dwarf Fortress."
+      ],
+      "outbound_support_lines": [
+        "- **Support / precedent:** Adams (2021); Ryan (2018).",
+        "- **Support for the underlying memorization risk:** Chang et al. (2023); Carlini et al. (2021).",
+        "- **Support / precedent:** Park et al. (2023); Hu et al. (2024; revised 2026); Hogan & Brennen (2024)."
+      ],
+      "focused_review": "bounded_support",
+      "review_note": "Chang/Carlini establish training data memorization possibility, not universal runtime narrative leakage"
+    },
+    {
+      "section": 12,
+      "id": "12.2",
+      "heading": "The Persistent Cognitive Actor",
+      "claim_type": "literature-linked interpretive claim",
+      "representative_bullets": [
+        "The Cognitive Actor is persistent even when no model invocation is active.",
+        "The model invocation is therefore not the Actor itself, but a temporary cognitive process operating on behalf of that Actor.",
+        "A Cognitive Actor's persistent state may include:"
+      ],
+      "outbound_support_lines": [
+        "- **Support / precedent:** Park et al. (2023); Packer et al. (2023), *MemGPT*; Wu et al. (2025), *LongMemEval*."
+      ],
+      "focused_review": "direct_precedent",
+      "review_note": "Park/MemGPT demonstrate external persistent memory pattern, not Enclave"
+    },
+    {
+      "section": 12,
+      "id": "12.3",
+      "heading": "The Actor's Subjective World",
+      "claim_type": "literature-linked interpretive claim",
+      "representative_bullets": [
+        "The authoritative system may represent the complete informational state of the world, but a Cognitive Actor inhabits only a bounded portion of it.",
+        "The Actor's subjective world is formed from the persistent information that Actor can legitimately know, remember, observe, or access.",
+        "This may include:"
+      ],
+      "outbound_support_lines": [
+        "- **Support / precedent:** Hogan & Brennen (2024), particularly differentiated player history objects and information asymmetry; Park et al. (2023); Hu et al. (2024; revised 2026)."
+      ],
+      "focused_review": "partial_precedent",
+      "review_note": "Hogan/Park show differentiated agents; Enclave epistemic enforcement untested"
+    },
+    {
+      "section": 12,
+      "id": "12.4",
+      "heading": "Memory and Cognition",
+      "claim_type": "literature-linked interpretive claim",
+      "representative_bullets": [
+        "Memory and Cognitive Actors are already foundational Enclave concepts.",
+        "For Cognitive Actors, the Memory primitive necessarily requires a persistent subsystem capable of maintaining Actor-specific experience and state beyond individual inference sessions and making relevant Memory available to cognition.",
+        "Enclave defines the semantic role of Memory, but it does not need to define the complete internal ontology of the system used to implement it."
+      ],
+      "outbound_support_lines": [
+        "- **Support / precedent:** Tulving (2002); Greenberg & Verfaellie (2010); Park et al. (2023); Wu et al. (2025), *LongMemEval*; Packer et al. (2023), *MemGPT*."
+      ],
+      "focused_review": "not_individually_verified",
+      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+    },
+    {
+      "section": 12,
+      "id": "12.5",
+      "heading": "Context Construction",
+      "claim_type": "literature-linked interpretive claim",
+      "representative_bullets": [
+        "A Cognitive Actor's complete subjective world will frequently be much larger than the context required, or economically practical, for a single cognitive operation.",
+        "Context construction therefore creates a bounded working view from that persistent subjective state.",
+        "It begins by determining what information is available to the Actor and what portions of that information are relevant to the current cognitive operation."
+      ],
+      "outbound_support_lines": [
+        "- **Support:** Liu et al. (2024), *Lost in the Middle*; Bai et al. (2024), *LongBench*; Hsieh et al. (2024), *RULER*; Wu et al. (2025), *LongMemEval*; Park et al. (2023); Packer et al. (2023), *MemGPT*."
+      ],
+      "focused_review": "architectural_recommendation",
+      "review_note": "Retrieval literature motivates, but does not test this precise context policy"
+    },
+    {
+      "section": 12,
+      "id": "12.6",
+      "heading": "The Cognitive Cycle",
+      "claim_type": "literature-linked interpretive claim",
+      "representative_bullets": [
+        "Cognitive Actors require a mechanism connecting persistent subjective state to temporary cognition and then back to persistent state.",
+        "A representative cognitive cycle may be:",
+        "Different implementations may combine, divide, omit, or deterministically resolve individual stages."
+      ],
+      "outbound_support_lines": [
+        "- **Support / architectural precedent:** Park et al. (2023); Hogan & Brennen (2024); Gao et al. (2023), *PAL*; Kambhampati et al. (2024), *LLM-Modulo*."
+      ],
+      "focused_review": "not_individually_verified",
+      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+    },
+    {
+      "section": 12,
+      "id": "12.7",
+      "heading": "Divided Cognitive Responsibility",
+      "claim_type": "literature-linked interpretive claim",
+      "representative_bullets": [
+        "Actor cognition does not require one monolithic probabilistic process.",
+        "The architecture separates three broad responsibilities:",
+        "**Enclave** maintains authoritative world state, Actor-accessible Knowledge, epistemic boundaries, Knowledge-context construction, and Event resolution;"
+      ],
+      "outbound_support_lines": [
+        "- **Support / architectural precedent:** Gao et al. (2023), *PAL*; Kambhampati et al. (2024), *LLM-Modulo*; Marra et al. (2024); Wu et al. (2025), *LongMemEval*."
+      ],
+      "focused_review": "direct_architectural_precedent",
+      "review_note": "PAL and LLM-Modulo offload reliable execution/verification but not Enclave validation"
+    },
+    {
+      "section": 12,
+      "id": "12.8",
+      "heading": "Reliquary and the Development of the Enclave Architecture",
+      "claim_type": "literature-linked interpretive claim",
+      "representative_bullets": [
+        "Enclave's **theory** does not require Reliquary.",
+        "The Enclave ontology and its architectural principles can be implemented using other persistent Memory and cognitive architectures.",
+        "The development of Enclave's applied architecture, however, was substantially informed by work on Reliquary."
+      ],
+      "outbound_support_lines": [],
+      "focused_review": "product_self_reference",
+      "review_note": "Reliquary is the author's system; do not present its performance claims as independently reproduced"
+    },
+    {
+      "section": 13,
+      "id": "13.1",
+      "heading": "From Cognition to Causality",
+      "claim_type": "framework thesis / definition",
+      "representative_bullets": [
+        "A Cognitive Actor may interpret its circumstances, reason from its Knowledge and Memory, and determine what it intends to do.",
+        "At the end of that cognitive process, however, the world has not necessarily changed.",
+        "The output of cognition is an **attempted action**."
+      ],
+      "outbound_support_lines": [],
+      "focused_review": "not_individually_verified",
+      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+    },
+    {
+      "section": 13,
+      "id": "13.2",
+      "heading": "The Existing Sandbox",
+      "claim_type": "framework thesis / definition",
+      "representative_bullets": [
+        "Section 6 established that sandbox and simulation-heavy games already provide sophisticated persistent systemic and physical cause and effect.",
+        "Enclave does not attempt to replace that machinery.",
+        "Its principal concern is **persistent narrative cause and effect**: allowing the informational, social, institutional, and authored meaning of systemic consequences to persist and influence later Actors and developments."
+      ],
+      "outbound_support_lines": [],
+      "focused_review": "not_individually_verified",
+      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+    },
+    {
+      "section": 13,
+      "id": "13.3",
+      "heading": "Open-ended Action Space",
+      "claim_type": "framework thesis / definition",
+      "representative_bullets": [
+        "Existing sandbox systems may support enormous combinatorial possibility while still exposing a finite vocabulary of explicitly represented actions and interactions.",
+        "The same probabilistic capabilities used by Enclave for narrative interpretation suggest a complementary possibility outside Enclave's principal scope: allowing Actors or Participants to express physical intent semantically rather than selecting only from that predefined vocabulary.",
+        "For example:"
+      ],
+      "outbound_support_lines": [],
+      "focused_review": "not_individually_verified",
+      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+    },
+    {
+      "section": 13,
+      "id": "13.4",
+      "heading": "Action and Consequence",
+      "claim_type": "framework thesis / definition",
+      "representative_bullets": [
+        "Once an attempted action enters the world, the relevant question is no longer simply what the Actor intended, but **what Interaction actually occurs**.",
+        "An Interaction incorporates the attempted action into the causal circumstances against which it must be resolved.",
+        "Those circumstances may include:"
+      ],
+      "outbound_support_lines": [],
+      "focused_review": "not_individually_verified",
+      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+    },
+    {
+      "section": 13,
+      "id": "13.5",
+      "heading": "Making it Real",
+      "claim_type": "framework thesis / definition",
+      "representative_bullets": [
+        "Because an Interaction is an Event characterized by causal process, an authoritatively resolved Interaction is already part of the authoritative history of the world.",
+        "It does not need to subsequently be converted into a separate Event simply to become real.",
+        "The Interaction records that a causal process occurred and may establish consequences including changes to:"
+      ],
+      "outbound_support_lines": [],
+      "focused_review": "not_individually_verified",
+      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+    },
+    {
+      "section": 13,
+      "id": "13.6",
+      "heading": "Conditional Developments",
+      "claim_type": "framework thesis / definition",
+      "representative_bullets": [
+        "Earlier sections established that authors may define intended developments without requiring a fixed sequence.",
+        "Persistent cause and effect supplies the runtime mechanism that makes those developments genuinely conditional.",
+        "When an authored development becomes relevant, it is evaluated against the causal history and current state that actually exist."
+      ],
+      "outbound_support_lines": [],
+      "focused_review": "not_individually_verified",
+      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+    },
+    {
+      "section": 13,
+      "id": "13.7",
+      "heading": "Branching as Causality",
+      "claim_type": "framework thesis / definition",
+      "representative_bullets": [
+        "The branching problem described in §4 does not disappear.",
+        "What changes is how divergence is represented.",
+        "Enclave does not require every narrative divergence to correspond to an explicitly authored branch."
+      ],
+      "outbound_support_lines": [],
+      "focused_review": "not_individually_verified",
+      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+    },
+    {
+      "section": 13,
+      "id": "13.8",
+      "heading": "Event-Driven Persistence",
+      "claim_type": "framework thesis / definition",
+      "representative_bullets": [
+        "Persistent cause and effect does not require the entire world to be continuously reevaluated.",
+        "Interactions and other Events identify meaningful changes in authoritative state and therefore provide natural triggers for further processing.",
+        "Those changes can trigger reevaluation only where they may matter, including:"
+      ],
+      "outbound_support_lines": [],
+      "focused_review": "not_individually_verified",
+      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+    },
+    {
+      "section": 14,
+      "id": "14.1",
+      "heading": "From Authored Trajectory to Realized Narrative",
+      "claim_type": "authored fictional walkthrough",
+      "representative_bullets": [
+        "Each example begins with a conventional published adventure containing:",
+        "an established world state;",
+        "characters with motivations and information;"
+      ],
+      "outbound_support_lines": [],
+      "focused_review": "not_individually_verified",
+      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+    },
+    {
+      "section": 14,
+      "id": "14.2",
+      "heading": "*A Wild Sheep Chase*: The Authored Trajectory",
+      "claim_type": "authored fictional walkthrough",
+      "representative_bullets": [
+        "**Primary source:** Winghorn Press, *A Wild Sheep Chase*, a free single-session D&D 5E adventure for 4th–5th-level parties: https://winghornpress.com/adventures/a-wild-sheep-chase/",
+        "The source adventure supplies the authored characters, relationships, conflict, locations, objects, and expected scenario progression used in §§14.2–14.6; the alternate causal sequence in §14.5 is an Enclave demonstration constructed from that authored material.",
+        "*A Wild Sheep Chase* begins when Finethir Shinebright, a wizard transformed into a sheep, seeks assistance from the Participants."
+      ],
+      "outbound_support_lines": [
+        "- **Primary source:** Winghorn Press, *A Wild Sheep Chase*, a free single-session D&D 5E adventure for 4th–5th-level parties: https://winghornpress.com/adventures/a-wild-sheep-chase/"
+      ],
+      "focused_review": "primary_adventure",
+      "review_note": "Winghorn authored adventure provides the fictional reference, not an Enclave implementation"
+    },
+    {
+      "section": 14,
+      "id": "14.3",
+      "heading": "*A Wild Sheep Chase* as Persistent Narrative State",
+      "claim_type": "authored fictional walkthrough",
+      "representative_bullets": [
+        "Under Enclave, the adventure is represented primarily through the circumstances that produce its expected trajectory rather than through the trajectory itself.",
+        "Shinebright exists as a Cognitive Actor with:",
+        "his history with Noke;"
+      ],
+      "outbound_support_lines": [],
+      "focused_review": "not_individually_verified",
+      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+    },
+    {
+      "section": 14,
+      "id": "14.4",
+      "heading": "A Different Interaction Produces a Different Trajectory",
+      "claim_type": "authored fictional walkthrough",
+      "representative_bullets": [
+        "The initial encounter with Guz provides an immediate point at which Participant behaviour can depart from the expected trajectory.",
+        "Participants may communicate with Guz, capture him, allow him to surrender, bargain with him, or otherwise create an Interaction that is not exhausted by defeating him.",
+        "Guz's response is constrained by:"
+      ],
+      "outbound_support_lines": [],
+      "focused_review": "not_individually_verified",
+      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+    },
+    {
+      "section": 14,
+      "id": "14.5",
+      "heading": "Minor Divergence Walkthrough: The Same Adventure in a Different State",
+      "claim_type": "authored fictional walkthrough",
+      "representative_bullets": [
+        "This example deliberately preserves the broad authored trajectory.",
+        "The divergence consists of small causal changes that remain meaningful but would rarely justify individually authored branches in a conventional branching narrative.",
+        "Shinebright reaches the Participants, communicates his account, and asks for help."
+      ],
+      "outbound_support_lines": [],
+      "focused_review": "not_individually_verified",
+      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+    },
+    {
+      "section": 14,
+      "id": "14.6",
+      "heading": "Persistent Consequence in the Fantasy Example",
+      "claim_type": "authored fictional walkthrough",
+      "representative_bullets": [
+        "The divergent Interaction does more than change a conversation.",
+        "Guz remembers his treatment by the Participants.",
+        "Participants acquire information they did not possess in the original trajectory."
+      ],
+      "outbound_support_lines": [],
+      "focused_review": "not_individually_verified",
+      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+    },
+    {
+      "section": 14,
+      "id": "14.7",
+      "heading": "*Signals*: The Authored Trajectory",
+      "claim_type": "authored fictional walkthrough",
+      "representative_bullets": [
+        "**Primary source:** Modiphius Entertainment, *Star Trek Adventures: Quickstart Guide*, containing the self-contained adventure *Signals* and six pre-generated player characters: https://modiphius.net/collections/star-trek-adventures/products/star-trek-adventures-quickstart-guide — **the Section 15 computational reference intentionally models only one Participant controlling one Participant Actor.**",
+        "The source adventure supplies the mission, Actors, factions, settlement, Romulan opposition, alien artifact, locations, and expected scenario progression used in §§14.7–14.10; the major-divergence sequence in §14.10 is an Enclave demonstration constructed from that authored material.",
+        "*Signals*, from the *Star Trek Adventures* Quickstart, provides the same problem in a substantially different narrative environment."
+      ],
+      "outbound_support_lines": [
+        "- **Primary source:** Modiphius Entertainment, *Star Trek Adventures: Quickstart Guide*, containing the self-contained adventure *Signals* and six pre-generated player characters: https://modiphius.net/collections/star-trek-adventures/products/star-trek-adventures-quickstart-guide — **the Section 15 computational reference intentionally models only one Participant controlling one Participant Actor.**"
+      ],
+      "focused_review": "primary_adventure",
+      "review_note": "Modiphius authored adventure provides Signals reference, not Enclave implementation"
+    },
+    {
+      "section": 14,
+      "id": "14.8",
+      "heading": "*Signals* as Persistent Narrative State",
+      "claim_type": "authored fictional walkthrough",
+      "representative_bullets": [
+        "Under Enclave, Starfleet, Romulan, and settlement perspectives remain distinct.",
+        "Individual Cognitive Actors know only what their histories, affiliations, observations, communications, and Memories make available to them.",
+        "Institutional relationships provide additional structure:"
+      ],
+      "outbound_support_lines": [],
+      "focused_review": "not_individually_verified",
+      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+    },
+    {
+      "section": 14,
+      "id": "14.9",
+      "heading": "Contact with the Romulans Changes the Mission",
+      "claim_type": "authored fictional walkthrough",
+      "representative_bullets": [
+        "Participants may choose to communicate with surviving Romulans rather than treating them exclusively as combatants.",
+        "They may:",
+        "capture and question a survivor;"
+      ],
+      "outbound_support_lines": [],
+      "focused_review": "not_individually_verified",
+      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+    },
+    {
+      "section": 14,
+      "id": "14.10",
+      "heading": "Major Divergence Walkthrough: Leaving the Authored Trajectory",
+      "claim_type": "authored fictional walkthrough",
+      "representative_bullets": [
+        "This example deliberately does the opposite of the fantasy example.",
+        "A relatively early Participant decision changes the conditions supporting the published sequence so substantially that the expected later scenes cease to be the natural continuation of the world.",
+        "Starfleet Participants encounter hostile Romulan personnel on Seku VI."
+      ],
+      "outbound_support_lines": [],
+      "focused_review": "not_individually_verified",
+      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+    },
+    {
+      "section": 14,
+      "id": "14.11",
+      "heading": "The Same Architecture Across Different Narrative Worlds",
+      "claim_type": "authored fictional walkthrough",
+      "representative_bullets": [
+        "The two adventures differ substantially in setting, genre, institutions, technology, tone, scope, and immediate conflict.",
+        "Their realized divergence nevertheless follows the same basic causal structure:",
+        "Neither example requires the original authored trajectory to be discarded."
+      ],
+      "outbound_support_lines": [],
+      "focused_review": "not_individually_verified",
+      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+    },
+    {
+      "section": 15,
+      "id": "15.1",
+      "heading": "High-Fidelity Reference Workload: *Signals*",
+      "claim_type": "modeled computational scenario / deployment",
+      "representative_bullets": [
+        "Use the major-divergence *Signals* walkthrough from §14.10.",
+        "Assume approximately eight hours of **simulated in-game time**, not eight hours of wall-clock gameplay. Game-time dilation can compress or extend the corresponding real-time processing window; skipping or aggregating activity changes the assumed simulation fidelity.",
+        "Simplified computational population:"
+      ],
+      "outbound_support_lines": [],
+      "focused_review": "not_individually_verified",
+      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+    },
+    {
+      "section": 15,
+      "id": "15.2",
+      "heading": "What Actually Consumes Computation",
+      "claim_type": "modeled computational scenario / deployment",
+      "representative_bullets": [
+        "Separate:",
+        "Actor↔Actor social/communicative cognition;",
+        "Actor↔world cognition;"
+      ],
+      "outbound_support_lines": [],
+      "focused_review": "not_individually_verified",
+      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+    },
+    {
+      "section": 15,
+      "id": "15.3",
+      "heading": "Persistent State and Storage Cost",
+      "claim_type": "modeled computational scenario / deployment",
+      "representative_bullets": [
+        "Scope is **Enclave-only storage**.",
+        "Explicitly exclude:",
+        "terrain/game-engine data;"
+      ],
+      "outbound_support_lines": [],
+      "focused_review": "not_individually_verified",
+      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+    },
+    {
+      "section": 15,
+      "id": "15.4",
+      "heading": "Cognitive Simulation Cost",
+      "claim_type": "modeled computational scenario / deployment",
+      "representative_bullets": [
+        "Use responsibility-specific token profiles rather than one universal call shape.",
+        "**Social/dialogue/complex cognition:** 4,000 input / 250 output tokens.",
+        "**Routine Actor↔world cognition:** 1,500 input / 80 output tokens."
+      ],
+      "outbound_support_lines": [],
+      "focused_review": "not_individually_verified",
+      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+    },
+    {
+      "section": 15,
+      "id": "15.5",
+      "heading": "Deterministic Activity and Authoritative Resolution",
+      "claim_type": "modeled computational scenario / deployment",
+      "representative_bullets": [
+        "**Authoritative computation:** conventional systems resolve physical state, Loci, possession, rules, communications, Domain/Enclave/Rank/Facet relationships, Knowledge access, causal conditions, and persistence. Distinguish these deterministic responsibilities from model-driven cognition (§15.4).",
+        "**Small-scale first-order baseline:** the 43-Actor *Signals* workload generates ~2,624 Interactions, ~5,248 Event records and ~13,339 total records per eight simulated hours: approximately **0.091 Interactions/s, 0.182 Events/s and 0.463 records/s**. These are simulated workload counts, **not CPU or database benchmarks**.",
+        "**Causal expansion:** an Interaction is an Event and produces a resulting Event in the reference model. That result may trigger additional Events, changes and Actor responses, but the model does not simulate those cascades. An illustrative branching factor `b` over `d` generations gives `1 + b + … + b^d` potential occurrences before failed conditions, merging consequences and deduplication. This is a sensitivity example, not a claim that Enclave inherently expands exponentially."
+      ],
+      "outbound_support_lines": [
+        "- **Evidence and limitations:** these are measurements from Reliquary and Arcana, **not a benchmark of Enclave's world-state implementation or causal fan-out**. Original reports, supporting raw benchmark bundles and SHA-256 provenance are copied into `docs/research/section15-deterministic-evidence/` (see `MANIFEST.md`). The primary comparison is the Reliquary P1 Freshness report."
+      ],
+      "focused_review": "transfer_limit",
+      "review_note": "Reliquary/Arcana timings measured in distinct systems, not Enclave Event processing"
+    },
+    {
+      "section": 15,
+      "id": "15.6",
+      "heading": "Temporal Fidelity and Event-Driven Cognition",
+      "claim_type": "modeled computational scenario / deployment",
+      "representative_bullets": [
+        "Full-time Cognitive Actors do not imply continuous inference.",
+        "Actors can continue existing plans and routine actions deterministically.",
+        "Invoke cognition when:"
+      ],
+      "outbound_support_lines": [],
+      "focused_review": "not_individually_verified",
+      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+    },
+    {
+      "section": 15,
+      "id": "15.7",
+      "heading": "Locality and Causal Reach",
+      "claim_type": "modeled computational scenario / deployment",
+      "representative_bullets": [
+        "Use Loci, communication channels, relationships, institutions, Domains and Enclaves to bound causal reach.",
+        "Only Actors actually affected by an Event require reevaluation.",
+        "Locus occupancy also supplies the contact topology used by the settlement workload model."
+      ],
+      "outbound_support_lines": [],
+      "focused_review": "not_individually_verified",
+      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+    },
+    {
+      "section": 15,
+      "id": "15.8",
+      "heading": "Model Routing and Costs",
+      "claim_type": "modeled computational scenario / deployment",
+      "representative_bullets": [
+        "Model capability can be routed by responsibility.",
+        "Illustrative route:",
+        "70% Luna;"
+      ],
+      "outbound_support_lines": [],
+      "focused_review": "time_sensitive_price",
+      "review_note": "Price snapshots depend on provider/date and exclude service quality and capacity"
+    },
+    {
+      "section": 15,
+      "id": "15.9",
+      "heading": "Inference Capacity and Real-Time Feasibility",
+      "claim_type": "modeled computational scenario / deployment",
+      "representative_bullets": [
+        "Distinguish **aggregate throughput across the eight simulated hours** from **response latency** when multiple Actors need cognition simultaneously. Sufficient total throughput does not guarantee a responsive game.",
+        "Published NVIDIA DGX Spark batch-size-one results (2,048 input / 128 output):",
+        "Extrapolate separately to the §15.4 profiles: social/complex cognition **4,000 input / 250 output**; routine Actor↔world cognition **1,500 input / 80 output**."
+      ],
+      "outbound_support_lines": [],
+      "focused_review": "not_individually_verified",
+      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+    },
+    {
+      "section": 15,
+      "id": "15.10",
+      "heading": "The Manhattan Test",
+      "claim_type": "modeled computational scenario / deployment",
+      "representative_bullets": [
+        "*Signals*' bounded reference—43 Cognitive Actors over eight simulated hours—requires ~2,624 Interactions, ~123.75 MiB in generated records, ~1,221 inference calls, and ~3.686M tokens. At this scale the burden appears manageable; that says little about a conventional, continuously populated world.",
+        "Take Manhattan's **1,664,862 estimated 2025 residents** (U.S. Census Bureau, https://www.census.gov/quickfacts/fact/table/newyorkcountynewyork/PST045225): **~38,718 times** the 43-Actor reference. Extend the *same per-Actor* activity and record-generation assumptions linearly—not a validated simulation of city life.",
+        "**Storage (§15.3):** 1,000 pre-existing Memories per Manhattan Actor would consume ~14.7 TiB. At unchanged activity, generated data adds ~13.7 TiB per simulated day and ~4.9 PiB per simulated year. These figures exclude the much larger world-specific Knowledge base and additional indexes, graphs, and infrastructure."
+      ],
+      "outbound_support_lines": [],
+      "focused_review": "not_individually_verified",
+      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+    },
+    {
+      "section": 16,
+      "id": "16.1",
+      "heading": "Enclave Is Not an All-or-Nothing Architecture",
+      "claim_type": "modeled computational scenario / deployment",
+      "representative_bullets": [
+        "A game does not need to simulate an entire persistent world at maximum fidelity to benefit from the architecture.",
+        "Individual layers can be introduced progressively.",
+        "Fidelity can be chosen according to:"
+      ],
+      "outbound_support_lines": [],
+      "focused_review": "not_individually_verified",
+      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+    },
+    {
+      "section": 16,
+      "id": "16.2",
+      "heading": "Reactive Dialogue",
+      "claim_type": "modeled computational scenario / deployment",
+      "representative_bullets": [
+        "A low-complexity implementation can use:",
+        "bounded NPC Knowledge;",
+        "persistent Memories;"
+      ],
+      "outbound_support_lines": [],
+      "focused_review": "not_individually_verified",
+      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+    },
+    {
+      "section": 16,
+      "id": "16.3",
+      "heading": "Persistent Characters",
+      "claim_type": "modeled computational scenario / deployment",
+      "representative_bullets": [
+        "A deeper implementation can add:",
+        "Actor-specific Memories;",
+        "changing relationships;"
+      ],
+      "outbound_support_lines": [],
+      "focused_review": "not_individually_verified",
+      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+    },
+    {
+      "section": 16,
+      "id": "16.4",
+      "heading": "Reactive Authored Narrative",
+      "claim_type": "modeled computational scenario / deployment",
+      "representative_bullets": [
+        "The core intended application combines:",
+        "authored narrative worlds;",
+        "persistent causal state;"
+      ],
+      "outbound_support_lines": [],
+      "focused_review": "not_individually_verified",
+      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+    },
+    {
+      "section": 16,
+      "id": "16.5",
+      "heading": "Partial and Hybrid Implementations",
+      "claim_type": "modeled computational scenario / deployment",
+      "representative_bullets": [
+        "The implementation levels described above need not be applied uniformly throughout a game.",
+        "An implementation of the complete Enclave architecture may combine conventional deterministic NPCs, Reactive Dialogue, Persistent Characters, and fully autonomous Cognitive Actors within the same narrative environment.",
+        "The appropriate fidelity depends on an Actor's narrative function, causal significance, and expected interactions with Participants."
+      ],
+      "outbound_support_lines": [],
+      "focused_review": "not_individually_verified",
+      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+    },
+    {
+      "section": 16,
+      "id": "16.6",
+      "heading": "Practical Computational Implications",
+      "claim_type": "modeled computational scenario / deployment",
+      "representative_bullets": [
+        "The full-fidelity simulations examined in §15 establish the computational requirements of continuously supporting an entire population of permanently Cognitive Actors. They do not establish the minimum requirements for an Enclave implementation.",
+        "The three implementation levels described in section 16.5 impose substantially different computational burdens, despite operating within otherwise identical game environments.",
+        "At Levels 1 and 2, probabilistic inference is primarily driven by Participant interaction. The surrounding population can continue functioning through conventional deterministic systems without independently generating inference workloads."
+      ],
+      "outbound_support_lines": [],
+      "focused_review": "modeled_not_measured",
+      "review_note": "Full-fidelity and hybrid comparisons are conditional projections, not measured resource requirements"
+    },
+    {
+      "section": 17,
+      "id": "17.1",
+      "heading": "Restate the Problem",
+      "claim_type": "framework thesis / definition",
+      "representative_bullets": [
+        "Interactive narrative has historically traded broad Participant agency against persistent authored consequence.",
+        "Conventional computation preserves state but struggles with unforeseen semantic interpretation.",
+        "Probabilistic systems provide interpretive flexibility but are unreliable as the sole authority over persistent world state."
+      ],
+      "outbound_support_lines": [],
+      "focused_review": "not_individually_verified",
+      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+    },
+    {
+      "section": 17,
+      "id": "17.2",
+      "heading": "Restate the Architectural Response",
+      "claim_type": "framework thesis / definition",
+      "representative_bullets": [
+        "Enclave separates:",
+        "human authorship;",
+        "persistent authority;"
+      ],
+      "outbound_support_lines": [],
+      "focused_review": "not_individually_verified",
+      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+    },
+    {
+      "section": 17,
+      "id": "17.3",
+      "heading": "Restate the Narrative Consequence",
+      "claim_type": "framework thesis / definition",
+      "representative_bullets": [
+        "Human authors construct the world, its conflicts, Actors, information, pressures, and meaningful possibilities.",
+        "Participants act within that world without being limited to enumerated narrative branches.",
+        "Persistent consequences alter the circumstances from which subsequent authored and emergent activity develops."
+      ],
+      "outbound_support_lines": [],
+      "focused_review": "not_individually_verified",
+      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+    },
+    {
+      "section": 17,
+      "id": "17.4",
+      "heading": "Restate the Engineering Consequence",
+      "claim_type": "framework thesis / definition",
+      "representative_bullets": [
+        "Model context does not need to contain the world.",
+        "Probabilistic systems do not need to maintain authoritative state.",
+        "Actors do not require omniscient Knowledge."
+      ],
+      "outbound_support_lines": [],
+      "focused_review": "not_individually_verified",
+      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+    },
+    {
+      "section": 17,
+      "id": "17.5",
+      "heading": "Closing Claim",
+      "claim_type": "framework thesis / definition",
+      "representative_bullets": [
+        "The central claim of Enclave is not that probabilistic models can replace authored narrative.",
+        "It is that persistent computation, controlled information, probabilistic interpretation, and human authorship can be combined so that authored narrative acquires substantially greater capacity to absorb Participant agency.",
+        "The intended result is **a deeply authored world whose narrative can remain coherent while responding persistently to actions its authors never individually anticipated**."
+      ],
+      "outbound_support_lines": [],
+      "focused_review": "not_individually_verified",
+      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+    }
+  ]
+}
