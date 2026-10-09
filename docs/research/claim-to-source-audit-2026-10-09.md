@@ -159,6 +159,14 @@ Restating the architectural thesis is legitimate. Avoid introducing new claims o
 - "We hypothesize" for the repeated-replay effect until direct evidence exists.
 - "Related work has explored partial versions" rather than "no system does this" unless prior art has been exhaustively searched.
 
+## Completion update — 2026-10-09
+
+The companion **[reference-tagged subsection completion](claim-to-source-reference-completion-2026-10-09.md)** report now records an individual source-to-claim evidence judgment for the 28 previously unreviewed subsections with explicit support tags. This brings the existing inventory to **64 focused judgments across 139 subsections**: all **61 subsections with an explicit `Support:` marker** and three others. It does **not** mean 61 complete papers were read or that each sentence is fact-checked.
+
+A separate **[78-subsection source-needs triage](claim-to-source-no-support-triage-2026-10-09.md)** distinguishes original definitions, design values, hypothetical examples and conditional computations from historic/empirical claims that need further provenance. No missing-source accusation is inferred merely from the absence of a `Support:` tag; inline URLs and internal calculation documents count as evidence too.
+
+**Remaining evidentiary work:** exact source anchors for general historical or industry-prevalence statements, complete-text checks for studies reviewed from abstracts/excerpts, implementation validation of Enclave-specific invariants, up-to-date provider prices, and traceable DGX Spark benchmark provenance. The user-approved §16.6 prose has not been changed by this completion pass.
+
 ## Audit deliverables
 
 - This document: reviewed source-to-claim findings with explicit boundaries, remedy and primary-source links.

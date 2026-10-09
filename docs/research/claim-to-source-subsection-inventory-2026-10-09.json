@@ -5,7 +5,7 @@
   "counts": {
     "sections": 17,
     "subsections": 139,
-    "focused_reviewed_subsections": 36
+    "focused_reviewed_subsections": 64
   },
   "subsections": [
     {
@@ -131,8 +131,8 @@
       "outbound_support_lines": [
         "- **Support:** Hammond, Pain & Smith (2007)."
       ],
-      "focused_review": "not_individually_verified",
-      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+      "focused_review": "qualified_conceptual_support",
+      "review_note": "Hammond, Pain & Smith explicitly frame agency/coherence as a central interactive-narrative question, but 'meaningful response is required' is Enclave's design norm rather than a result of a controlled study."
     },
     {
       "section": 2,
@@ -147,8 +147,8 @@
       "outbound_support_lines": [
         "- **Support:** Louchart & Aylett (2003)."
       ],
-      "focused_review": "not_individually_verified",
-      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+      "focused_review": "direct_support_bounded",
+      "review_note": "Louchart & Aylett explicitly define the narrative paradox as the tension between authored plot and participant movement/action freedom. The paper analyzes RPGs through one expert's knowledge elicitation, not a validated game-engine solution."
     },
     {
       "section": 2,
@@ -163,8 +163,8 @@
       "outbound_support_lines": [
         "- **Support:** Jones (2022); Jones & Millard (2024)."
       ],
-      "focused_review": "not_individually_verified",
-      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+      "focused_review": "direct_support_bounded",
+      "review_note": "Jones (2022) details exponential branching, combinatorial explosion and scope; Jones & Millard (2024) interview 14 IDN authors. Strong support for types of authoring burden, not a numerical industry-wide growth curve."
     },
     {
       "section": 2,
@@ -179,8 +179,8 @@
       "outbound_support_lines": [
         "- **Support:** Stang (2019); Evans (2024)."
       ],
-      "focused_review": "not_individually_verified",
-      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+      "focused_review": "bounded_case_study",
+      "review_note": "Stang describes reconvergence in BioShock and The Walking Dead; Evans discusses blended exploratory/linear structures in Subnautica. Neither supports characterizing *all* conventional narratives as a poor simulacrum."
     },
     {
       "section": 2,
@@ -211,8 +211,8 @@
       "outbound_support_lines": [
         "- **Support:** Jones (2022); Jones & Millard (2024)."
       ],
-      "focused_review": "not_individually_verified",
-      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+      "focused_review": "authorial_synthesis",
+      "review_note": "Jones/Jones–Millard identify authors' content/structure/tool burdens; constraints on participants logically follow from implemented affordances, but the exact both-sides conclusion is Enclave's interpretation."
     },
     {
       "section": 2,
@@ -241,8 +241,8 @@
       "outbound_support_lines": [
         "- **Support:** Jenkins (2004), *Game Design as Narrative Architecture*."
       ],
-      "focused_review": "not_individually_verified",
-      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+      "focused_review": "direct_conceptual_support",
+      "review_note": "Jenkins explicitly treats games as narrative architecture where world spaces, staging, information and emergent storytelling carry meaning independently of fixed scene order."
     },
     {
       "section": 3,
@@ -275,8 +275,8 @@
         "- **Support:** Alexander (2009), *Don’t Prep Plots: Prepping Scenario Timelines*.",
         "- **Supporting:** Alexander (2026), *Is Node-Based Design Prepping a Plot?*"
       ],
-      "focused_review": "not_individually_verified",
-      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+      "focused_review": "direct_practitioner",
+      "review_note": "Alexander's worked initial and revised scenario timelines show that intended future events are conditional on player interventions. The 2026 post explicitly distinguishes situation from predetermined plot."
     },
     {
       "section": 3,
@@ -291,8 +291,8 @@
       "outbound_support_lines": [
         "- **Support:** Alexander (2008), *Three Clue Rule*; Alexander (2010), *Node-Based Scenario Design – Part 3: Inverting the Three Clue Rule*; Alexander (2018), *Using Revelation Lists*; Alexander (2020), *The Secret Life of Nodes*."
       ],
-      "focused_review": "not_individually_verified",
-      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+      "focused_review": "direct_practitioner",
+      "review_note": "The Three Clue Rule, inverted rule and revelation lists explicitly separate revelations from any single clue/discovery path; node navigation is built around information flow. Practitioner method, not tested Enclave access control."
     },
     {
       "section": 3,
@@ -307,8 +307,8 @@
       "outbound_support_lines": [
         "- **Support:** Alexander (2010), *Node-Based Scenario Design – Part 9: Types of Nodes*; Alexander (2020), *Naturalistic Node Design*."
       ],
-      "focused_review": "not_individually_verified",
-      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+      "focused_review": "direct_practitioner",
+      "review_note": "Alexander's types of nodes and naturalistic node design substantiate world-located interaction/info nodes. Saying a node 'should not become the ontology' is Enclave's architectural inference, not Alexander's tested invariant."
     },
     {
       "section": 3,
@@ -323,8 +323,8 @@
       "outbound_support_lines": [
         "- **Support:** Alexander (2009), *Don’t Prep Plots*; Alexander (2011), *Advanced Node-Based Design – Part 1: Moving Between Nodes*; Alexander (2015), *You Will Rue This Day, Heroes!*."
       ],
-      "focused_review": "not_individually_verified",
-      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+      "focused_review": "direct_practitioner",
+      "review_note": "Don't Prep Plots, moving between nodes and villain principles support active antagonists, goals and plans instead of waiting for scripted triggers. Generalization to autonomous AI actors is proposed, not demonstrated."
     },
     {
       "section": 3,
@@ -356,8 +356,8 @@
       "outbound_support_lines": [
         "- **Support:** Louchart et al. (2008), *Purposeful Authoring for Emergent Narrative*."
       ],
-      "focused_review": "not_individually_verified",
-      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+      "focused_review": "direct_conceptual_support",
+      "review_note": "Louchart et al. explicitly argue that emergent narrative still requires purposeful authored goals/emotions/actions, while realized stories are shaped by interactor decisions. Distinguish designed action range and local drama management from Enclave's broader ambition."
     },
     {
       "section": 3,
@@ -404,8 +404,8 @@
       "outbound_support_lines": [
         "- **Support:** Jones (2022); Jones & Millard (2024); Fisher (2022)."
       ],
-      "focused_review": "not_individually_verified",
-      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+      "focused_review": "qualified_formalization_support",
+      "review_note": "Jones supports combinatorial state burden, Fisher describes state abstraction for narrative planning; the broader claim that all divergence is fundamentally a state-space problem is a mathematical framing, not a specific measured theorem."
     },
     {
       "section": 4,
@@ -420,8 +420,8 @@
       "outbound_support_lines": [
         "- **Support:** Jones (2022); Jones & Millard (2024); Alexander (2010), *Node-Based Scenario Design – Part 2: Choose Your Own Adventure*."
       ],
-      "focused_review": "not_individually_verified",
-      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+      "focused_review": "direct_plus_synthesis",
+      "review_note": "Jones establishes branching and combinatorial burden, and Alexander explains exponential choose-your-own structures; 'branching tax' and exactly which costs persist are Enclave's synthesized terminology."
     },
     {
       "section": 4,
@@ -468,8 +468,8 @@
       "outbound_support_lines": [
         "- **Support:** Stang (2019); Evans (2024)."
       ],
-      "focused_review": "not_individually_verified",
-      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+      "focused_review": "bounded_case_study",
+      "review_note": "Stang documents reconvergence in named games; Evans documents exploratory activity around constrained authored plots in Subnautica. The word 'commonly' is not a measured prevalence estimate."
     },
     {
       "section": 4,
@@ -500,8 +500,8 @@
       "outbound_support_lines": [
         "- **Support:** Fisher (2022); Porteous et al. (2021); Hayton et al. (2020); Iovino et al. (2022); Hogan & Brennen (2024)."
       ],
-      "focused_review": "not_individually_verified",
-      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+      "focused_review": "bounded_historical_inference",
+      "review_note": "Fisher/Porteous/Hayton show domain-model and operator-authoring requirements, and Iovino surveys pre-LLM control formalisms. They do not establish the sole/deepest bottleneck throughout all historical computing or empirically quantify GM equivalence."
     },
     {
       "section": 4,
@@ -548,8 +548,8 @@
       "outbound_support_lines": [
         "- **Support:** Marra et al. (2024); Gao et al. (2023); Kambhampati et al. (2024)."
       ],
-      "focused_review": "not_individually_verified",
-      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+      "focused_review": "architectural_precedent",
+      "review_note": "PAL verifies a component-level LLM-to-program-runtime division; LLM-Modulo is explicitly a position paper advocating external verifiers; Marra is a neurosymbolic survey. Enclave's authoritative event handling is an untested transfer."
     },
     {
       "section": 4,
@@ -564,8 +564,8 @@
       "outbound_support_lines": [
         "- **Support:** Marra et al. (2024); Gao et al. (2023); Kambhampati et al. (2024)."
       ],
-      "focused_review": "not_individually_verified",
-      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+      "focused_review": "authorial_synthesis",
+      "review_note": "The combination of formalization constraints and probabilistic proposal/validation is Enclave's reframing. Gao/Kambhampati/Marra give components and philosophy, not an empirically established new boundary for narrative branching."
     },
     {
       "section": 4,
@@ -580,8 +580,8 @@
       "outbound_support_lines": [
         "- **Support:** Jones (2022); Jones & Millard (2024); Fisher (2022); Porteous et al. (2021); Hayton et al. (2020)."
       ],
-      "focused_review": "not_individually_verified",
-      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+      "focused_review": "logical_derivation_with_precedent",
+      "review_note": "Jones and formal planning work document branching and state-representation challenges. The precise 'fundamentally combinatorial' result depends on the state variables included; avoid implying a universal operation count."
     },
     {
       "section": 4,
@@ -596,8 +596,8 @@
       "outbound_support_lines": [
         "- **Support:** Stang (2019); Day & Zhu (2017); Thue et al. (2011); Evans (2024); Short (2019); Failbetter Games; Alexander (2010), *Node-Based Scenario Design – Part 2: Choose Your Own Adventure*."
       ],
-      "focused_review": "not_individually_verified",
-      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+      "focused_review": "documented_patterns_not_prevalence",
+      "review_note": "Stang, Day/Zhu and Thue support perceived-vs-theoretical agency and reconvergence; Short and Failbetter support conditional content. These document approaches, not statistically establish common prevalence or exact cost."
     },
     {
       "section": 4,
@@ -612,8 +612,8 @@
       "outbound_support_lines": [
         "- **Support:** Fisher (2022); Porteous et al. (2021); Hayton et al. (2020); Iovino et al. (2022); Riedl & Bulitko (2013); Hogan & Brennen (2024)."
       ],
-      "focused_review": "not_individually_verified",
-      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+      "focused_review": "architectural_inference",
+      "review_note": "Planning and BT papers support that represented actions/operators impose a finite actionable vocabulary; MMO-size persistent state and its economic scaling are separate assertions not benchmarked by these citations."
     },
     {
       "section": 4,
@@ -628,8 +628,8 @@
       "outbound_support_lines": [
         "- **Support:** Alexander (2009), *Don’t Prep Plots*; Alexander (2015), *Tools, Not Contingencies*; Alexander (2009), scenario timelines; Alexander (2012), *Game Structures*; Alexander (2020), *The Secret Life of Nodes*; Hogan & Brennen (2024)."
       ],
-      "focused_review": "not_individually_verified",
-      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+      "focused_review": "direct_practitioner_analogy",
+      "review_note": "Alexander's situation prep, scenario timelines and game structures describe a GM's adaptation to unanticipated actions. This is practical gamemastering guidance, not proof of AI parity or scalable automation."
     },
     {
       "section": 4,
@@ -692,8 +692,8 @@
       "outbound_support_lines": [
         "- **Support:** Hogan & Brennen (2024); Park et al. (2023); Alexander (2009/2015)."
       ],
-      "focused_review": "not_individually_verified",
-      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+      "focused_review": "design_hypothesis_from_precedents",
+      "review_note": "Park and Snow Globe demonstrate language-mediated action in limited environments, while Alexander describes flexible human facilitation. Unrestricted consequential interpretation or indefinite simulation remains an Enclave hypothesis."
     },
     {
       "section": 5,
@@ -708,8 +708,8 @@
       "outbound_support_lines": [
         "- **Support:** Park et al. (2023); Wu et al. (2025), *LongMemEval*; Jones (2022); Jones & Millard (2024); Fisher (2022)."
       ],
-      "focused_review": "not_individually_verified",
-      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+      "focused_review": "logical_architecture_not_measurement",
+      "review_note": "Maintaining durable world consequences plausibly requires persistent records beyond model calls. Park's memory loop and LongMemEval's dialogue tasks support motivation, but do not measure bytes per meaningful interaction or Enclave history growth."
     },
     {
       "section": 5,
@@ -756,8 +756,8 @@
       "outbound_support_lines": [
         "- **Support:** Enclave synthesis drawing on Hogan & Brennen (2024); Park et al. (2023); Liu et al. (2024); Bai et al. (2024); Hsieh et al. (2024); Wu et al. (2025); Fisher (2022); Porteous et al. (2021)."
       ],
-      "focused_review": "not_individually_verified",
-      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+      "focused_review": "novel_authorial_synthesis",
+      "review_note": "Agency–Persistence Gap is explicitly Enclave's coined analytic synthesis joining agent flexibility, memory limits and symbolic narrative models; none of the citations independently names or validates the entire construct."
     },
     {
       "section": 5,
@@ -788,8 +788,8 @@
       "outbound_support_lines": [
         "- **Support:** Gao et al. (2023), *PAL*; Kambhampati et al. (2024), *LLM-Modulo*; Marra et al. (2024); Hogan & Brennen (2024); Park et al. (2023)."
       ],
-      "focused_review": "not_individually_verified",
-      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+      "focused_review": "architectural_design_not_tested",
+      "review_note": "PAL, LLM-Modulo and Marra support division of probabilistic proposals from trusted execution or verification. This motivates Enclave's architecture without establishing its correctness, completeness or efficiency."
     },
     {
       "section": 6,
@@ -836,8 +836,8 @@
       "outbound_support_lines": [
         "- **Support:** Juul (2002); Soler-Adillon (2019); Fisher (2022); Porteous et al. (2021); Hayton et al. (2020); Iovino et al. (2022)."
       ],
-      "focused_review": "not_individually_verified",
-      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+      "focused_review": "formal_boundary_inference",
+      "review_note": "Juul/Soler-Adillon discuss broad emergence from bounded rules; narrative planning and BT work operate over implemented operators. The 'bounded interaction vocabulary' conclusion is structural reasoning, not a tested maximum."
     },
     {
       "section": 6,
@@ -1443,8 +1443,8 @@
       "outbound_support_lines": [
         "- **Support / precedent:** Tulving (2002); Greenberg & Verfaellie (2010); Park et al. (2023); Wu et al. (2025), *LongMemEval*; Packer et al. (2023), *MemGPT*."
       ],
-      "focused_review": "not_individually_verified",
-      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+      "focused_review": "human_memory_analogy_and_agent_precedent",
+      "review_note": "Tulving/Greenberg distinguish episodic and semantic memory in humans; Park, MemGPT and LongMemEval address machine agent history/retrieval. Human-memory theory does not validate Enclave's primitive semantics."
     },
     {
       "section": 12,
@@ -1475,8 +1475,8 @@
       "outbound_support_lines": [
         "- **Support / architectural precedent:** Park et al. (2023); Hogan & Brennen (2024); Gao et al. (2023), *PAL*; Kambhampati et al. (2024), *LLM-Modulo*."
       ],
-      "focused_review": "not_individually_verified",
-      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+      "focused_review": "proposed_cycle_with_precedents",
+      "review_note": "Park supplies an agent memory/reflection/planning loop; Snow Globe and PAL/LLM-Modulo cover open-ended interaction and verifier separation. The specific Enclave Event validation/commit cycle remains a proposed protocol."
     },
     {
       "section": 12,

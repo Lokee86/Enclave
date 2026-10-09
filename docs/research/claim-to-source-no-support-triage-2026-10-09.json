@@ -1,0 +1,569 @@
+{
+  "date": "2026-10-09",
+  "scope": "No explicit Support line; not necessarily no citations",
+  "count": 78,
+  "by_category": {
+    "literature_synthesis": 5,
+    "thesis_or_normative_claim": 6,
+    "original_ontology_or_rule": 37,
+    "prior_art_claim": 1,
+    "internal_provenance": 1,
+    "proposed_algorithm": 1,
+    "hypothetical_walkthrough": 9,
+    "conditional_math": 8,
+    "dated_external_rates": 1,
+    "transferred_benchmark": 1,
+    "proposed_deployment_tier": 5,
+    "restated_literature": 1,
+    "hypothesized_outcome": 1,
+    "architectural_proposal": 1
+  },
+  "entries": [
+    {
+      "id": "1.1",
+      "heading": "Interactive narrative traditionally trades participant freedom against authorial control.",
+      "category": "literature_synthesis",
+      "action": "Link to authorial-burden literature in sections 2 and 4.",
+      "preview": "Greater meaningful freedom creates more branches, dialogue states, contingencies, and consequences that must be anticipated and implemented."
+    },
+    {
+      "id": "1.2",
+      "heading": "Generative models expand reactive possibilities but create new authority problems.",
+      "category": "literature_synthesis",
+      "action": "Cross-reference model error and authority research in sections 4 and 5.",
+      "preview": "Characters can acquire knowledge they should not possess.; World state can become inconsistent."
+    },
+    {
+      "id": "1.3",
+      "heading": "The proposed architecture separates human authorship, authoritative state, reactive actors, and probabilistic assistance.",
+      "category": "thesis_or_normative_claim",
+      "action": "Authorial position; do not imply independent measurement.",
+      "preview": "Human authors define the narrative world, actors, knowledge, conflicts, motivations, relationships, intended events, and possible outcomes.; An authoritative state, information, and event sy"
+    },
+    {
+      "id": "1.4",
+      "heading": "Core objective",
+      "category": "thesis_or_normative_claim",
+      "action": "Authorial position; do not imply independent measurement.",
+      "preview": "Preserve human authorship while making authored narrative responsive without requiring every possible response to be authored in advance."
+    },
+    {
+      "id": "2.4",
+      "heading": "Human authorship is therefore a design requirement of this architecture.",
+      "category": "thesis_or_normative_claim",
+      "action": "Authorial position; do not imply independent measurement.",
+      "preview": "The objective is to preserve **deep, meaningful stories with breadth and depth that challenge and push the edges of philosophy**, while preserving the creative perspectives, long-range inten"
+    },
+    {
+      "id": "2.11",
+      "heading": "The architectural problem is therefore not how to diminish human authorship, but how to extend its reach.",
+      "category": "thesis_or_normative_claim",
+      "action": "Authorial position; do not imply independent measurement.",
+      "preview": "Better interactive authoring mechanisms should allow human-authored worlds, characters, motivations, conflicts, and narrative intentions to respond coherently across a much larger range of p"
+    },
+    {
+      "id": "7.1",
+      "heading": "Sandboxing the Narrative",
+      "category": "literature_synthesis",
+      "action": "Link the historical sandbox claim to section 6.",
+      "preview": "Section 6 established that sandbox systems can generate enormous spaces of valid world state and emergent events without requiring developers to enumerate every resulting configuration.; His"
+    },
+    {
+      "id": "7.2",
+      "heading": "Three Primitive Families",
+      "category": "original_ontology_or_rule",
+      "action": "Definition/proposed rule; validate invariants internally.",
+      "preview": "Enclave represents the running narrative world independently of any current model invocation or Actor interpretation.; Enclave organizes its foundational primitive ontology into three famili"
+    },
+    {
+      "id": "7.3",
+      "heading": "Human Authors Define the Knowledge Base",
+      "category": "original_ontology_or_rule",
+      "action": "Definition/proposed rule; validate invariants internally.",
+      "preview": "Human authors define the initial contents and structure of the persistent narrative world to create the initial **Knowledge Base**:; people;"
+    },
+    {
+      "id": "7.4",
+      "heading": "Nexus Interactions Create Cause and Effect",
+      "category": "original_ontology_or_rule",
+      "action": "Definition/proposed rule; validate invariants internally.",
+      "preview": "Narrative state merely describes the current world, but for the system to work actions must have consequences.; Actions alter circumstances and introduce new information."
+    },
+    {
+      "id": "7.5",
+      "heading": "Knowledge Control and Classification",
+      "category": "original_ontology_or_rule",
+      "action": "Definition/proposed rule; validate invariants internally.",
+      "preview": "A persistent Knowledge Base of meaningful scale cannot be treated as an undifferentiated collection of information.; Enclave therefore organizes Knowledge through **Domains**: broad semantic"
+    },
+    {
+      "id": "7.6",
+      "heading": "Narrative as Emergent State",
+      "category": "original_ontology_or_rule",
+      "action": "Definition/proposed rule; validate invariants internally.",
+      "preview": "As a result, narrative is not represented as a sequence of scenes, branches, or states through which the system advances.; The realized narrative is instead the continuously evolving state p"
+    },
+    {
+      "id": "7.7",
+      "heading": "Why It Can Work",
+      "category": "prior_art_claim",
+      "action": "Demonstrated components are not proof of the full Enclave integration.",
+      "preview": "Existing approaches demonstrate that the individual capabilities required by Enclave are already viable, but each addresses only part of the larger problem.; Modern sandbox systems are highl"
+    },
+    {
+      "id": "8.1",
+      "heading": "Different Authority for Different Layers",
+      "category": "original_ontology_or_rule",
+      "action": "Definition/proposed rule; validate invariants internally.",
+      "preview": "Enclave depends on systems with radically different capabilities operating over the same persistent narrative world.; For those systems to operate together, **capability must remain distinct"
+    },
+    {
+      "id": "8.2",
+      "heading": "Authorial Authority",
+      "category": "original_ontology_or_rule",
+      "action": "Definition/proposed rule; validate invariants internally.",
+      "preview": "Human authors possess authority over the authored structure from which the narrative develops.; This includes:"
+    },
+    {
+      "id": "8.3",
+      "heading": "Knowledge Authority",
+      "category": "original_ontology_or_rule",
+      "action": "Definition/proposed rule; validate invariants internally.",
+      "preview": "Enclave distinguishes between **information that exists within the world** and **information the system accepts as canonical**.; Knowledge may represent:"
+    },
+    {
+      "id": "8.4",
+      "heading": "Actor Authority",
+      "category": "original_ontology_or_rule",
+      "action": "Definition/proposed rule; validate invariants internally.",
+      "preview": "Actors possess authority over their own actions within the limits of the capabilities available to them.; Those actions may originate through:"
+    },
+    {
+      "id": "8.5",
+      "heading": "Action, Resolution, and Consequence",
+      "category": "original_ontology_or_rule",
+      "action": "Definition/proposed rule; validate invariants internally.",
+      "preview": "Actors enter a narrative world that already possesses authoritative state, constraints, and history.; Consequences are therefore resolved against the world as it currently exists."
+    },
+    {
+      "id": "8.6",
+      "heading": "A Single Source of Truth",
+      "category": "original_ontology_or_rule",
+      "action": "Definition/proposed rule; validate invariants internally.",
+      "preview": "Enclave ultimately maintains one authoritative account of the running world.; One that does **not** require every Actor to possess the same information or every item of Knowledge to agree."
+    },
+    {
+      "id": "9.1",
+      "heading": "Seven Foundational Primitives",
+      "category": "original_ontology_or_rule",
+      "action": "Definition/proposed rule; validate invariants internally.",
+      "preview": "Enclave is constructed around seven foundational primitives.; The seven primitives are organized into three families:"
+    },
+    {
+      "id": "9.2",
+      "heading": "Facts",
+      "category": "original_ontology_or_rule",
+      "action": "Definition/proposed rule; validate invariants internally.",
+      "preview": "**Facts** are persistent computational representations of information that exist within Enclave.; Facts are deterministic representations rather than probabilistic recollection."
+    },
+    {
+      "id": "9.4",
+      "heading": "Events",
+      "category": "original_ontology_or_rule",
+      "action": "Definition/proposed rule; validate invariants internally.",
+      "preview": "**Events** are the persistent authoritative record of occurrences accepted as having happened within the narrative world.; Where Facts may be canonical or non-canonical, an Event records an "
+    },
+    {
+      "id": "9.5",
+      "heading": "Loci",
+      "category": "original_ontology_or_rule",
+      "action": "Definition/proposed rule; validate invariants internally.",
+      "preview": "**Loci** are points through which Knowledge can be retained, received, exposed, transmitted, or acted upon.; A Locus describes a point of information availability or exchange within the narr"
+    },
+    {
+      "id": "9.6",
+      "heading": "Actors",
+      "category": "original_ontology_or_rule",
+      "action": "Definition/proposed rule; validate invariants internally.",
+      "preview": "**Actors** are entities capable of acting upon the narrative world.; Action is the defining distinction."
+    },
+    {
+      "id": "9.7",
+      "heading": "Participants",
+      "category": "original_ontology_or_rule",
+      "action": "Definition/proposed rule; validate invariants internally.",
+      "preview": "**Participants** are Cognitive Actors whose cognition originates outside Enclave.; In interactive media they are generally the human players."
+    },
+    {
+      "id": "9.8",
+      "heading": "Domains",
+      "category": "original_ontology_or_rule",
+      "action": "Definition/proposed rule; validate invariants internally.",
+      "preview": "**Domains** are broad semantic classifications describing what Knowledge concerns.; Examples may include:"
+    },
+    {
+      "id": "9.9",
+      "heading": "Primitive Interaction",
+      "category": "original_ontology_or_rule",
+      "action": "Definition/proposed rule; validate invariants internally.",
+      "preview": "The seven foundational primitives are organized into three families describing complementary dimensions of one persistent narrative system.; **Facts** - What information exists within the sy"
+    },
+    {
+      "id": "10.1",
+      "heading": "Derivation From the Foundational Primitives",
+      "category": "original_ontology_or_rule",
+      "action": "Definition/proposed rule; validate invariants internally.",
+      "preview": "The seven foundational primitives describe the basic entities and relationships required by the architecture.; Several additional concepts arise naturally through specialization, composition"
+    },
+    {
+      "id": "10.2",
+      "heading": "Interaction",
+      "category": "original_ontology_or_rule",
+      "action": "Definition/proposed rule; validate invariants internally.",
+      "preview": "**Interaction** is a derivative form of Event characterized by causal process.; Events record authoritative occurrence and consequence."
+    },
+    {
+      "id": "10.3",
+      "heading": "Enclaves",
+      "category": "original_ontology_or_rule",
+      "action": "Definition/proposed rule; validate invariants internally.",
+      "preview": "**Enclaves** are specialized Domains associated with Actor populations.; Where Domains classify Knowledge semantically, Enclaves extend classification by relating bodies of Knowledge to spec"
+    },
+    {
+      "id": "10.4",
+      "heading": "Rank",
+      "category": "original_ontology_or_rule",
+      "action": "Definition/proposed rule; validate invariants internally.",
+      "preview": "**Rank** is a specialized subordinate Enclave intrinsic to every Enclave.; Each Enclave possesses its own Rank structure. Recommended to be expressed in system by numerical scale."
+    },
+    {
+      "id": "10.5",
+      "heading": "Facets",
+      "category": "original_ontology_or_rule",
+      "action": "Definition/proposed rule; validate invariants internally.",
+      "preview": "**Facets** represent identifiable entities whose relevant context is expressed through multiple independent Enclave hierarchies.; A Facet is not merely a broad category of Enclaves."
+    },
+    {
+      "id": "10.6",
+      "heading": "Combinatorial Enclaves",
+      "category": "original_ontology_or_rule",
+      "action": "Definition/proposed rule; validate invariants internally.",
+      "preview": "**Combinatorial Enclaves** represent the conjunction or intersection of two or more Enclaves.; They identify populations satisfying all included Enclave conditions."
+    },
+    {
+      "id": "10.7",
+      "heading": "Inheritance",
+      "category": "original_ontology_or_rule",
+      "action": "Definition/proposed rule; validate invariants internally.",
+      "preview": "**Inheritance** describes parent-child relationships between Enclaves.; Membership in a child Enclave implies membership in its parent Enclave."
+    },
+    {
+      "id": "11.1",
+      "heading": "Initial Knowledge Distribution",
+      "category": "original_ontology_or_rule",
+      "action": "Definition/proposed rule; validate invariants internally.",
+      "preview": "The existing Knowledge Base presents a universal source of truth representing all Knowledge within the narrative possibility space.; Some knowledge may be universally accessible depending on"
+    },
+    {
+      "id": "11.2",
+      "heading": "Knowledge Transmission",
+      "category": "original_ontology_or_rule",
+      "action": "Definition/proposed rule; validate invariants internally.",
+      "preview": "Knowledge moves through Interactions involving Actors, Participants, and Loci.; Transmission occurs when Knowledge becomes newly available through an interaction or point of exposure."
+    },
+    {
+      "id": "11.3",
+      "heading": "Emergent Diffusion",
+      "category": "original_ontology_or_rule",
+      "action": "Definition/proposed rule; validate invariants internally.",
+      "preview": "Once acquired, Knowledge may subsequently be retransmitted through other Actors, Participants, and Loci.; Facts can therefore continue moving through the world long after the Event or Intera"
+    },
+    {
+      "id": "11.4",
+      "heading": "Enclave Saturation and Institutional Knowledge",
+      "category": "original_ontology_or_rule",
+      "action": "Definition/proposed rule; validate invariants internally.",
+      "preview": "**Saturation** describes the degree to which a particular item of Knowledge has propagated through the Actor population of an Enclave.; It is a cost-efficiency method meant to abstract wides"
+    },
+    {
+      "id": "11.5",
+      "heading": "Institutional Emission",
+      "category": "original_ontology_or_rule",
+      "action": "Definition/proposed rule; validate invariants internally.",
+      "preview": "Institutionalization does not necessarily imply that every member immediately knows the Fact.; This is one possible result of Saturation, but higher fidelity simulations may choose to exclus"
+    },
+    {
+      "id": "11.6",
+      "heading": "Information as World State",
+      "category": "original_ontology_or_rule",
+      "action": "Definition/proposed rule; validate invariants internally.",
+      "preview": "Information becomes part of the distributed persistent state of the simulated world.; The system does not only represent:"
+    },
+    {
+      "id": "12.8",
+      "heading": "Reliquary and the Development of the Enclave Architecture",
+      "category": "internal_provenance",
+      "action": "Use versioned Reliquary design/benchmark records.",
+      "preview": "Enclave's **theory** does not require Reliquary.; The Enclave ontology and its architectural principles can be implemented using other persistent Memory and cognitive architectures."
+    },
+    {
+      "id": "13.1",
+      "heading": "From Cognition to Causality",
+      "category": "original_ontology_or_rule",
+      "action": "Definition/proposed rule; validate invariants internally.",
+      "preview": "A Cognitive Actor may interpret its circumstances, reason from its Knowledge and Memory, and determine what it intends to do.; At the end of that cognitive process, however, the world has no"
+    },
+    {
+      "id": "13.2",
+      "heading": "The Existing Sandbox",
+      "category": "literature_synthesis",
+      "action": "Refer back to section 6 sandbox sources.",
+      "preview": "Section 6 established that sandbox and simulation-heavy games already provide sophisticated persistent systemic and physical cause and effect.; Enclave does not attempt to replace that machi"
+    },
+    {
+      "id": "13.3",
+      "heading": "Open-ended Action Space",
+      "category": "literature_synthesis",
+      "action": "Reference action-vocabulary limits in sections 4 and 6.",
+      "preview": "Existing sandbox systems may support enormous combinatorial possibility while still exposing a finite vocabulary of explicitly represented actions and interactions.; The same probabilistic c"
+    },
+    {
+      "id": "13.4",
+      "heading": "Action and Consequence",
+      "category": "original_ontology_or_rule",
+      "action": "Definition/proposed rule; validate invariants internally.",
+      "preview": "Once an attempted action enters the world, the relevant question is no longer simply what the Actor intended, but **what Interaction actually occurs**.; An Interaction incorporates the attem"
+    },
+    {
+      "id": "13.5",
+      "heading": "Making it Real",
+      "category": "original_ontology_or_rule",
+      "action": "Definition/proposed rule; validate invariants internally.",
+      "preview": "Because an Interaction is an Event characterized by causal process, an authoritatively resolved Interaction is already part of the authoritative history of the world.; It does not need to su"
+    },
+    {
+      "id": "13.6",
+      "heading": "Conditional Developments",
+      "category": "original_ontology_or_rule",
+      "action": "Definition/proposed rule; validate invariants internally.",
+      "preview": "Earlier sections established that authors may define intended developments without requiring a fixed sequence.; Persistent cause and effect supplies the runtime mechanism that makes those de"
+    },
+    {
+      "id": "13.7",
+      "heading": "Branching as Causality",
+      "category": "original_ontology_or_rule",
+      "action": "Definition/proposed rule; validate invariants internally.",
+      "preview": "The branching problem described in §4 does not disappear.; What changes is how divergence is represented."
+    },
+    {
+      "id": "13.8",
+      "heading": "Event-Driven Persistence",
+      "category": "proposed_algorithm",
+      "action": "Event-driven efficiency must be benchmarked, not presumed.",
+      "preview": "Persistent cause and effect does not require the entire world to be continuously reevaluated.; Interactions and other Events identify meaningful changes in authoritative state and therefore "
+    },
+    {
+      "id": "14.1",
+      "heading": "From Authored Trajectory to Realized Narrative",
+      "category": "hypothetical_walkthrough",
+      "action": "Thought experiment; published adventures are source material, not tests.",
+      "preview": "Each example begins with a conventional published adventure containing:; an established world state;"
+    },
+    {
+      "id": "14.3",
+      "heading": "*A Wild Sheep Chase* as Persistent Narrative State",
+      "category": "hypothetical_walkthrough",
+      "action": "Thought experiment; published adventures are source material, not tests.",
+      "preview": "Under Enclave, the adventure is represented primarily through the circumstances that produce its expected trajectory rather than through the trajectory itself.; Shinebright exists as a Cogni"
+    },
+    {
+      "id": "14.4",
+      "heading": "A Different Interaction Produces a Different Trajectory",
+      "category": "hypothetical_walkthrough",
+      "action": "Thought experiment; published adventures are source material, not tests.",
+      "preview": "The initial encounter with Guz provides an immediate point at which Participant behaviour can depart from the expected trajectory.; Participants may communicate with Guz, capture him, allow "
+    },
+    {
+      "id": "14.5",
+      "heading": "Minor Divergence Walkthrough: The Same Adventure in a Different State",
+      "category": "hypothetical_walkthrough",
+      "action": "Thought experiment; published adventures are source material, not tests.",
+      "preview": "This example deliberately preserves the broad authored trajectory.; The divergence consists of small causal changes that remain meaningful but would rarely justify individually authored bran"
+    },
+    {
+      "id": "14.6",
+      "heading": "Persistent Consequence in the Fantasy Example",
+      "category": "hypothetical_walkthrough",
+      "action": "Thought experiment; published adventures are source material, not tests.",
+      "preview": "The divergent Interaction does more than change a conversation.; Guz remembers his treatment by the Participants."
+    },
+    {
+      "id": "14.8",
+      "heading": "*Signals* as Persistent Narrative State",
+      "category": "hypothetical_walkthrough",
+      "action": "Thought experiment; published adventures are source material, not tests.",
+      "preview": "Under Enclave, Starfleet, Romulan, and settlement perspectives remain distinct.; Individual Cognitive Actors know only what their histories, affiliations, observations, communications, and M"
+    },
+    {
+      "id": "14.9",
+      "heading": "Contact with the Romulans Changes the Mission",
+      "category": "hypothetical_walkthrough",
+      "action": "Thought experiment; published adventures are source material, not tests.",
+      "preview": "Participants may choose to communicate with surviving Romulans rather than treating them exclusively as combatants.; They may:"
+    },
+    {
+      "id": "14.10",
+      "heading": "Major Divergence Walkthrough: Leaving the Authored Trajectory",
+      "category": "hypothetical_walkthrough",
+      "action": "Thought experiment; published adventures are source material, not tests.",
+      "preview": "This example deliberately does the opposite of the fantasy example.; A relatively early Participant decision changes the conditions supporting the published sequence so substantially that th"
+    },
+    {
+      "id": "14.11",
+      "heading": "The Same Architecture Across Different Narrative Worlds",
+      "category": "hypothetical_walkthrough",
+      "action": "Thought experiment; published adventures are source material, not tests.",
+      "preview": "The two adventures differ substantially in setting, genre, institutions, technology, tone, scope, and immediate conflict.; Their realized divergence nevertheless follows the same basic causa"
+    },
+    {
+      "id": "15.1",
+      "heading": "High-Fidelity Reference Workload: *Signals*",
+      "category": "conditional_math",
+      "action": "Link calculation files and assumptions; model != deployment benchmark.",
+      "preview": "Use the major-divergence *Signals* walkthrough from §14.10.; Assume approximately eight hours of **simulated in-game time**, not eight hours of wall-clock gameplay. Game-time dilation can co"
+    },
+    {
+      "id": "15.2",
+      "heading": "What Actually Consumes Computation",
+      "category": "conditional_math",
+      "action": "Link calculation files and assumptions; model != deployment benchmark.",
+      "preview": "Separate:; Actor↔Actor social/communicative cognition;"
+    },
+    {
+      "id": "15.3",
+      "heading": "Persistent State and Storage Cost",
+      "category": "conditional_math",
+      "action": "Link calculation files and assumptions; model != deployment benchmark.",
+      "preview": "Scope is **Enclave-only storage**.; Explicitly exclude:"
+    },
+    {
+      "id": "15.4",
+      "heading": "Cognitive Simulation Cost",
+      "category": "conditional_math",
+      "action": "Link calculation files and assumptions; model != deployment benchmark.",
+      "preview": "Use responsibility-specific token profiles rather than one universal call shape.; **Social/dialogue/complex cognition:** 4,000 input / 250 output tokens."
+    },
+    {
+      "id": "15.6",
+      "heading": "Temporal Fidelity and Event-Driven Cognition",
+      "category": "conditional_math",
+      "action": "Link calculation files and assumptions; model != deployment benchmark.",
+      "preview": "Full-time Cognitive Actors do not imply continuous inference.; Actors can continue existing plans and routine actions deterministically."
+    },
+    {
+      "id": "15.7",
+      "heading": "Locality and Causal Reach",
+      "category": "conditional_math",
+      "action": "Link calculation files and assumptions; model != deployment benchmark.",
+      "preview": "Use Loci, communication channels, relationships, institutions, Domains and Enclaves to bound causal reach.; Only Actors actually affected by an Event require reevaluation."
+    },
+    {
+      "id": "15.8",
+      "heading": "Model Routing and Costs",
+      "category": "dated_external_rates",
+      "action": "Inline provider URLs exist; recheck rates at publication.",
+      "preview": "Model capability can be routed by responsibility.; Illustrative route:"
+    },
+    {
+      "id": "15.9",
+      "heading": "Inference Capacity and Real-Time Feasibility",
+      "category": "transferred_benchmark",
+      "action": "Provide exact NVIDIA DGX Spark source/configuration; not Enclave measurements.",
+      "preview": "Distinguish **aggregate throughput across the eight simulated hours** from **response latency** when multiple Actors need cognition simultaneously. Sufficient total throughput does not guara"
+    },
+    {
+      "id": "15.10",
+      "heading": "The Manhattan Test",
+      "category": "conditional_math",
+      "action": "Census link exists; verify Manhattan model calculations and assumptions.",
+      "preview": "*Signals*' bounded reference—43 Cognitive Actors over eight simulated hours—requires ~2,624 Interactions, ~123.75 MiB in generated records, ~1,221 inference calls, and ~3.686M tokens. At thi"
+    },
+    {
+      "id": "16.1",
+      "heading": "Enclave Is Not an All-or-Nothing Architecture",
+      "category": "proposed_deployment_tier",
+      "action": "Design proposal; real costs/quality require implementation.",
+      "preview": "A game does not need to simulate an entire persistent world at maximum fidelity to benefit from the architecture.; Individual layers can be introduced progressively."
+    },
+    {
+      "id": "16.2",
+      "heading": "Reactive Dialogue",
+      "category": "proposed_deployment_tier",
+      "action": "Design proposal; real costs/quality require implementation.",
+      "preview": "A low-complexity implementation can use:; bounded NPC Knowledge;"
+    },
+    {
+      "id": "16.3",
+      "heading": "Persistent Characters",
+      "category": "proposed_deployment_tier",
+      "action": "Design proposal; real costs/quality require implementation.",
+      "preview": "A deeper implementation can add:; Actor-specific Memories;"
+    },
+    {
+      "id": "16.4",
+      "heading": "Reactive Authored Narrative",
+      "category": "proposed_deployment_tier",
+      "action": "Design proposal; real costs/quality require implementation.",
+      "preview": "The core intended application combines:; authored narrative worlds;"
+    },
+    {
+      "id": "16.5",
+      "heading": "Partial and Hybrid Implementations",
+      "category": "proposed_deployment_tier",
+      "action": "Design proposal; real costs/quality require implementation.",
+      "preview": "The implementation levels described above need not be applied uniformly throughout a game.; An implementation of the complete Enclave architecture may combine conventional deterministic NPCs"
+    },
+    {
+      "id": "16.6",
+      "heading": "Practical Computational Implications",
+      "category": "conditional_math",
+      "action": "Approved prose unchanged; model estimates do not establish observed requirements.",
+      "preview": "The full-fidelity simulations examined in §15 establish the computational requirements of continuously supporting an entire population of permanently Cognitive Actors. They do not establish "
+    },
+    {
+      "id": "17.1",
+      "heading": "Restate the Problem",
+      "category": "restated_literature",
+      "action": "Point back to evidence from previous sections.",
+      "preview": "Interactive narrative has historically traded broad Participant agency against persistent authored consequence.; Conventional computation preserves state but struggles with unforeseen semant"
+    },
+    {
+      "id": "17.2",
+      "heading": "Restate the Architectural Response",
+      "category": "thesis_or_normative_claim",
+      "action": "Authorial position; do not imply independent measurement.",
+      "preview": "Enclave separates:; human authorship;"
+    },
+    {
+      "id": "17.3",
+      "heading": "Restate the Narrative Consequence",
+      "category": "hypothesized_outcome",
+      "action": "Maintain prospective narrative-consequence language.",
+      "preview": "Human authors construct the world, its conflicts, Actors, information, pressures, and meaningful possibilities.; Participants act within that world without being limited to enumerated narrat"
+    },
+    {
+      "id": "17.4",
+      "heading": "Restate the Engineering Consequence",
+      "category": "architectural_proposal",
+      "action": "Intended separation, not proof of enforced reliability.",
+      "preview": "Model context does not need to contain the world.; Probabilistic systems do not need to maintain authoritative state."
+    },
+    {
+      "id": "17.5",
+      "heading": "Closing Claim",
+      "category": "thesis_or_normative_claim",
+      "action": "Authorial position; do not imply independent measurement.",
+      "preview": "The central claim of Enclave is not that probabilistic models can replace authored narrative.; It is that persistent computation, controlled information, probabilistic interpretation, and hu"
+    }
+  ]
+}
