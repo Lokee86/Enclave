@@ -5,7 +5,7 @@
   "counts": {
     "sections": 17,
     "subsections": 139,
-    "focused_reviewed_subsections": 34
+    "focused_reviewed_subsections": 36
   },
   "subsections": [
     {
@@ -660,8 +660,8 @@
       "outbound_support_lines": [
         "- **Support:** Park et al. (2023); Hu et al. (2024/2026); Hogan & Brennen (2024); Tian et al. (2024) as secondary support for local generative competence."
       ],
-      "focused_review": "not_individually_verified",
-      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+      "focused_review": "bounded_precedent",
+      "review_note": "Park et al. (2023) demonstrate believable coordination in a 25-agent social sandbox; Hogan & Brennen (2024) report bounded qualitative wargame cases. Neither establishes historical human-GM labor removal at persistent-world scale; source-scope adjustment applied 2026-10-09."
     },
     {
       "section": 5,
@@ -676,8 +676,8 @@
       "outbound_support_lines": [
         "- **Support:** Hogan & Brennen (2024); Park et al. (2023); Hu et al. (2024/2026); Porteous et al. (2021); Hayton et al. (2020)."
       ],
-      "focused_review": "not_individually_verified",
-      "review_note": "Sources listed in outline where present; this inventory is not a claim that every individual assertion has been corroborated"
+      "focused_review": "bounded_precedent",
+      "review_note": "LLM-mediated natural-language action interpretation has bounded empirical precedents (Park et al. 2023; Hogan & Brennen 2024); human-GM parity and removal of broad interaction constraints remain unverified. Conditional wording applied 2026-10-09."
     },
     {
       "section": 5,

@@ -322,16 +322,16 @@
   - generate natural dialogue and responses.
 - They can operate both as **actors within the world** and as **situational interpreters or overseers**.
 - Unlike human GMs, they can potentially perform these operations concurrently and continuously at computational scale.
-- This removes much of the historical labour constraint on broad interpretation.
+- These capabilities could reduce the human labour required for broad interpretation, but reliability, latency, supervision, and concurrent capacity at persistent-world scale remain to be established.
 - **Support:** Park et al. (2023); Hu et al. (2024/2026); Hogan & Brennen (2024); Tian et al. (2024) as secondary support for local generative competence.
 
 ## 5. The Agency–Persistence Gap
 
 ### 5.1 The Agency
-- Machine intelligence removes much of the historical interaction constraint.
+- Machine intelligence offers a way to reduce historical interaction constraints by interpreting more varied participant actions, subject to reliability and implementation limits.
 - LLMs can interpret actions that were never explicitly represented beforehand.
 - They can reason over circumstances, intent, motivation, and context without requiring every interpretation to exist as a predefined computational rule.
-- This approaches the interpretive capability historically supplied by human Gamemasters.
+- These systems can approximate some interpretive functions traditionally provided by human Gamemasters; equivalence in open-ended consequential play remains unestablished.
 - **Support:** Hogan & Brennen (2024); Park et al. (2023); Hu et al. (2024/2026); Porteous et al. (2021); Hayton et al. (2020).
 
 ### 5.2 Expanded Agency

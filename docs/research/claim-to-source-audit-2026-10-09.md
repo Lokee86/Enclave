@@ -131,6 +131,16 @@ Four different evidentiary relationships must not be conflated:
 
 Restating the architectural thesis is legitimate. Avoid introducing new claims of experimental feasibility, novelty priority, guaranteed narrative fidelity, or measured cost reduction that are not supported by the preceding proposal and conditional models.
 
+## Focused continuation: bounded agent evidence in §§4.17 and 5.1
+
+**Source check (2026-10-09).** Park et al. (2023) evaluate generative agents in a 25-agent sandbox, demonstrating believable local behavior and some emergent social coordination. Hogan & Brennen (2024) present Snow Globe, a system for qualitative wargames, with case studies on incident-response and geopolitical scenarios. Both are legitimate precedents for natural-language agent interactions; neither measures long-duration, thousands-of-agent, unsupervised narrative fidelity or shows that ordinary human gamemastering labor has already been replaced. The paper's prior formulation treated a *potential* reduction as an *accomplished* one.
+
+- **§4.17:** replaced "This removes much of the historical labour constraint" with a conditional statement and explicit reliability/latency/supervision/concurrency limitations.
+- **§5.1:** replaced "Machine intelligence removes much..." with a conditional capability statement; revised the gamemaster-equivalence analogy to explicitly note the absence of comparable evaluation.
+- **Status:** these are scope corrections, not a change to Enclave's primitives, authority architecture, or claims about its intended design.
+- **Evidence checked:** [Park et al., Generative Agents (ACM UIST 2023)](https://doi.org/10.1145/3586183.3606763) (publisher abstract); [Hogan & Brennen, Open-Ended Wargames with Large Language Models (2024)](https://arxiv.org/abs/2404.11446) (author abstract).
+- **Related literature surfaced:** [Jones & Millard, *Beyond Authorial Burden* (ACM Transactions on the Web, published August 13, 2026)](https://doi.org/10.1145/3757746) extends the underlying interview work; add to the publication bibliography only after a separate relevance/overlap check against the cited 2024 conference version.
+
 ## Outstanding source gaps (not solved by the existing 92-item bibliography)
 
 1. **Replay effect:** empirical repeated-playthrough agency comparison, if the paper wishes to make a general causal claim.
