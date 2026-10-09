@@ -1460,6 +1460,8 @@ The central proposition is simple:
 
 ## Bibliography
 
+Adams, T. (2021). Characterization and emergent narrative in Dwarf Fortress. In B. Suter, R. Bauer, & M. Kocher (Eds.), *Narrative Mechanics: Strategies and Meanings in Games and Real Life* (pp. 151–160). transcript Verlag. https://doi.org/10.1515/9783839453452-007
+
 Agarwal, D., Naaman, M., & Vashistha, A. (2025). AI suggestions homogenize writing toward Western styles and diminish cultural nuances. *Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems*, Article 1117, 1–21. https://doi.org/10.1145/3706598.3713564
 
 Alexander, J. (2008, May 8). Three Clue Rule. *The Alexandrian*. https://thealexandrian.net/wordpress/1118/roleplaying-games/three-clue-rule
@@ -1468,19 +1470,19 @@ Alexander, J. (2009, March 23). Don’t prep plots. *The Alexandrian*. https://t
 
 Alexander, J. (2009, March 23). Don’t prep plots: Prepping scenario timelines. *The Alexandrian*. https://thealexandrian.net/wordpress/4154/roleplaying-games/dont-prep-plots-prepping-scenario-timelines
 
+Alexander, J. (2010, June 14). Node-based scenario design – Part 9: Types of nodes. *The Alexandrian*. https://thealexandrian.net/wordpress/8049/roleplaying-games/node-based-scenario-design-part-9-types-of-nodes
+
+Alexander, J. (2010, June 4). Node-based scenario design – Part 5: Plot vs. node. *The Alexandrian*. https://thealexandrian.net/wordpress/8008/roleplaying-games/node-based-scenario-design-part-5-plot-vs-node
+
 Alexander, J. (2010, May 27). Node-based scenario design – Part 1: The plotted approach. *The Alexandrian*. https://thealexandrian.net/wordpress/7949/roleplaying-games/node-based-scenario-design-part-1-the-plotted-approach
 
 Alexander, J. (2010, May 28). Node-based scenario design – Part 2: Choose your own adventure. *The Alexandrian*. https://thealexandrian.net/wordpress/7961/roleplaying-games/node-based-scenario-design-part-2-choose-your-own-adventure
 
 Alexander, J. (2010, May 31). Node-based scenario design – Part 3: Inverting the Three Clue Rule. *The Alexandrian*. https://thealexandrian.net/wordpress/7985/roleplaying-games/node-based-scenario-design-part-3-inverting-the-three-clue-rule
 
-Alexander, J. (2010, June 4). Node-based scenario design – Part 5: Plot vs. node. *The Alexandrian*. https://thealexandrian.net/wordpress/8008/roleplaying-games/node-based-scenario-design-part-5-plot-vs-node
-
-Alexander, J. (2010, June 14). Node-based scenario design – Part 9: Types of nodes. *The Alexandrian*. https://thealexandrian.net/wordpress/8049/roleplaying-games/node-based-scenario-design-part-9-types-of-nodes
+Alexander, J. (2011, October 17). Advanced node-based design – Part 5: The two prongs of mystery design. *The Alexandrian*. https://thealexandrian.net/wordpress/8202/roleplaying-games/advanced-node-based-design-part-5-the-two-prongs-of-mystery-design
 
 Alexander, J. (2011, October 3). Advanced node-based design – Part 1: Moving between nodes. *The Alexandrian*. https://thealexandrian.net/wordpress/8171/roleplaying-games/advanced-node-based-design-part-1-moving-between-nodes
-
-Alexander, J. (2011, October 17). Advanced node-based design – Part 5: The two prongs of mystery design. *The Alexandrian*. https://thealexandrian.net/wordpress/8202/roleplaying-games/advanced-node-based-design-part-5-the-two-prongs-of-mystery-design
 
 Alexander, J. (2012, April 2). Game structures. *The Alexandrian*. https://thealexandrian.net/wordpress/15126/roleplaying-games/game-structures
 
@@ -1492,7 +1494,7 @@ Alexander, J. (2018, May 26). Smart prep. *The Alexandrian*. https://thealexandr
 
 Alexander, J. (2018, October 29). Using revelation lists. *The Alexandrian*. https://thealexandrian.net/wordpress/40978/roleplaying-games/random-gm-tip-using-revelation-lists
 
-Alexander, J. (2020, October 9). The secret life of nodes. *The Alexandrian*. https://thealexandrian.net/wordpress/45263/roleplaying-games/the-secret-life-of-nodes
+Alexander, J. (2020, November 4). The secret life of nodes – Part 5: Naturalistic node design. *The Alexandrian*. https://thealexandrian.net/wordpress/45283/roleplaying-games/the-secret-life-of-nodes-part-5-naturalistic-node-design
 
 Alexander, J. (2020, October 14). The secret life of nodes – Part 2: Node-based campaigns. *The Alexandrian*. https://thealexandrian.net/wordpress/45268/roleplaying-games/the-secret-life-of-nodes-part-2-node-based-campaigns
 
@@ -1500,17 +1502,29 @@ Alexander, J. (2020, October 21). The secret life of nodes – Part 3: Fractal n
 
 Alexander, J. (2020, October 28). The secret life of nodes – Part 4: Nodes aren’t everything. *The Alexandrian*. https://thealexandrian.net/wordpress/45278/roleplaying-games/the-secret-life-of-nodes-part-4-nodes-arent-everything
 
-Alexander, J. (2020, November 4). The secret life of nodes – Part 5: Naturalistic node design. *The Alexandrian*. https://thealexandrian.net/wordpress/45283/roleplaying-games/the-secret-life-of-nodes-part-5-naturalistic-node-design
+Alexander, J. (2020, October 9). The secret life of nodes. *The Alexandrian*. https://thealexandrian.net/wordpress/45263/roleplaying-games/the-secret-life-of-nodes
 
 Alexander, J. (2026, February 22). Is node-based design prepping a plot? *The Alexandrian*. https://thealexandrian.net/wordpress/53341/roleplaying-games/is-node-based-design-prepping-a-plot
 
 Appel, M., Malecki, W. P., Messingschlager, T. V., & Winkler, J. R. (2025). I, ChatGPT: linguistic properties and human experiences of human- versus AI-generated stories. *Humanities and Social Sciences Communications, 12*, 1892. https://doi.org/10.1057/s41599-025-06341-2
 
-Bellaiche, L., Shahi, R., Turpin, M. H., Ragnhildstveit, A., Sprockett, S., Barr, N., Christensen, A., & Seli, P. (2023). Humans versus AI: whether and why we prefer human-created compared to AI-created artwork. *Cognitive Research: Principles and Implications, 8*, 42. https://doi.org/10.1186/s41235
+Bai, Y., Lv, X., Zhang, J., Lyu, H., Tang, J., Huang, Z., Du, Z., Liu, X., Zeng, A., Hou, L., Dong, Y., Tang, J., & Li, J. (2024). LongBench: A bilingual, multitask benchmark for long context understanding. *Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)*, 3119–3137. https://doi.org/10.18653/v1/2024.acl-long.172
 
-Brown, J. (2000, September 21). Volunteer revolt. *Salon*. https://www.salon.com/2000/09/21/ultima_volunteers/-023-00499-6
+Bellaiche, L., Shahi, R., Turpin, M. H., Ragnhildstveit, A., Sprockett, S., Barr, N., Christensen, A., & Seli, P. (2023). Humans versus AI: whether and why we prefer human-created compared to AI-created artwork. *Cognitive Research: Principles and Implications, 8*, 42. https://doi.org/10.1186/s41235-023-00499-6
+
+Brown, J. (2000, September 21). Volunteer revolt. *Salon*. https://www.salon.com/2000/09/21/ultima_volunteers/
+
+Burgess, J., & Jones, C. M. (2023). Exploring how players use emergent narrative in strategy games. *Entertainment Computing, 44*, 100533. https://doi.org/10.1016/j.entcom.2022.100533
+
+Buschman, T. J. (2021). Balancing flexibility and interference in working memory. *Annual Review of Vision Science, 7*, 367–388. https://doi.org/10.1146/annurev-vision-100419-104831
+
+Carlini, N., Tramèr, F., Wallace, E., Jagielski, M., Herbert-Voss, A., Lee, K., Roberts, A., Brown, T., Song, D., Erlingsson, Ú., Oprea, A., & Raffel, C. (2021). Extracting training data from large language models. *Proceedings of the 30th USENIX Security Symposium*. https://www.usenix.org/conference/usenixsecurity21/presentation/carlini-extracting
+
+Chang, K. K., Cramer, M., Soni, S., & Bamman, D. (2023). Speak, memory: An archaeology of books known to ChatGPT/GPT-4. *Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing*, 7312–7327. https://doi.org/10.18653/v1/2023.emnlp-main.453
 
 Chen, S., Nelson, M. J., & Mateas, M. (2009). Evaluating the authorial leverage of drama management. *Proceedings of the AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment, 5*(1). https://doi.org/10.1609/aiide.v5i1.12377
+
+Cowan, N. (2001). The magical number 4 in short-term memory: A reconsideration of mental storage capacity. *Behavioral and Brain Sciences, 24*(1), 87–114. https://doi.org/10.1017/S0140525X01003922
 
 Day, T., & Zhu, J. (2017). Agency informing techniques: Communicating player agency in interactive narratives. *Proceedings of the International Conference on the Foundations of Digital Games (FDG '17)*, Article 56, 1–4. https://doi.org/10.1145/3102071.3106363
 
@@ -1524,11 +1538,17 @@ Fisher, M. (2022). Narrative planning in large domains through state abstraction
 
 Gao, L., Madaan, A., Zhou, S., Alon, U., Liu, P., Yang, Y., Callan, J., & Neubig, G. (2023). PAL: Program-aided language models. *Proceedings of the 40th International Conference on Machine Learning, 202*, 10764–10799. https://proceedings.mlr.press/v202/gao23f.html
 
-Hammond, S., Pain, H., & Smith, T. J. (2007). Player Agency in Interactive Narrative: Audience, Actor & Author. In *Proceedings of AISB '07: Artificial and Ambient Intelligence* (pp. 386–393).
+Greenberg, D. L., & Verfaellie, M. (2010). Interdependence of episodic and semantic memory: Evidence from neuropsychology. *Journal of the International Neuropsychological Society, 16*(5), 748–753. https://doi.org/10.1017/S1355617710000676
+
+Grinblat, J., Manning, C., & Kreminski, M. (2021). Emergent narrative and reparative play. In *Interactive Storytelling* (pp. 208–216). Springer. https://doi.org/10.1007/978-3-030-92300-6_19
+
+Hammond, S., Pain, H., & Smith, T. J. (2007). Player Agency in Interactive Narrative: Audience, Actor & Author. In *Proceedings of AISB '07: Artificial and Ambient Intelligence* (pp. 386–393). https://ualresearchonline.arts.ac.uk/id/eprint/21210/
 
 Hayton, T., Porteous, J., Ferreira, J., & Lindsay, A. (2020). Narrative planning model acquisition from text summaries and descriptions. *Proceedings of the AAAI Conference on Artificial Intelligence, 34*(02), 1709–1716. https://doi.org/10.1609/aaai.v34i02.5534
 
 Hogan, D. P., & Brennen, A. (2024). Open-ended wargames with large language models. *arXiv preprint arXiv:2404.11446*. https://doi.org/10.48550/arXiv.2404.11446
+
+Hsieh, C.-P., Sun, S., Kriman, S., Acharya, S., Rekesh, D., Jia, F., Zhang, Y., & Ginsburg, B. (2024). RULER: What's the real context size of your long-context language models? *arXiv preprint arXiv:2404.06654*. https://arxiv.org/abs/2404.06654
 
 Hu, S., Huang, T., Liu, G., Kompella, R. R., Ilhan, F., Tekin, S. F., Xu, Y., Yahn, Z., & Liu, L. (2024). A survey on large language model-based game agents. *arXiv preprint arXiv:2404.02039*. https://doi.org/10.48550/arXiv.2404.02039
 
@@ -1536,11 +1556,19 @@ Iovino, M., Scukins, E., Styrud, J., Ögren, P., & Smith, C. (2022). A survey of
 
 Jenkins, H. (2004). Game design as narrative architecture. *Electronic Book Review*. https://electronicbookreview.com/publications/game-design-as-narrative-architecture/
 
+Johnson, M. K., Hashtroudi, S., & Lindsay, D. S. (1993). Source monitoring. *Psychological Bulletin, 114*(1), 3–28. https://doi.org/10.1037/0033-2909.114.1.3
+
+Johnson-Bey, S., Nelson, M. J., & Mateas, M. (2022). Neighborly: A sandbox for simulation-based emergent narrative. *2022 IEEE Conference on Games (CoG)*, 425–432. https://doi.org/10.1109/CoG51982.2022.9893631
+
 Jones, J. D. (2022). Authorial Burden. In C. Hargood, D. E. Millard, A. Mitchell, & U. Spierling (Eds.), *The Authoring Problem: Challenges in Supporting Authoring for Interactive Digital Narratives* (pp. 47–63). Springer International Publishing. https://doi.org/10.1007/978-3-031-05214-9_4
 
 Jones, J. D., & Millard, D. E. (2024). Experiencing The Authorial Burden. In *Proceedings of the 35th ACM Conference on Hypertext and Social Media (HT '24)* (pp. 78–87). Association for Computing Machinery. https://doi.org/10.1145/3648188.3675134
 
+Juul, J. (2002). The open and the closed: Games of emergence and games of progression. In F. Mäyrä (Ed.), *Computer Games and Digital Cultures Conference Proceedings* (pp. 323–329). Tampere University Press. https://doi.org/10.26503/dl.v2002i1.9
+
 Kambhampati, S., Valmeekam, K., Guan, L., Verma, M., Stechly, K., Bhambri, S., Saldyt, L. P., & Murthy, A. B. (2024). Position: LLMs can’t plan, but can help planning in LLM-Modulo frameworks. *Proceedings of the 41st International Conference on Machine Learning, 235*, 22895–22907. https://proceedings.mlr.press/v235/kambhampati24a.html
+
+Liu, N. F., Lin, K., Hewitt, J., Paranjape, A., Bevilacqua, M., Petroni, F., & Liang, P. (2024). Lost in the middle: How language models use long contexts. *Transactions of the Association for Computational Linguistics, 12*, 157–173. https://doi.org/10.1162/tacl_a_00638
 
 Louchart, S., & Aylett, R. (2003). Solving the Narrative Paradox in VEs—Lessons from RPGs. In *Intelligent Virtual Agents 2003* (pp. 244–248). Springer. https://doi.org/10.1007/978-3-540-39396-2_41
 
@@ -1554,25 +1582,45 @@ Mateas, M., & Stern, A. (2005). Structuring content in the Façade interactive d
 
 Nelson, M. J., Ashmore, C., & Mateas, M. (2006). Authoring an interactive narrative with declarative optimization-based drama management. *Proceedings of the AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment, 2*(1). https://doi.org/10.1609/aiide.v2i1.18761
 
+Oberauer, K., Farrell, S., Jarrold, C., & Lewandowsky, S. (2016). What limits working memory capacity? *Psychological Bulletin, 142*(7), 758–799. https://doi.org/10.1037/bul0000046
+
+Packer, C., Wooders, S., Lin, K., Fang, V., Patil, S. G., Stoica, I., & Gonzalez, J. E. (2023). MemGPT: Towards LLMs as operating systems. *arXiv preprint arXiv:2310.08560*. https://arxiv.org/abs/2310.08560
+
 Park, A. (2003, April 14). Asheron's Call. *GameSpot*. https://www.gamespot.com/articles/asherons-call/1100-2655688/
 
 Park, J. S., O'Brien, J. C., Cai, C. J., Morris, M. R., Liang, P., & Bernstein, M. S. (2023). Generative agents: Interactive simulacra of human behavior. *Proceedings of the 36th Annual ACM Symposium on User Interface Software and Technology*, Article 2, 1–22. https://doi.org/10.1145/3586183.3606763
 
 Porteous, J., Ferreira, J. F., Lindsay, A., & Cavazza, M. (2021). Automated narrative planning model extension. *Autonomous Agents and Multi-Agent Systems, 35*(2), Article 19. https://doi.org/10.1007/s10458-021-09501-1
 
+PostgreSQL Global Development Group. (n.d.-a). Database page layout. *PostgreSQL Documentation*. https://www.postgresql.org/docs/current/storage-page-layout.html
+
+PostgreSQL Global Development Group. (n.d.-b). TOAST. *PostgreSQL Documentation*. https://www.postgresql.org/docs/current/storage-toast.html
+
 Raffloer, G., & Green, M. C. (2025). Of love & lasers: Perceptions of narratives by AI versus human authors. *Computers in Human Behavior: Artificial Humans, 5*, 100168. https://doi.org/10.1016/j.chbah.2025.100168
+
+Reab v. Electronic Arts, Inc., 214 F.R.D. 623 (D. Colo. 2002). https://calculators.law/caselaw/decisions/5qJNjDQ68kap/reab-v-electronic-arts-inc
 
 Riedl, M. O., & Bulitko, V. (2013). Interactive narrative: An intelligent systems approach. *AI Magazine, 34*(1), 67–77. https://doi.org/10.1609/aimag.v34i1.2449
 
 Rowe, J. P., & Lester, J. C. (2013). A modular reinforcement learning framework for interactive narrative planning. *Proceedings of the AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment, 9*(4). https://doi.org/10.1609/aiide.v9i4.12636
 
-Sears, S., & Weisberg, D. S. (2026). Bot or not: Can people tell the difference between stories written by a human or by an AI system? *Judgment and Decision Making, 21*, e21. https://doi.org/10.1017/jdm.2026.10042
+Ryan, J. (2018). *Curating simulated storyworlds* [Doctoral dissertation, University of California, Santa Cruz]. eScholarship. https://escholarship.org/uc/item/1340j5h2
 
-Short, E. (2019, November 29). Storylets: You want them. *Emily Short's Interactive Storytelling*. https://emshort.blog/2019/11/29/storylets-you-want-them/
+Schacter, D. L. (2012). Constructive memory: Past and future. *Dialogues in Clinical Neuroscience, 14*(1), 7–18. https://doi.org/10.31887/DCNS.2012.14.1/dschacter
+
+Schacter, D. L., & Addis, D. R. (2007). The cognitive neuroscience of constructive memory: Remembering the past and imagining the future. *Philosophical Transactions of the Royal Society B: Biological Sciences, 362*(1481), 773–786. https://doi.org/10.1098/rstb.2007.2087
+
+Sears, S., & Weisberg, D. S. (2026). Bot or not: Can people tell the difference between stories written by a human or by an AI system? *Judgment and Decision Making, 21*, e21. https://doi.org/10.1017/jdm.2026.10042
 
 Short, E. (2019, December 3). Storylets play together. *Emily Short's Interactive Storytelling*. https://emshort.blog/2019/12/03/storylets-play-together/
 
+Short, E. (2019, November 29). Storylets: You want them. *Emily Short's Interactive Storytelling*. https://emshort.blog/2019/11/29/storylets-you-want-them/
+
+Soler-Adillon, J. (2019). The open, the closed and the emergent: Theorizing emergence for videogame studies. *Game Studies, 19*(2). https://gamestudies.org/1902/articles/soleradillon
+
 Sourati, Z., Karimi-Malekabadi, F., Ozcan, M., McDaniel, C., Ziabari, A., Trager, J., Tak, A. N., Chen, M., Morstatter, F., & Dehghani, M. (2026). The shrinking landscape of linguistic diversity in the age of large language models. *Nature Human Behaviour*. https://doi.org/10.1038/s41562-026-02550-0
+
+SQLite. (n.d.). Database file format. *SQLite Documentation*. https://www.sqlite.org/fileformat.html
 
 Stang, S. (2019). “This Action Will Have Consequences”: Interactivity and Player Agency. *Game Studies, 19*(1). https://gamestudies.org/1901/articles/stang
 
@@ -1586,8 +1634,12 @@ Thue, D., Bulitko, V., Spetch, M., & Romanuik, T. (2011). A Computational Model 
 
 Tian, Y., Huang, T., Liu, M., Jiang, D., Spangher, A., Chen, M., May, J., & Peng, N. (2024). Are Large Language Models Capable of Generating Human-Level Narratives? *Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing*, 17659–17681. https://doi.org/10.18653/v1/2024.emnlp-main.978
 
+Tulving, E. (2002). Episodic memory: From mind to brain. *Annual Review of Psychology, 53*, 1–25. https://doi.org/10.1146/annurev.psych.53.100901.135114
+
 Wang, D., Huang, D., Shen, H., & Uzzi, B. (2026). A large-scale comparison of divergent creativity in humans and large language models. *Nature Human Behaviour, 10*, 531–540. https://doi.org/10.1038/s41562-025-02331-1
 
 Williams, S. (2009, August 4). Another perspective on live content. *MMORPG.com*. https://www.mmorpg.com/editorials/another-perspective-on-live-content-2000117156
+
+Wu, D., Wang, H., Yu, W., Zhang, Y., Chang, K.-W., & Yu, D. (2025). LongMemEval: Benchmarking chat assistants on long-term interactive memory. *Proceedings of the International Conference on Learning Representations (ICLR 2025)*. https://proceedings.iclr.cc/paper_files/paper/2025/hash/d813d324dbf0598bbdc9c8e79740ed01-Abstract-Conference.html
 
 Xu, W., Jojic, N., Rao, S., Brockett, C., & Dolan, B. (2025). Echoes in AI: Quantifying lack of plot diversity in LLM outputs. *Proceedings of the National Academy of Sciences, 122*(35), e2504966122. https://doi.org/10.1073/pnas.2504966122
