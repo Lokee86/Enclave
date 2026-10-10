@@ -337,7 +337,7 @@
   - generate natural dialogue and responses.
 - They can operate both as **actors within the world** and as **situational interpreters or overseers**.
 - Unlike human GMs, they can potentially perform these operations concurrently and continuously at computational scale.
-- This removes much of the historical labour constraint on broad interpretation.
+- This substantially reduces historical computational constraints on broader interpretation and lowers the cognitive and authorial burden of explicitly enumerating branching narrative outcomes.
 - **Support:** Park et al. (2023); Hu et al. (2024/2026); Hogan & Brennen (2024); Tian et al. (2024) as secondary support for local generative competence.
 
 ## 5. The Agency–Persistence Gap
